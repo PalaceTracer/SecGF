@@ -11,9 +11,9 @@ output_influence: style
 
 The user's existing lyric generator supplies finished words. This guide designs the *audible recording*: pulse, low-end behavior, harmonic motion, sound-source roles, vocal performance, section arc, and production image. It does not rewrite lyrics to solve an arrangement problem. Dense lines may instead call for leaner accompaniment, clearer phrasing, or a different vocal register.
 
-The deliverable is one self-contained **Style of Music** paragraph. Select what makes this recording different, with no fixed sentence count or concluding category. Aim for 850–950 characters under the user's observed 1,000-character ceiling. That ceiling is a user-reported workflow constraint, not a limit verified in the Suno documentation cited here.
+The deliverable is one self-contained **Style of Music** paragraph. Select what makes this recording different, with no fixed sentence count or concluding category. Keep it within the user's observed 1,000-character target and verify its exact length. That target is a user-reported workflow constraint, not a limit verified in the Suno documentation cited here.
 
-This architecture describes sounds and behaviors. Translate any conversational reference into audible properties, such as “short, hard-edged chord attacks alternating with a sustained upper note.” The cases use no performer, recording, category, demographic, or origin shorthand.
+This architecture describes sounds and behaviors. Translate any conversational reference into audible properties, such as “short, hard-edged chord attacks alternating with a sustained upper note.” The cases use no named performer or work as a substitute for those properties.
 
 ## What goes in each field
 
@@ -22,9 +22,9 @@ In Suno's [Custom mode instructions](https://help.suno.com/en/articles/2415873),
 | Destination | Put here | Keep out |
 | --- | --- | --- |
 | **Lyrics** | Finished words and section labels. | Production prose. |
-| **Style of Music** | Desired arrangement, performance, and sound. | Lyrics, rationale, prohibitions. |
+| **Style of Music** | Desired arrangement, performance, and sound. | Lyrics, title, prohibitions. |
 | **Exclude** | Unwanted elements, if any. | The main positive sound design. |
-| **Project notes** | Rationale, count, settings, and tests. | Text requiring deletion before pasting Style. |
+| **Project notes** | Internal attribute rationale, count, settings, and later test results. | Text requiring deletion before pasting Style. |
 
 The [Exclude help page](https://help.suno.com/en/articles/3161921) places unwanted elements under Advanced Options. Use it for a real prohibition, such as “no backing choir” when one exposed lead is essential. Leave it empty otherwise; its effectiveness must be heard, not assumed.
 
@@ -49,7 +49,7 @@ For example, a close lead above a wide chord bed may improve word intelligibilit
 
 ## Response contract and initial test setting
 
-Return five separately labeled parts: **STYLE OF MUSIC** (paste-ready text only), **CHARACTER COUNT** (actual count of the Style text including spaces and punctuation, or “unverified”), **EXCLUDE** (short field or “none”), **ATTRIBUTE RATIONALE** (the two or three decisions that matter most), and **NEXT LISTENING TEST** (one predicted audible feature and the smallest change if absent). Never include those labels inside the Style paragraph. Count after every edit, using the exact text to be pasted; do not count Markdown fences or surrounding quotation marks.
+Return four separately labeled parts: **STYLE OF MUSIC** (paste-ready text only), **CHARACTER COUNT** (exact count of the Style text including spaces and punctuation, verified with a counting tool), **EXCLUDE** (short field or “none”), and **SONG TITLE** (a brief track name derived from the lyric and internal attribute rationale). Do not print the rationale or a listening-test field. Never include those labels inside the Style paragraph. Count after every edit, using the exact text to be pasted; do not count Markdown fences or surrounding quotation marks.
 
 For a wording test, hold lyrics, model, controls, and references fixed; use Variety 0 where available and log Style Influence and Audio Influence. Suno's [Song Editor](https://help.suno.com/en/articles/6141505) documents section replacement, lyric edits, extensions, and fades. Repair one weak section locally if the rest of a take works.
 
