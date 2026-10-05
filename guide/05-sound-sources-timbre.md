@@ -1,6 +1,6 @@
 ---
 chapter_id: "05"
-retrieval_tags: [instrument_roles, timbre, sound_sources, attack, decay, sustain, release, articulation, filtering, modulation, noise, layering, spectral_balance]
+retrieval_tags: [instrument_roles, timbre, sound_sources, attack, decay, sustain, release, articulation, filtering, modulation, noise, layering, hook_handoff, acoustic_electronic, spectral_balance]
 use_when: "Read when selecting a few defining sound sources or turning vague texture words into audible timbre and arrangement instructions."
 output_influence: style
 ---
@@ -13,11 +13,13 @@ A Style field cannot carry an inventory of every sound. Decide what each needed 
 
 Separate **source identity** from **timbre** and **part behavior**. A keyboard source may have a rounded, sustained tone or a bright, short one; the same nominal source can occupy foreground or background. A guitar-like source can strum chords, play short single notes, sustain a line, scrape rhythmically, or create noise. The Style prompt should carry the smallest combination that prevents an unwanted substitution: source family, audible tone, role, and timing. A sound that has no clear job in the listener’s mental image probably does not deserve prompt space.
 
+Written reference prompts offer possible relationships, not a required palette. A useful transfer might be an acoustic attack against an electronic sustain, a short hook answered by a longer tone, or a melody passed between sources at a lyric return. Select the relationship because it serves this song. Exact instruments, tunings, model names, frequency bands, and processing settings in a reference are conditional choices. A liked prompt does not establish which of its requests appeared in the recording or which detail the user enjoyed.
+
 ## The four audible parts of a note
 
 **Attack** is the start of a sound: abrupt, soft, picked, struck, breathy, bowed, or swelling. **Decay** is what happens after the initial peak. **Sustain** is the level and tone held while the note continues. **Release** is the tail after the note ends. This envelope distinguishes a clicky pluck from a slowly swelling pad even at the same pitch. The [Live 12 manual](https://www.ableton.com/en/live-manual/12/live-instrument-reference/) defines these stages operationally. A [controlled timbre study](https://pmc.ncbi.nlm.nih.gov/articles/PMC5698532/) manipulated attack and release information during source identification, showing that temporal envelope is one contributor to recognizing a sound; it does not reduce all source identity to the envelope alone.
 
-For Style, describe the listener’s experience instead of numbers: “quick attack and short decay,” “rounded onset with a long, airy tail,” “soft swell that blooms after the lead phrase.” A transient can supply rhythm even when the note is harmonically simple. A sustained sound can provide continuity without frequent attacks. The selected envelope should fit the lyric: short plucks may leave consonants exposed; long tails may support held vowels but blur fast speech if placed in the same range.
+For Style, describe the listener’s experience instead of numbers: “quick attack and short decay,” “rounded onset with a long, airy tail,” “soft swell that blooms after the lead phrase.” A transient can supply rhythm even when the note is harmonically simple. A sustained sound can provide continuity without frequent attacks. The selected envelope should fit the lyric: short plucks may leave consonants exposed; long tails may support held vowels but crowd fast sung syllables if placed in the same range.
 
 **Articulation** concerns how one note connects to the next. Detached notes leave gaps; connected notes form a line. Muted attacks emphasize rhythm over ring. A tremoring or repeated articulation adds activity without changing pitch. Do not infer articulation from source name. “Muted, sharply cut chord strokes” and “slowly connected chord tones” are distinct even if both use the same instrument family.
 
@@ -29,9 +31,26 @@ A filter can attenuate parts of a spectrum; a moving filter can make a held soun
 
 **Warm**, **thick**, **shimmering**, and **vintage** are underspecified by themselves. Translate them. Warm might mean soft attacks and low-mid weight, or gentle saturation, or muted upper content; choose the intended cause. Thick might mean a doubled line, close chord spacing, heavy bass, or long overlapping releases. Shimmering might mean bright sustained high partials with slow movement. Do not force every sound to share one adjective. Contrast gives hierarchy: a dry attack can sit in front of a long diffuse layer, and a dark bass can support a bright short hook.
 
+## Translate processing into a perceptible job
+
+Choose a target source, an audible change, and a location before naming a treatment. A device list spends characters without establishing what remains clear or what changes. The following are original prompt hypotheses, not promises that Suno will instantiate a particular processor.
+
+| Reference shorthand | Operational choice | Compact candidate wording |
+| --- | --- | --- |
+| Named electric-piano or organ model | Short rounded chord attack versus a hollow sustained chord; foreground versus backing | “Rounded keyboard stabs answer the lead endings.” |
+| Bitcrushed texture | A deliberately coarse digital edge on one fill or hook layer | “Brief coarse digital fills occupy the gaps between clean sung lines.” |
+| Saturated texture | A roughened body or compressed attack on a selected source | “The guitar gains a gritty sustained edge on the refrain while the lead stays clear.” |
+| Low-pass automation | A specific source becomes duller or brighter across a transition | “The held synth chord gradually opens brighter before the return.” |
+| Slap or rhythmic delay | A short echo thickens an attack, or distinct repeats answer a gap | “One dark echo answers the final sung word after the lead releases.” |
+| Named plate or hall | Short vocal ambience versus a long distant backing tail | “Close dry lead above distant chords with long quiet decay.” |
+
+Keep a technique label when it concisely names an essential texture; pair it with its source and role. Exact delay fractions or settings belong only when the current brief makes that rhythm decisive. Distortion across the whole recording, simultaneous bright fills under dense sung words, and long echoes on every line are separate design decisions; they do not follow automatically from choosing one processed source. Before a requested complete silence, decide whether effect tails also stop. A cut in note attacks with echoes still ringing is a different event.
+
 ## Acoustic, electric, sampled, and synthesized behavior
 
 These source families describe production possibilities, not fixed emotional properties. A physically excited source may show tiny variation from one strike to another; a sample may repeat exactly or be deliberately varied; a synthesized tone can be static or highly modulated. A text prompt should describe what is audible: “slight variation in repeated upper attacks,” “identical crisp low hits,” “sustained tone with slow brightness movement.” It should not use “organic” as a substitute for timing, tone, and dynamics.
+
+For acoustic/electronic coexistence, assign complementary jobs. A picked string can mark the offbeats while a smooth low synth holds the foundation; an acoustic chord can expose the opening while an electronic layer carries the same harmony at the return. Another option gives the acoustic source the hook and uses electronics only for transitions. Choose one relation that can be heard. Do not make both families compete for every chord, attack, and lead answer simply to demonstrate a hybrid. If the lyric is dense, put busy acoustic grain or digital fills in the gaps and keep the central sung melody exposed.
 
 ## Roles and interaction map
 
@@ -46,15 +65,28 @@ These source families describe production possibilities, not fixed emotional pro
 
 ## Density, register, and layers
 
-**Layer count** is distinct from perceptual density. Two long overlapping sounds can fill more space than five short punctuations. Density rises with overlapping durations, similar registers, repeated attacks, and reverb tails. To protect a vocal, limit concurrency in its register and phrase spaces rather than simply reducing all volume. A low bass, high accent, and midrange lead can coexist more clearly than three simultaneous midrange melodies. This is a practical arrangement heuristic; verify it on the actual render.
+**Layer count** is distinct from perceptual density. Two long overlapping sounds can fill more space than five short punctuations. Density rises with overlapping durations, similar registers, repeated attacks, and reverb tails. To protect a vocal, limit concurrency in its register and phrase spaces rather than simply reducing all volume. A low bass, high accent, and midrange lead can coexist more clearly than three simultaneous midrange melodies. This is a practical arrangement heuristic; the user can later verify it in a generated result. The songwriter has only written inputs.
 
 **Register handoff** is a useful alternative to piling up layers. A high figure can disappear when the lead moves high, then return when the voice descends. A low pad can recede when bass becomes active. “The high pluck answers only in vocal gaps” encodes this as an audible arrangement rule. If the prompt budget is tight, one such interaction outranks a long list of source names.
 
-## Original prompt fragments and audible tests
+## Hook carrier, handoff, and doubling
 
-These fragments are proposed instructions to test through listening; they are not official Suno syntax.
+Distinguish three arrangements. A **reply** adds a figure after a lead phrase. A **handoff** gives an established melody to a different source while its first carrier rests. A **double** plays the same melodic contour together with the carrier. Identify the motif by contour or rhythm so recognition survives a timbre change. These options are selectable; the new song does not need all three.
 
-| Intent | Candidate Style fragment | Listen for |
+| Choice | Original design move | What stays recognizable |
+| --- | --- | --- |
+| Reply | “A bowed two-note answer waits until each verse line ends.” | Answer contour and gap placement. |
+| Handoff | “The opening plucked figure returns on a soft synth at the lyric's repeated line.” | Figure's rhythm and pitch shape; source changes. |
+| Double | “A restrained guitar doubles the held refrain melody, then rests for the next verse.” | Sung hook remains foreground; reinforcement is local. |
+| Envelope development | “The same clipped keyboard motif lengthens into ringing notes on the return.” | Carrier and motif remain; note duration changes. |
+
+A wordless processed vocal can occupy the hook or answer role when the brief requests it; keep it distinct from the intelligible sung lead. Source handoff is especially useful when another layer would overload the lead register. Doubling may supply emphasis, but its first statement can remain exposed. State which source yields space rather than asking every layer to be prominent.
+
+## Original prompt fragments and intended results
+
+These fragments describe intended results; they are not official Suno syntax or claims about generated audio. The songwriter never hears generated files.
+
+| Intent | Candidate Style fragment | Intended audible result |
 | --- | --- | --- |
 | Exposed words | “Clipped midrange chord strokes stop between dense lead phrases.” | Chords leave actual gaps and consonants remain clear. |
 | Recognizable opening | “A dry, glassy three-note figure appears before the first vocal and answers later lines.” | Same figure returns after its opening statement. |
@@ -63,9 +95,10 @@ These fragments are proposed instructions to test through listening; they are no
 | Contrasting surfaces | “Rough short chord attacks sit beneath a smooth, airy sustained layer.” | Distinct foreground and background textures. |
 | Cleaner lyric space | “Bass and dry pulse stay low; high accents occur only after line endings.” | The lead has an uncluttered middle register. |
 
-To test a timbre description, replay the first appearance of the target sound and note its onset, body, tail, register, and role. Ask whether the described feature is audible without reading the prompt. If the take substitutes another source but preserves the needed role and timbre, it may still satisfy the song. If source identity is the point, say so in the next prompt. The response should separate “did not generate the requested instrument” from “did not generate the requested effect.”
+For the user’s later listening check, replay the first appearance of the target sound and note its onset, body, tail, register, and role. Ask whether the described feature is audible without reading the prompt. If the take substitutes another source but preserves the needed role and timbre, it may still satisfy the song. If source identity is the point, say so in the next prompt. The user’s later evaluation note should separate “did not generate the requested instrument” from “did not generate the requested effect.”
 
-## Failure diagnosis and smallest revision
+## User's later failure diagnosis and smallest revision
+
+This section is for the user after generation, not for the Grok songwriter.
 
 If the result is **muddy**, identify whether overlapping tails, crowded midrange, or excessive low sustain is responsible. Revise the relevant part: “shorter chord decay under the lead” is a clearer next move than “better mix.” If it is **thin**, add body to one core source or let a chord sustain longer before adding several new layers. If the **hook is buried**, move its carrier to a separate register or remove a simultaneous competing line. If the **texture never develops**, change one existing source’s envelope or register at a section boundary. If the **generated source is wrong**, specify an audible source family and its role together. If the **sound is too synthetic or too variable**, name the exact feature—repetition, attack variation, noise, sustain movement—that should change.
-

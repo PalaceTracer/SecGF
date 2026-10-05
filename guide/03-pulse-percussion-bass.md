@@ -1,6 +1,6 @@
 ---
 chapter_id: "03"
-retrieval_tags: [pulse, perceived_speed, meter, subdivision, syncopation, percussion, kick, snare, hats, bass, groove, low_end, microtiming]
+retrieval_tags: [pulse, perceived_speed, meter, subdivision, syncopation, percussion, kick, snare, hats, bass, groove, low_end, microtiming, envelope, half-time, break, riser, silence]
 use_when: "Read when the desired movement, drum behavior, or bass relationship must be decided or corrected."
 output_influence: style
 ---
@@ -15,9 +15,11 @@ Describe how the recording moves, not merely how many beats it has per minute. A
 
 **Pulse** is the recurring beat a listener could tap. **Tempo** describes the rate of that pulse. **Perceived speed** also depends on the rate and force of the attacks inside each beat, phrase length, bass note duration, and the placement of backbeats. A track at a fixed tempo can feel broad when the kick and snare state large intervals while a sustained bass spans them; it can feel urgent when short hats and bass notes mark subdivisions. Do not infer tempo from how many syllables the lyric contains. A dense line can be delivered rapidly over a broad pulse, while a sparse line can float across an active pattern.
 
-If exact BPM is supplied by the user or existing audio, preserve it. If not, choose a verbal range that conveys motion: “unhurried, weighty pulse”; “brisk pulse with short, even subdivisions”; “moderate pace with an expansive half-time backbeat.” An invented number implies precision the evidence does not justify. If the model later yields a useful track at a different number, evaluate whether the musical movement works before correcting the number.
+Use exact BPM when the current user brief supplies it or when a precise rate is musically decisive. A number in an enjoyed reference describes that example and does not set this song's tempo. Otherwise choose a verbal range that conveys motion: “unhurried, weighty pulse”; “brisk pulse with short, even subdivisions”; “moderate pace with an expansive half-time backbeat.” An invented number implies precision the evidence does not justify. The songwriter never receives audio to measure tempo. The user can assess a generated recording's movement in a separate listening stage.
 
 The apparent **half-time** or **double-time** relationship is a perception of accent spacing, not necessarily a tempo change. “Fast small percussion over a broad half-time snare” tells the generator which layer carries urgency and which layer carries weight. “Double-time feel” without a layer named can produce wholesale speeding. Ask which body movement should dominate: head nod, quick step, long sway, or continuous drive. That is an internal diagnostic, not a phrase that must be pasted into Style.
+
+An **every-beat kick** gives a low anchor on each beat; a **half-time backbeat** spreads the strong counter-accent across a broader interval. These can appear in alternating sections at one tempo, or coexist when their roles are clear. Name the change in perceived weight rather than importing a genre label from a reference: “The verse keeps spacious kick placements and a broad snare; the refrain puts a firm kick on every beat while its upper subdivisions stay brisk.” Choose this contrast only when the lyric's arrival benefits from it. A long narrative verse can also use every-beat anchors with thin accompaniment, and a refrain can retain broad accents.
 
 ## Meter, subdivision, and recurring placement
 
@@ -58,6 +60,34 @@ Bass connects rhythm and harmony. It can reinforce roots, trace a countermelody,
 
 **Kick–bass alignment** has several valid designs. They can strike together for a single large impact; the bass can arrive just before the kick to pull the phrase forward; it can enter after the kick to create a two-part motion; or it can fall in the spaces between kicks. Choose one dominant relation. Saying “syncopated bass over a steady kick” is useful when the rhythm must move without destabilizing the beat. Saying “kick and bass lock” is too vague if a particular pattern of exchange is crucial. Low-frequency overlap can obscure both elements; [iZotope’s engineering demonstration](https://www.izotope.com/community/blog/how-to-mix-kick-and-bass) illustrates why making room in frequency, duration, or arrangement can improve clarity. This is a design principle, not a claim that a text prompt gives surgical frequency control.
 
+## Low-end envelope: what begins and what remains
+
+Attack, sustain, and release describe different parts of the low-end motion. Decide which source announces the beat and which provides continuing weight. A round long sub can coexist with a short hard kick if its onset or level leaves room for the kick. A highly clipped bass can create audible pitch replies without sustaining the whole space. Saturation, compression, and a particular bass-source name do not themselves establish this relationship.
+
+| Design | Intended relationship | Original Style fragment |
+| --- | --- | --- |
+| Shared impact | Kick and low note begin together; low note has controlled duration | “Kick and bass strike the phrase landing together; bass ends before the next low attack.” |
+| Kick then sustain | Kick supplies the transient; bass blooms afterward | “A short kick opens each beat, followed by a smooth low swell.” |
+| Stable anchor and reply | Kick keeps its repeating pattern; bass occupies selected gaps | “Regular kicks hold the frame while clipped bass notes answer between vocal phrases.” |
+| Sustained low floor | Long note bridges sparse percussion; upper bass edge can supply definition | “One low note spans the line beneath sparse dry kicks.” |
+| Momentary low-end yielding | Sub level dips at the kick and returns afterward | “Sub briefly yields to each kick, then rises smoothly into the space after it.” |
+
+These are options. Every song does not need ducked sub, deep sustained bass, or a fixed low-frequency range. A short prompt can communicate an envelope without naming devices, exact compressor settings, or cutoff numbers. A technique supplied by the current brief may be retained when it adds useful precision; a device mentioned only in a liked prompt should be translated into perceptible behavior or omitted. Preserve vocal space: busy bass replies can wait for gaps rather than following every syllable.
+
+## Breaks, subdivision changes, and abrupt silence
+
+Use a transition to mark something in the finished lyric: a question ending, repeated vow, change of addressee, withheld answer, or last sung word. First identify the lyric event, then decide whether the arrangement needs anticipation, interruption, a weight change, or withdrawal. A reference's buildup/drop labels do not add those sections to a different lyric. A proposed instrumental break belongs in the private plan and can be named in Style when authorized by the current brief; leave the finished lyrics intact.
+
+**Subdivision change:** smaller attacks can become more frequent over the same large beat. “Upper ticks tighten toward the return while kick spacing stays fixed” separates felt tension from a tempo ramp. The reverse move can open room for a long sung vowel. Increasing attack rate on every layer can obscure the beat and text; assign the change to the layer doing the transition.
+
+**Riser or fill:** a short upward swell or tightening percussion figure can announce a return. Choose one clear function and end it before the new impact. “A thin rising noise ends at the cut” differs from “a drum fill carries through the entrance.” Neither is a universal requirement for an electronic passage. Use an exact subdivision such as sixteenths only when its rate matters enough to justify the detail.
+
+**Break:** removing drums can expose voice, acoustic grain, or the existing hook. Thin the support bed while retaining a definite verse melody in a sung song. Sparse backing does not require a spoken lead. A break can retain bass or residual room sound; name the surviving role when it makes the contrast work.
+
+**Micro-silence:** define its scope and location. An all-sound cut stops direct sources and effect tails; a percussion stop leaves the other material continuous. Put a brief gap after the lead's completed vowel if the word should remain intact. “Cut all layers for half a beat after the last word, then restore the low pulse beneath the hook” makes the interruption's duration and function clear. A beat fraction is a design choice, not a default or guaranteed sample-accurate control. Repeated cuts may fragment dense singing, so select a few meaningful locations.
+
+**Return:** decide what survives and what expands. The same pulse may return with longer bass notes, a higher hook carrier, wider chords, or more frequent light attacks. One decisive change can communicate an arrival. Do not prescribe all of them in every song. **Withdrawal:** removing attacks while a melody or chord sustains can provide an ending distinct from another large arrival; specify whether the last tail rings out or cuts.
+
 ## Diagnostic questions before compiling
 
 1. Can a listener tap a stable beat after two bars, or is ambiguity intentional?
@@ -68,12 +98,14 @@ Bass connects rhythm and harmony. It can reinforce roots, trace a countermelody,
 6. Should the bass sound primarily as weight, audible pitch, rhythmic edge, or melodic reply?
 7. Do kick and bass coincide, alternate, or overlap with a clear hierarchy?
 8. What exactly changes when the song reaches its largest section?
+9. Does a transition change beat rate, accent spacing, or only the smaller attacks?
+10. If there is a silence, which sources and tails stop, for how long, and after which completed lyric event?
 
 ## Prompt phrasing: from vague to audible
 
-The following are original, anonymous phrasing examples. They are **candidate instructions to test**, not verified Suno behavior.
+The following are original, anonymous phrasing examples. They describe intended audible results, not verified Suno behavior. The songwriter does not hear generated files.
 
-| Vague request | More testable Style fragment | What to listen for |
+| Vague request | More specific Style fragment | Intended audible result |
 | --- | --- | --- |
 | “Make it fast and powerful.” | “Brisk, even pulse; sparse low kick and hard backbeat under rapid, quiet hats.” | Strong large beats coexist with small high attacks. |
 | “Groovy bass.” | “Short, rounded bass notes answer the kick between downbeats.” | Bass entries fill gaps rather than duplicating the kick. |
@@ -81,10 +113,14 @@ The following are original, anonymous phrasing examples. They are **candidate in
 | “Big chorus.” | “Refrain widens with longer bass notes and denser hats; the core beat stays unchanged.” | Section changes in duration and density without speed drift. |
 | “Swinging beat.” | “Even kick anchors a lightly loping subdivision in the upper percussion.” | Unequal small-note spacing sits over a stable low pulse. |
 | “No clutter.” | “Dry kick and backbeat leave gaps around the lead’s dense lines.” | Words are clear and the percussion does not chatter through them. |
+| “Huge drop.” | “After the last sung vowel, a half-beat all-sound cut precedes the returning every-beat kick and doubled hook.” | Interrupted continuity makes a specific return conspicuous. |
+| “Fast verses.” | “Short syllabic notes follow a recurring pitched verse motif over broad drum accents.” | Vocal articulation is quick while the main rhythmic weight stays spacious; the verse remains sung. |
+| “Acoustic electronic blend.” | “Dry hand-played clicks mark the small pulse; a round low swell answers the electronic kick.” | Acoustic and electronic sources have distinct jobs within one groove. |
 
-## Listening tests and revision rules
+## User's later listening and revision
+
+This section is for the user after generation, not for the Grok songwriter. It does not change the four-field output contract.
 
 Use a short excerpt that includes one quiet passage and one arrival. First tap the beat without reading the prompt. Then mark every kick, backbeat, and bass entry for several cycles. The exact notation is less important than whether the pattern repeats intelligibly. Listen on both full-range playback and a phone speaker if the release is meant for short-form video: the low sub may change dramatically while upper bass articulation remains. Do not score the low end from phone playback alone.
 
 If the **pulse is unclear**, simplify the request to one recurring low anchor and one counter-accent; remove extra syncopation words. If the **track feels too hurried**, distinguish BPM from subdivisions: request fewer upper attacks or longer bass notes before lowering tempo. If the **track feels sluggish**, add a light subdivision or short bass articulation before raising BPM. If **kick and bass blur**, ask for separated attack roles or shorter bass decay. If **the refrain does not lift**, specify one concrete change in density, accent, or note length. If **the verse obscures lyrics**, subtract upper percussion or bass answers during dense lines. If the **groove feels stiff**, vary upper accents or note duration while retaining a stable beat. If it **wobbles**, remove broad “loose” wording and state which element stays exact.
-
