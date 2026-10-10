@@ -1,6 +1,6 @@
 ---
 chapter_id: "04"
-retrieval_tags: [harmony, harmonic_rhythm, chord_loop, pedal_tone, voicing, melody, contour, motif, hook, call_response, countermelody]
+retrieval_tags: [harmony, harmonic_rhythm, chord_loop, pedal_tone, voicing, melody, contour, motif, hook, call_response, countermelody, independent-motifs, phrase-led-entry, melodic-destination]
 use_when: "Read when choosing chord movement, melodic contour, hook function, or contrast between lyric sections."
 output_influence: style
 ---
@@ -47,6 +47,20 @@ A **hook** is the feature the listener can recall and locate. Specify its **carr
 
 ## Section contrast without arbitrary complexity
 
+### Independent melodic identities and phrase-led entry
+
+A vocal tune and an instrumental motif need not share every pitch or rhythm. A repeated guitar, piano or bass figure can be the continuity cue while the lead sings a separate contour. Decide which identity is foreground at each moment. Original hypothesis: “A short repeating guitar figure underpins the verse's independent stepwise tune; the figure recedes as the refrain holds longer notes.” The recession is a new arrangement proposal, not a presumed feature of a reference.
+
+Alternatively, let a meaningful finished phrase determine the first melodic entry: expose its tune early, then confirm the pulse with accompaniment. This does not require an unaccompanied opening or the insertion of new text. Phrase-first entry, instrumental prefiguration and delayed hook arrival are different choices. [Anonymous production evidence](../evaluation/PREFERENCE_ATTRIBUTE_ARCHITECTURE.md) documents examples of phrase-led writing and independent instrumental/vocal construction; it does not supply a tune to copy.
+
+### Reserve, expand or suspend the melodic destination
+
+Separate **pitch span**, **register**, **duration** and **projected force**. A refrain can widen intervals without getting louder, or hold a stressed vowel longer without climbing. A single late upper note can be reserved for an earned lyric destination; a continuously high tune has a different arc. Do not impose a narrow three-note verse on every song merely to guarantee singing. Specify definite pitch behavior with the range and motion this brief needs.
+
+For harmonic contrast, first ask whether a new chord, a changed chord duration, a different bass path or a new voicing is enough. Do not invent modulations to imply sophistication. If a source's chord changes need clarity, reduce a competing continuous wash or assign sharper chord attacks to one layer; atmospheric motion can remain elsewhere. A clear harmonic identity and a complex surrounding texture are separate variables.
+
+Original alternatives: “The refrain keeps its pitch range but doubles the final vowel's duration”; “One larger leap marks the repeated declaration before stepwise settling”; “The final thought ends suspended while the accompaniment withdraws.” These are selectable prompt hypotheses, not a mandated sequence or evidence of heard results.
+
 Contrast one dimension while preserving an anchor: held verse chords versus faster refrain changes, narrow verse contour versus a rise, or clipped verse chords versus a sustained refrain. [Berklee’s hook discussion](https://online.berklee.edu/takenote/how-to-write-songs-with-killer-hooks/) treats placement and contrast as useful songwriting choices. Specify which figure returns so sections still feel related.
 
 ## Diagnostic questions
@@ -59,11 +73,11 @@ Contrast one dimension while preserving an anchor: held verse chords versus fast
 6. Does any simultaneous counterline compete with dense syllables?
 7. What feature remains recognizable across sections?
 
-## Prompt phrasing and predicted listening results
+## Prompt phrasing and intended audible results
 
 These are original candidate fragments, not certified commands to a generator.
 
-| Weak wording | More diagnostic wording | Listen for |
+| Weak wording | More specific wording | Intended audible result |
 | --- | --- | --- |
 | “Simple but interesting chords.” | “A small repeating chord set stays steady while the bass changes its path.” | Harmonic stability with movement below it. |
 | “Emotional chorus.” | “Refrain melody rises beyond the verse’s narrow range and holds its last stressed word.” | A distinct melodic peak aligned to the lyric. |
@@ -72,7 +86,8 @@ These are original candidate fragments, not certified commands to a generator.
 | “Rich harmony.” | “Held, widely spaced chords open beneath the refrain; verse chords remain clipped and narrow.” | Contrast in voicing and duration. |
 | “An answering instrument.” | “Two bright plucked notes answer only after the lead finishes each line.” | Clear alternation rather than overlap. |
 
-## Revision after listening
+## User's later revision after listening
+
+This section is for the user after generation; the Grok songwriter does not hear the generated song.
 
 If harmony wanders, state a returning center or smaller chord set. If it stagnates, change chord duration, bass motion, or voicing before adding many chords. If the lead has no peak, place one long note or leap at a lyric stress. If the hook disappears, request the same short figure on each return. If it masks words, move its answer into vocal gaps.
-

@@ -49,6 +49,24 @@ A syllabic verse gives most syllables one note; its tune can be narrow, quick, a
 
 These are original design moves, not a required three-note formula. Select the contour, phrase span, or sustained destination that fits the actual text. The user's reported unwanted spoken result followed a prompt that explicitly selected an almost-spoken line. That report supports removing the speech cue; it does not prove that one replacement phrase will always produce singing.
 
+## Force, register and melodic duration are independent
+
+A softer verse can retain a full clear pitched core. A more emotional refrain need not be maximal belting: it may change duration, interval span, onset or phrasing instead. A thin/light tone and an active backing can coexist if the foreground is protected. Treat “brighter,” “stronger,” “higher” and “longer” as separate decisions rather than one default escalation.
+
+| Selected goal | Positive melodic behavior | Independently scoped delivery |
+| --- | --- | --- |
+| Contained intensity | Sung phrases stay rhythmically precise and keep definite pitch destinations | Moderate projection and firmer consonants, not an automatic belt. |
+| Larger refrain | The tune opens one interval or holds its stressed vowel longer | Fuller onset only at the return; the clear core persists. |
+| Reserved final peak | An upper sustained note appears at the final actual repeated thought | Earlier passages remain controlled; a brief arrangement breath can expose the entry. |
+| Rough expressive edge | The recurring verse contour stays sung | Grain appears at selected attacks or peaks, with clear vowel pitch. |
+| Continuous urgent bridge | Melody remains active through the existing turn | Preserve force while changing backing focus instead of automatically becoming quiet. |
+
+These original hypotheses extend the documented distinctions in the anonymous production audit; they are not universal preferences or successful-generation claims. A reported wait before a peak does not establish a full all-sound cut. Describe whether the voice, accompaniment and tails stop when that difference matters.
+
+## Independent support voices need independent jobs
+
+If the current brief asks for several vocal lines, decide which one carries words, which one supplies lower sustained support, and which one floats above or answers afterward. Two voices can be a unison reinforcement, a harmony, an exchange or independent counterlines; count alone does not determine the arrangement. Original proposal: “One clear lead sings the verse; a low held harmony supports the refrain while a quieter upper line answers its released vowels.” Give fuller two- or three-line combinations specific entrances and exits. Do not invent a choir, a duet perspective, demographic identity or an accent from the reference's contributors.
+
 ## Local exceptions require a named location
 
 The written references contain speech, group responses, processed voices, and duets. Their variety does not establish a default for this project. When the current brief explicitly requests one of these features, decide its mode, entrance, and exit while preserving the intended mode of other sections.

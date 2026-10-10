@@ -71,6 +71,10 @@ For acoustic/electronic coexistence, assign complementary jobs. A picked string 
 
 ## Hook carrier, handoff, and doubling
 
+Source hierarchy can change as well as source identity. A bass tone may carry the repeating identity rather than act only as low support; specify its articulation and pitch role, then let drums support or answer it. Do not infer kick alignment from bass distortion. A piano and another melodic source may briefly share foreground during an instrumental passage, then yield to one sung lead. This local equality does not mean every part should be equally prominent throughout.
+
+Likewise, a percussion figure can remain the continuity cue while guitars, electronics or sustained chords change around it. Describe the recurring attack behavior before its exact source if the pattern is the point. A recording credit establishes participation only; it cannot establish source timing, envelope, foreground position or hook ownership. The anonymous production research supplies some documented role decisions and many unresolved ones; new allocations must remain proposals fitted to the finished lyric.
+
 Distinguish three arrangements. A **reply** adds a figure after a lead phrase. A **handoff** gives an established melody to a different source while its first carrier rests. A **double** plays the same melodic contour together with the carrier. Identify the motif by contour or rhythm so recognition survives a timbre change. These options are selectable; the new song does not need all three.
 
 | Choice | Original design move | What stays recognizable |

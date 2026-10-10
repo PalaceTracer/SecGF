@@ -57,6 +57,20 @@ For the final return, ask whether the repeated lyric means something different a
 
 End with an action: dry stop, held chord after the lead, instrumental reply, fade, or opening texture returned. Name it in Style only if vital.
 
+## Recurrence, surprise and continuity
+
+Do not automatically repeat a one-time disclosure or calm every bridge. A real second verse can change its supporting rhythm while the vocal or instrumental motif remains recognizable. A bridge can sustain urgency and change foreground instead of lowering force; an instrumental continuation can complete the preceding thought without adding lyric. Select this behavior from the supplied structure and current brief, not from an admired song's sequence.
+
+| Existing lyric situation | Original selectable development | Continuity to retain |
+| --- | --- | --- |
+| Verse information occurs once before a destination | Keep it once; let the instrumental hook extend the completed thought if a passage is wanted | No copied verse, invented refrain or new lyric. |
+| Second verse shifts viewpoint | Change accompaniment articulation or reply source beneath a recognizable sung line | Same pitch identity or instrumental motor, rather than wholesale reinvention. |
+| Bridge is the most urgent statement | Keep melodic force active; remove one competing layer or transfer the hook's carrier | Its sung mode and rhythmic anchor continue. |
+| Repeated question gains a different meaning | Preserve hook recognition while changing duration, support or breath placement | Existing repeated words remain unchanged. |
+| Vocal rest follows a completed refrain | Let two instrumental sources exchange or share foreground before the next line | The established motif connects the passage; no obligatory solo category. |
+
+These are proposed arrangements. A creator's description of surprising full-length structure does not supply a transferable section map, and a shortened version is not an independent vote for the full song's form. Do not infer a tempo change from a broadening of accents unless the evidence or current brief makes it clear. In a new grouping contrast, use a motif or source cue to connect the sections and protect the sung phrase.
+
 ## Original maps for specific lyric events
 
 These maps are selectable design proposals. Use one only when the stated lyric event exists, then adapt its anchor to the actual words or section name. Each row describes an intended result, not a heard recording. The maps vary density, register, rhythmic weight, sustain, and width without imposing a standard verse/drop/final-chorus sequence.
