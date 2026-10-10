@@ -11,7 +11,7 @@ output_influence: style
 
 Specify what changes in pitch over time and what stays put. Harmony is the simultaneous support around a melody; melody is a timed path of pitches and rests. A prompt is more useful when it says whether chords hold or turn, whether the lead line climbs or circles, and which sound carries a recurring idea. “Beautiful melody and rich chords” predicts almost nothing. “Two repeating chords beneath a narrow verse line; the refrain opens into a longer, rising vocal phrase” predicts shape and contrast without requiring a named category.
 
-Finished lyrics are the input. These definitions are stable compositional tools; Style phrasings are hypotheses to test by listening, not exact note commands.
+Finished lyrics are the input. These definitions are stable compositional tools; Style phrasings are unverified design proposals, not exact note commands. The songwriter never receives, hears, plays, measures, or evaluates reference, preexisting, or generated audio. Use finished lyrics, the current written brief, and documented musical descriptions to choose the intended pitch relationships.
 
 ## Harmonic center and emotional color
 
@@ -65,7 +65,7 @@ Contrast one dimension while preserving an anchor: held verse chords versus fast
 
 ## Diagnostic questions
 
-1. What pitch or chord feels like home, if any? Is that known from audio or only inferred?
+1. Does the written brief supply a key or tonal center? If not, is an intended center important enough to propose, or should it remain unspecified?
 2. Does the song’s emotional change require a new chord, a changed chord duration, a wider voicing, or a different melody?
 3. Which section has the fewest distinct chords, and what moves instead?
 4. Where is the highest, longest, or most exposed vocal note, and which lyric stress earns it?
@@ -86,8 +86,14 @@ These are original candidate fragments, not certified commands to a generator.
 | “Rich harmony.” | “Held, widely spaced chords open beneath the refrain; verse chords remain clipped and narrow.” | Contrast in voicing and duration. |
 | “An answering instrument.” | “Two bright plucked notes answer only after the lead finishes each line.” | Clear alternation rather than overlap. |
 
-## User's later revision after listening
+## Written pitch and hook audit
 
-This section is for the user after generation; the Grok songwriter does not hear the generated song.
+Check the planned relationships against the finished lyric before returning; audio and listening results are unavailable.
 
-If harmony wanders, state a returning center or smaller chord set. If it stagnates, change chord duration, bass motion, or voicing before adding many chords. If the lead has no peak, place one long note or leap at a lyric stress. If the hook disappears, request the same short figure on each return. If it masks words, move its answer into vocal gaps.
+- If the plan needs harmonic stability, specify a returning center or economical chord set rather than claiming a reference's key.
+- If the arrangement needs development, consider chord duration, bass motion, or voicing before adding many chords.
+- Locate any proposed melodic peak at an actual lyric stress; preserve definite verse pitch behavior as well as refrain shape.
+- Give the main hook a carrier, contour or rhythm, entrance, and return. Distinguish a new design proposal from a written source observation.
+- Put a hook answer in a planned vocal gap when dense words need foreground clarity; check that a simultaneous counterline has an assigned register or restrained role.
+
+The audit establishes written specificity and compatibility, not rendered harmony, memorability, or a heard result. No audio input or post-generation evaluation is required.

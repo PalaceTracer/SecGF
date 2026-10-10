@@ -9,7 +9,7 @@ output_influence: style
 
 ## Build from the lyric's events
 
-Form is the audible pattern of entrance, return, contrast, and ending. Read the *finished* lyric before designing it. Mark where new information appears, a phrase repeats, a perspective changes, and the last statement lands. The Style field should specify only the musical changes that make those events legible; the words and useful section headings stay unchanged in Lyrics. [Suno Custom Mode](https://help.suno.com/en/articles/2415873/) provides separate lyric input. Every section cue suggested here is a **prompt hypothesis**, not a guaranteed instruction to the generator. The songwriter works from lyrics and written preferences and never receives, hears, or evaluates generated song files.
+Form is the audible pattern of entrance, return, contrast, and ending. Read the *finished* lyric before designing it. Mark where new information appears, a phrase repeats, a perspective changes, and the last statement lands. The Style field should specify only the musical changes that make those events legible; the words and useful section headings stay unchanged in Lyrics. [Suno Custom Mode](https://help.suno.com/en/articles/2415873/) provides separate lyric input. Every section cue suggested here is a **prompt hypothesis**, not a guaranteed instruction to the generator. The songwriter works from lyrics and written preferences and never receives, hears, or evaluates any audio.
 
 Do not impose a fixed sequence. Assign each actual section a function—information, anticipation, recognition, reconsideration, or resolution—even when the lyric has no repeated hook.
 
@@ -37,7 +37,7 @@ Give the opening one recognizable cue: a short figure, bare vocal, incomplete pu
 
 A section carrying new facts needs room for the lead: fewer chord attacks, replies after complete lines, or a stable motif. A forceful beat can leave holes for consonants. If the song is sung, preserve a verse melody while making that space: “single close lead sings a short recurring contour over clipped chords and a steady low pulse.”
 
-**User's later check:** On the first listen, does the opening cue remain in memory, and can the new words be followed? If the first verse is crowded, a possible revision removes a competing role rather than adding another vague “clear vocal” instruction.
+**Written audit:** Give the opening one defined cue and place competing roles after completed information-bearing phrases. If the proposed first verse has several foreground parts, remove or relocate one rather than adding another vague “clear vocal” instruction.
 
 ## Anticipation and arrival
 
@@ -47,7 +47,7 @@ An arrival needs an identity: repeated words, melodic contour, instrumental hook
 
 Choose a **cut** or a **build** deliberately. Increasing subdivisions can prepare an arrival without changing metronome tempo. A very short full cut can sharpen the next entrance without needing a long riser. Specify the gap relative to the pulse when its length matters: a tiny interruption, a subdivision, one beat, or a full bar create different expectations. These are alternative decisions, not accumulating requirements. A complete micro-silence also stops sustaining sounds and effect tails; a drum cut with a chord still ringing leaves continuity. If the sung lead must carry the lyric across the gap, call it an accompaniment cut rather than total silence.
 
-**Prompt hypothesis:** “The drums thin before the repeated line; the low end returns as the lead opens into two held notes.” **User's later check:** Can a listener locate the arrival without section tags? **Possible revision:** If it has no effect, strengthen the one most important subtraction or entrance. If it is crowded, remove a layer rather than adding a crescendo.
+**Prompt hypothesis:** “The drums thin before the repeated line; the low end returns as the lead opens into two held notes.” **Written audit:** Anchor the subtraction and return to an actual lyric event. Name what is absent before the arrival and what enters there. If the written arrival assigns several competing new roles, retain only the most useful contrast.
 
 ## Contrast, return, and ending
 
@@ -85,7 +85,7 @@ These maps are selectable design proposals. Use one only when the stated lyric e
 
 One map can be compressed to one relation: “The last verse line finishes before a brief full cut; the repeated declaration returns on held sung notes over broad bass and wider chords.” A different lyric might need only “The bridge stays melodically sung over one plucked figure; backing withdraws from the final sentence.” Keep the changes the lyric can support rather than combining every transition.
 
-**Prompt hypothesis:** “The repeated line returns with its melody intact but only voice and low pulse; the last word ends dry before one instrumental answer.” **User's later check:** Does the reduction change the line's meaning and does the answer wait? **Possible revision:** If the take simply gets louder, remove global build language and state the subtraction.
+**Prompt hypothesis:** “The repeated line returns with its melody intact but only voice and low pulse; the last word ends dry before one instrumental answer.” **Written audit:** Anchor the reduction to the actual repeated line and put the answer after the final sung word. Remove global build language if the intended relation is withdrawal.
 
 ## Resolve contradictions before compilation
 
@@ -99,10 +99,8 @@ Draft a section map outside the final field, then retain no more than three high
 
 These are components to adapt, not stock templates. If the lyric lacks a repeated section, do not invent one to use a preferred phrase.
 
-## User's later listening and revision
+## Written section audit
 
-This section is for the user after generation. The Grok songwriter uses the pre-generation questions below to design the Style paragraph but does not perform the listening steps.
+Inspect the private map against the supplied lyric structure. What is the opening cue? What is withheld? Which actual section carries new information? What defines the arrival? What remains recognizable at a return? How does the last sound terminate? Select only answers that justify space in the Style field.
 
-Before generation, answer: What is the opening cue? What is withheld? Which section carries new information? Where is the first unambiguous arrival? What changes on the final return? How does the last sound terminate? Select only answers that affect the recording.
-
-Listen once without the lyric sheet and mark actual boundaries. Is each important entrance audible, and does a return sound related to its first statement? Read along on a second pass to check alignment with the words. Record observed, absent, and ambiguous cues. If all sections are equally dense, bind one layer to a later section. If a lift fails, name the exact entrance or silence. If a swell lands on the wrong line, identify the intended section and remove a conflicting global cue. Change one cause at a time and record model and settings. For a strong take with one flawed transition, [Suno's Song Editor](https://help.suno.com/en/articles/6141505/) documents local section editing; its availability does not prove any Style phrase will be obeyed.
+For each proposed change, name its lyric anchor, the source or dimension that changes, and the continuity to retain. A backing reduction must preserve the verse's pitched mode; a full cut must not conflict with a voice or effect tail crossing it. Distinguish density, subdivision, rhythmic weight, register, sustain, and width rather than conflating them with volume. Do not invent a repeated section or silently change the finished words. Audit this intended map from text only; do not request recordings, locate rendered boundaries, assign timestamps, or claim transitions occurred.

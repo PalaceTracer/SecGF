@@ -9,13 +9,13 @@ output_influence: routing
 
 **Status:** researched chapter draft. **Purpose:** turn the user's finished lyrics and desired sound into a concise, testable Suno Style of Music entry. The existing lyric generator remains responsible for the words. The guide is organized by audible decisions.
 
-**Workflow boundary:** Grok writes the Style prompt before Suno generation from lyrics and written preferences. It will never receive or hear generated song files. Any listening, result scoring, or revision after generation mentioned in these chapters is a separate task for the user or another actual listener; it is never a required songwriter step.
+**Workflow boundary:** Grok writes the Style prompt from finished lyrics, written preferences and documented textual production descriptions. It never receives, hears, plays, measures or evaluates any audio, including reference recordings, existing tracks, voice samples and generated songs. No audio upload, playback or post-generation listening stage is an input or prerequisite. Chapters describe intended musical behavior; checks concern the written plan and output contract only.
 
 ## LLM reading route
 
 1. Read this index, Chapter 01 for current interface behavior, Chapter 02 for the attribute map, and Chapter 10 for the output contract.
-2. Inspect the finished lyrics and the conversation's musical preferences. Use Chapter 02's reusable influence bank alongside the wider guide as an open palette for optimization. Choose, adapt or develop relationships that make this song more specific; another sound or original combination remains available when it fits the brief. Read Chapter 06 for every vocal song to decide vocal mode by section; read Chapter 09 when text density or narrative affects phrasing. Retrieve the other focused chapters for the axes that determine this song. Do not retrieve Chapter 11 for the songwriter's Style task: it belongs to the user's separate listening stage. Do not assume a chapter was read merely because its filename appears here.
-3. Keep the user's explicit wishes separate from your own proposal. The songwriter never receives generated song files and cannot report heard results.
+2. Inspect the finished lyrics and the conversation's musical preferences. Use Chapter 02's reusable influence bank alongside the wider guide as an open palette for optimization. Choose, adapt or develop relationships that make this song more specific; another sound or original combination remains available when it fits the brief. Read Chapter 06 for every vocal song to decide vocal mode by section; read Chapter 09 when text density or narrative affects phrasing. Retrieve the other focused chapters for the axes that determine this song. Use Chapter 11 when the written design needs an additional compatibility or contract check. Do not assume a chapter was read merely because its filename appears here.
+3. Keep the user's explicit wishes, documented production accounts and your own proposals separate. All evidence available to the songwriter is written. It cannot report direct audio observations or request recordings.
 4. Return the output fields from Chapter 10. Treat the user's observed 1,000-character Style target as binding and verify the exact final count with a counting tool.
 
 The operative influence bank is included in Chapter 02 and therefore in the combined guide. The optional `evaluation/PREFERENCE_ATTRIBUTE_ARCHITECTURE.md` supplies fuller design detail and evidence-audit links when a deep research task calls for them. Ordinary song work can use the compact bank directly. Express fitting influences through actual melodic, rhythmic, source and section behavior in Style. The palette expands the available choices; it introduces no required profile, influence quota or closed style list. A candidate derived from the research is available to use without asserting that its isolated trait is a confirmed preference. Keep source IDs, artist/work names, nationality and regional shortcuts out of Style.
@@ -32,7 +32,7 @@ The operative influence bank is included in Chapter 02 and therefore in the comb
 | 08. Recording and mix | Dry/wet, near/far, width, depth, texture, dynamics | `08-recording-mix.md` |
 | 09. Lyric–music fit | Stress, syllable density, breathing, narrative pacing, word clarity | `09-lyric-music-fit.md` |
 | 10. Style compiler | Converting the profile into one paste-ready paragraph | `10-style-compiler.md` |
-| 11. Human listening and revision | User's separate evaluation after generation; not a songwriter input | `11-listening-tests.md` |
+| 11. Written design audit | Text-only lyric fit, role compatibility and final contract checks | `11-written-design-audit.md` |
 | 12. Worked cases | Seeing original briefs, selected attributes, and compact Style examples | `12-worked-cases.md` |
 
 ## Evidence labels
@@ -40,10 +40,10 @@ The operative influence bank is included in Chapter 02 and therefore in the comb
 - **Documented interface fact:** a current first-party Suno page supports the statement. Recheck after a product update.
 - **Musical principle:** an account of how audible features relate, with a technical or research source where a nontrivial claim warrants one.
 - **Documented production account:** a creator or performer reports a composition, arrangement or delivery decision. This supports the reported choice, not our independent listening, a measured signal property, or the user's reason for liking it. Contributor credits establish participation, not audible role or mix position.
-- **Prompt hypothesis:** a proposed wording or interaction in Suno that has not yet been tested by generating and listening.
-- **Observed result:** a finding logged by the user or another actual listener after generation. The songwriter cannot produce this evidence and must not claim it.
+- **Prompt hypothesis:** proposed wording for intended musical behavior; its execution is unverified. Check its written specificity and compatibility without claiming a resulting sound.
+- **User-provided written feedback:** an optional report supplied in text. Treat it as the user's report, not your direct observation; no recording is supplied or requested.
 
-These labels prevent the guide from confusing an available control with guaranteed obedience. They also keep research support tied to the relevant chapter instead of making a source list into a style recipe.
+These labels distinguish available controls, written accounts and intended designs without claiming guaranteed obedience. They also keep research support tied to the relevant chapter instead of making a source list into a style recipe.
 
 ## Scope and defaults
 

@@ -65,7 +65,7 @@ For acoustic/electronic coexistence, assign complementary jobs. A picked string 
 
 ## Density, register, and layers
 
-**Layer count** is distinct from perceptual density. Two long overlapping sounds can fill more space than five short punctuations. Density rises with overlapping durations, similar registers, repeated attacks, and reverb tails. To protect a vocal, limit concurrency in its register and phrase spaces rather than simply reducing all volume. A low bass, high accent, and midrange lead can coexist more clearly than three simultaneous midrange melodies. This is a practical arrangement heuristic; the user can later verify it in a generated result. The songwriter has only written inputs.
+**Layer count** is distinct from perceptual density. Two long overlapping sounds can fill more space than five short punctuations. Density rises with overlapping durations, similar registers, repeated attacks, and reverb tails. To protect a vocal, limit concurrency in its register and phrase spaces rather than simply reducing all volume. A low bass, high accent, and midrange lead can coexist more clearly than three simultaneous midrange melodies. This is an arrangement heuristic for choosing intended source positions; it does not establish a rendered result. The songwriter uses only written inputs and never receives any audio.
 
 **Register handoff** is a useful alternative to piling up layers. A high figure can disappear when the lead moves high, then return when the voice descends. A low pad can recede when bass becomes active. “The high pluck answers only in vocal gaps” encodes this as an audible arrangement rule. If the prompt budget is tight, one such interaction outranks a long list of source names.
 
@@ -86,9 +86,9 @@ Distinguish three arrangements. A **reply** adds a figure after a lead phrase. A
 
 A wordless processed vocal can occupy the hook or answer role when the brief requests it; keep it distinct from the intelligible sung lead. Source handoff is especially useful when another layer would overload the lead register. Doubling may supply emphasis, but its first statement can remain exposed. State which source yields space rather than asking every layer to be prominent.
 
-## Original prompt fragments and intended results
+## Original prompt fragments and intended behavior
 
-These fragments describe intended results; they are not official Suno syntax or claims about generated audio. The songwriter never hears generated files.
+These fragments specify proposed musical behavior; they are not official Suno syntax or claims about generated results. The songwriter never receives, hears, or evaluates any audio.
 
 | Intent | Candidate Style fragment | Intended audible result |
 | --- | --- | --- |
@@ -99,10 +99,8 @@ These fragments describe intended results; they are not official Suno syntax or 
 | Contrasting surfaces | “Rough short chord attacks sit beneath a smooth, airy sustained layer.” | Distinct foreground and background textures. |
 | Cleaner lyric space | “Bass and dry pulse stay low; high accents occur only after line endings.” | The lead has an uncluttered middle register. |
 
-For the user’s later listening check, replay the first appearance of the target sound and note its onset, body, tail, register, and role. Ask whether the described feature is audible without reading the prompt. If the take substitutes another source but preserves the needed role and timbre, it may still satisfy the song. If source identity is the point, say so in the next prompt. The user’s later evaluation note should separate “did not generate the requested instrument” from “did not generate the requested effect.”
+## Written source-role audit
 
-## User's later failure diagnosis and smallest revision
+Before compilation, inspect the proposed arrangement as text. Does each selected source have a role, register, envelope, and entrance? Do answers wait for completed vocal phrases? Does a handoff retain the motif's contour or rhythm? Are rough textures localized so the intended lead stays clear? A complete cut must state whether sustained notes and effect tails stop too.
 
-This section is for the user after generation, not for the Grok songwriter.
-
-If the result is **muddy**, identify whether overlapping tails, crowded midrange, or excessive low sustain is responsible. Revise the relevant part: “shorter chord decay under the lead” is a clearer next move than “better mix.” If it is **thin**, add body to one core source or let a chord sustain longer before adding several new layers. If the **hook is buried**, move its carrier to a separate register or remove a simultaneous competing line. If the **texture never develops**, change one existing source’s envelope or register at a section boundary. If the **generated source is wrong**, specify an audible source family and its role together. If the **sound is too synthetic or too variable**, name the exact feature—repetition, attack variation, noise, sustain movement—that should change.
+Resolve likely conflicts in the design: shorten overlapping chord tails, separate simultaneous melodic roles, move fills into lyric gaps, or develop one existing source rather than adding another layer. These are revisions to an intended arrangement, not diagnoses of generated sound. Source identity, role, and timbre are separate choices; specify only those essential to the current brief. Do not request playback, recordings, timestamps, or heard-result confirmation.

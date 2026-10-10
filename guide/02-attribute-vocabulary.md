@@ -11,11 +11,11 @@ output_influence: style
 
 This chapter is the navigation system for a finished song brief. It converts wishes into things a listener could identify in a recording. The lyric text comes from the existing lyric workflow; the task here is to design the sounding performance and arrangement. A word such as *warm*, *driving*, *intimate*, or *large* is useful only after it is translated into a cause: note length, rhythmic placement, source tone, vocal distance, density, or a change between sections. No single mood word describes all those causes.
 
-An **attribute** is a variable with at least two audible values. A **role** states what a sound does in the arrangement. A **relationship** states how two roles interact. A **section instruction** states when an attribute changes. An **intended observation** names what the user could listen for afterward; it is a private design aid, never an extra songwriter output field or a heard-result claim. This distinction prevents a Style field from becoming an inventory of attractive adjectives.
+An **attribute** is a variable with at least two audible values. A **role** states what a sound does in the arrangement. A **relationship** states how two roles interact. A **section instruction** states when an attribute changes. An **intended behavior** names the sound relationship being proposed in writing; it is a private design aid, never an extra songwriter output field or a heard-result claim. This distinction prevents a Style field from becoming an inventory of attractive adjectives.
 
 The core map has nine axes: pulse; percussion and low end; harmonic motion; melody and hook; sound-source roles and timbre; vocal architecture; form and dynamics; recording image; and lyric–music fit. The axes are independent enough to diagnose separately, but the recording is a set of interactions. A bright sustained chord bed and a bright short percussion tick can coexist; “bright” alone cannot tell Grok which one the user means. A forceful pulse can sit under a quiet voice. A positive lyrical reading can be carried by minor-colored or unresolved harmony when the contrast is intentional. Choose causes before mood labels.
 
-The following definitions are **musical design vocabulary**, not claims that Suno will reproduce an instruction exactly. Any example of prompt wording is a **testable prompt hypothesis** until an actual generated take is heard. Interface facts and controlled listening are handled in Chapters 01 and 11.
+The following definitions are **musical design vocabulary**, not claims that Suno will reproduce an instruction exactly. Any example of prompt wording is an **unverified prompt hypothesis**, not a result claim. The songwriter never receives, hears, plays, measures, or evaluates reference, preexisting, or generated audio. It selects attributes from finished lyrics and written descriptions or documented production accounts. Chapters 01 and 11 cover interface context and written-only auditing; neither requires listening.
 
 ## How to read an attribute
 
@@ -24,10 +24,10 @@ For any candidate phrase, ask five questions.
 1. **Object:** Which part of the record does it modify: drums, bass, chord layer, hook, lead voice, backing voices, or the whole mix?
 2. **Dimension:** What can change: timing, attack, duration, pitch, register, spectral balance, space, level, or density?
 3. **Reference:** Relative to what: a beat, a lyric stress, another sound, or an earlier section?
-4. **Test:** What would be audible if the direction succeeded?
+4. **Design consequence:** Which intended sound relationship does this phrase specify?
 5. **Cost:** Does naming this detail justify its characters in the short Style field?
 
-For example, “lively” has no object and a weak test. “Short bass notes answer the kick between beats” identifies object, timing, relationship, and a test. “Lead voice stays close and dry while the refrain chords spread wide” distinguishes foreground from background. It also resolves an apparent conflict between intimacy and scale.
+For example, “lively” has no object and a vague design consequence. “Short bass notes answer the kick between beats” identifies object, timing, relationship, and intended consequence. “Lead voice stays close and dry while the refrain chords spread wide” distinguishes foreground from background. It also resolves an apparent conflict between intimacy and scale.
 
 Do not force a numerical answer when the user has given a perceptual one. “Brisk but spacious” can be rendered as a quick subdivision with sparse heavy accents. “Slow and urgent” can mean long bars with active short notes, an insistent repeating hook, or a rising section density. If an exact tempo, key, note range, or recording parameter is unknown, describe relative behavior rather than inventing a measurement.
 
@@ -84,7 +84,7 @@ For an intended sung song, choose the verse's pitch behavior before diction, ras
 
 Separate three kinds of written evidence privately: what the user explicitly requests now; what a supplied reference actually says in its Style field or Lyrics notes; and the relationships you propose to fit this lyric. An enjoyed example does not reveal which individual trait earned the like. The user authorizes influence from the supplied examples as part of the broader sound palette. Consider their distilled relationships during normal song design, alongside all other guide options. Treat repeated relationships across distinct examples as candidates with tentative preference confidence, not requirements; a duplicate edition or repost is one piece of evidence. Genre, exact tempo, key, chord symbols, named gear, vocal identity, and narrative in an example remain local choices.
 
-Rank each candidate by its fit to a concrete lyric event, its contribution to the song's identity, and the characters needed to state it clearly. Keep a few relationships that explain the whole arrangement, then assign them to sources and real sections. A base sound can be defined by a stable pulse, harmonic loop, lead melody, and a small support bed; one contrasting source or section can change color without accumulating genre tags. If the guide proposes a new break or instrumental passage, distinguish that proposal from a section already written in the finished lyric. The songwriter designs from text and never accesses generation files.
+Rank each candidate by its fit to a concrete lyric event, its contribution to the song's identity, and the characters needed to state it clearly. Keep a few relationships that explain the whole arrangement, then assign them to sources and real sections. A base sound can be defined by a stable pulse, harmonic loop, lead melody, and a small support bed; one contrasting source or section can change color without accumulating genre tags. If the guide proposes a new break or instrumental passage, distinguish that proposal from a section already written in the finished lyric. The songwriter designs from text and never accesses reference or generated audio, playback, or audio measurements.
 
 ## Reusable influence bank for each song
 
@@ -121,7 +121,7 @@ These are not twelve genre categories, recording reconstructions or complete Sty
 
 Overlap does not justify repetition. I01 and I07 both develop note length: choose one coherent verse/refrain instruction. I02 and I04 both supply instrumental identity: let one dominate, or alternate their foreground by section. I03 and I10 can share complementary acoustic/electronic jobs without naming extra sources. I05 and I11 can combine a continuing attack identity with one cut, provided the interruption and return are explicit. I06 can complement another architecture when lead gaps support extra voices; otherwise omit the counterline. I07 and I12 can coexist as an earned peak followed by withdrawal only if the actual lyric supports both events. Dense motors, active bass, continuous vocal harmonies and frequent replies together require subtraction rather than more adjectives.
 
-For intended sung songs every selected architecture retains explicit pitched verse behavior. Speech, whisper, chant or shout remains available only within the project's existing section-specific permission rules; rap is excluded. No profile requires a recorded voice, access to generated song files or an audio evaluation by Grok. Return exactly **STYLE OF MUSIC**, **CHARACTER COUNT**, **EXCLUDE**, and **SONG TITLE**; the exact final positive Style paragraph remains within the user's observed 1,000-character target.
+For intended sung songs every selected architecture retains explicit pitched verse behavior. Speech, whisper, chant or shout remains available only within the project's existing section-specific permission rules; rap is excluded. No profile permits an assumed recorded voice, access to reference or generated audio, playback, measurements, or an audio evaluation by Grok. Written preferences and documented production descriptions are sufficient inputs. Return exactly **STYLE OF MUSIC**, **CHARACTER COUNT**, **EXCLUDE**, and **SONG TITLE**; the exact final positive Style paragraph remains within the user's observed 1,000-character target.
 
 ## Interactions that create a coherent record
 
@@ -152,7 +152,7 @@ Do not collapse these into “energetic melodic music.” A brisk tune with ligh
 
 **Pulse × attack density.** Tempo alone does not specify urgency. Broad accents with long rests can feel spacious at a brisk speed; a slower beat with repeated small subdivisions can feel insistent. Name both felt motion and event pattern. Describe the activity between stable large beats.
 
-**Kick × bass.** The two can start together or answer each other. A held bass can bridge short kicks; clipped offbeat notes can move between them. “Heavy bass and hard kick” leaves the relation vague. State onset and duration: “short bass notes mirror the opening kick, then move between kicks in the refrain.” The user can later check both patterns in a generated result.
+**Kick × bass.** The two can start together or answer each other. A held bass can bridge short kicks; clipped offbeat notes can move between them. “Heavy bass and hard kick” leaves the relation vague. State onset and duration: “short bass notes mirror the opening kick, then move between kicks in the refrain.” Check that the written prompt assigns each pattern to its intended section.
 
 **Harmony × lyric density.** Frequent chord changes, moving inner parts, and long tails occupy attention. Dense text may need a smaller repeated chord set or quieter sustained voicings; sparse text can allow more motion. If words should be submerged, state that deliberately.
 
@@ -164,7 +164,7 @@ Do not collapse these into “energetic melodic music.” A brisk tune with ligh
 
 **Recording space × role.** A close dry lead can stand before a wide reverberant bed. “Dry and reverberant” conflicts only when both modify the same source at the same time. Assign each quality to a source or section.
 
-**Brightness × emotion.** High-frequency energy, upper register, forceful attacks, lyrical hope, and cheerful delivery are different variables. Translate the desired feeling into movement, voice, harmony, and texture; the user may judge the generated combination later.
+**Brightness × emotion.** High-frequency energy, upper register, forceful attacks, lyrical hope, and cheerful delivery are different variables. Translate the desired feeling into movement, voice, harmony, and texture; check that the written combination serves the current lyric and brief.
 
 ## Compatibility map
 
