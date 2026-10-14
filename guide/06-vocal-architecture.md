@@ -89,6 +89,20 @@ A continuous climb, an audible register break, a narrow sung contour, and a wide
 
 **Ask:** Which line gets the first high note? Is the rise a one-time turn or the default? Must a name or plot-bearing phrase stay in a clear middle range? If the written design raises every line, preserve contrast by keeping information sections low and reserving the lift for one named return.
 
+### Choose tessitura and harmonic lift separately
+
+A lower verse and higher refrain are relative placements, not instructions for speech, softness or a belt. The verse remains definitely sung; the refrain can gain destination through pitch region, interval span or vowel length. A later shift in harmonic center is a separate arrangement choice. [The additional production audit](../evaluation/SPOTIFY_PRODUCTION_RELATIONSHIPS.md) includes song-specific testimony for this distinction without supplying an exact range or modulation interval.
+
+Original proposal: “Verses sing a recurring low-mid contour; the refrain opens into higher held vowels, with a late harmonic lift only at the final existing declaration.” Select the parts the brief needs. Longer vowels without higher pitch, stronger backing without a key shift, or a lower quiet ending are equally available. Do not automatically combine upward harmony, extreme range, stronger force, roughness and added voices. A new key can transpose the phrase while its contour stays recognizable; it does not permit inventing another lyric return.
+
+### Preserve vocal identity when harmonic ground changes
+
+When harmony develops beneath a returning lyric, decide which part of the sung phrase stays recognizable: its opening gesture, stress rhythm, direction of motion or destination-note duration. Do not require identical absolute pitches over every new chord. A transposed or adapted phrase can retain identity while finding pitches compatible with its new support. This is an intended composition choice; no existing audio or vocal range is available to verify it.
+
+Original proposal: “The verses sing a compact rising-and-falling contour; the returning declaration keeps its stress rhythm over changed harmony, then settles on a longer clear vowel.” That turn need not also add a belt, grain, an octave leap or several support voices. If register is the main change, keep the harmonic ground stable; if harmony is the main change, a controlled lead can remain in a similar relative region. Choose the combination that fits the words rather than accumulating every form of lift.
+
+A recurring drum gesture can share identity with that sung phrase without dictating every syllable. Let the phrase begin before a main beat, cross an anchor or release into a gap when that placement suits the lyric. Original proposal: “A clearly pitched verse tune phrases across the steady drum gesture; its longest vowel lands at the complete thought while the drums keep their identity.” Exact accent matching remains available when requested, but is a separate design.
+
 ## Tone color and phonation
 
 Separate **core tone** (clear, round, thin, ringing, grainy), **air or edge** around it, and **onset** (soft, immediate, or firm). A voice can begin gently and then sustain a clear tone; a quiet line can have a firm consonant; a loud line can have a soft attack. Studies of phonation onset and vocal-fold motion support treating breathy and pressed production as different behaviors, but the Style field should specify the audible effect rather than a physiological maneuver. See [phonation onset](https://pubmed.ncbi.nlm.nih.gov/26690882/) and [vocal-fold kinematics](https://pubmed.ncbi.nlm.nih.gov/42059716/).

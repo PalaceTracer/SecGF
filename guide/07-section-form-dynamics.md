@@ -71,6 +71,26 @@ Do not automatically repeat a one-time disclosure or calm every bridge. A real s
 
 These are proposed arrangements. A creator's description of surprising full-length structure does not supply a transferable section map, and a shortened version is not an independent vote for the full song's form. Do not infer a tempo change from a broadening of accents unless the evidence or current brief makes it clear. In a new grouping contrast, use a motif or source cue to connect the sections and protect the sung phrase.
 
+### Develop the selected relationship through the lyric
+
+A palette choice becomes characterization when its behavior changes for a reason in this song. Privately map **where the relationship first appears, what makes it recognizable, which actual lyric event changes its responsibility, and whether the ending retains or releases it**. A source list or “larger final chorus” cannot answer these questions. Any of the stages can be absent: a continuous stanza can carry one evolving relation without acquiring new sections.
+
+The following are original arrangement proposals informed by written production relationships, not recovered source-song maps:
+
+| Actual lyric event | Selectable development | Retain | Alternative when this brief needs another meaning |
+| --- | --- | --- | --- |
+| A repeated statement grows more settled | Keep the chord cycle; make the returning phrase's final bass landing more root-led | Sung contour and chord identity | Keep connected non-root bass for an unsettled return, or change chord duration instead |
+| A repeated thought gains a different perspective | Preserve the phrase's sung rhythm while harmony changes beneath it at the turn | Melodic recognition and one rhythmic anchor | Keep the harmonic center and alter one chord color; no tonal departure is required |
+| A continuing commitment is reconsidered | Let a quiet compatible upper tone bridge the lower chord movement, then release it at the actual disclosure | Independent pitched lead and clear lower attacks | Renew the tone on another carrier, or omit it when the new harmony makes continuity unsuitable |
+| A short declaration needs a new destination | Choose a higher sung region, longer vowel or changed harmonic support for that event | The verse remains explicitly pitched | Keep the register restrained and expand duration or support; do not stack every possible lift |
+| An existing later stanza intensifies the same intention | Keep one chord source's rhythm but sharpen its attack or add local grain | Its source role, the pulse and the sung tune | Soften that source instead if the brief asks for acceptance; timbre does not carry a fixed emotional meaning |
+| A later thought leaves more space after its last word | Extend the established played reply into that real gap while the stable scaffold continues | Reply identity and the next vocal entry's foreground | Shorten or omit the reply when the next words arrive sooner; do not invent an instrumental break |
+| A final sentence closes the earlier recurring thought | Reduce the reply count or let its last tail finish after the sung phrase | The lyric's actual ending and pitched vocal mode | End dry if a clean boundary serves the brief better; do not assume an echo or fade |
+
+Choose one event with a meaningful consequence before planning several changes. A bridge can preserve rhythmic urgency while harmonic grounding shifts; a return can become firmer through bass placement without getting wider; an ending can withdraw support while its sung destination stays stable. Tie each choice to the supplied words and explicit brief rather than the reference's original order.
+
+**Private comparison:** briefly consider a second plausible implementation of the same relation. Does this repeated line need greater grounding or deliberate instability? Does its new perspective benefit from harmonic departure or from the same harmony with a different source attack? Choose the implementation that makes the current song more coherent, not the one that contains the most learned gestures. This is a written design comparison, never a playback task or a printed fifth field.
+
 ## Original maps for specific lyric events
 
 These maps are selectable design proposals. Use one only when the stated lyric event exists, then adapt its anchor to the actual words or section name. Each row describes an intended result, not a heard recording. The maps vary density, register, rhythmic weight, sustain, and width without imposing a standard verse/drop/final-chorus sequence.

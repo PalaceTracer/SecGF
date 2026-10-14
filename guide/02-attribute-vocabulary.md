@@ -111,6 +111,23 @@ Read this bank as part of the normal Chapter 02 route. Compare fitting options w
 
 These are not twelve genre categories, recording reconstructions or complete Style templates. A profile's fit column is a musical reason to consider it, not a prediction of what the user must enjoy. Source choices, force, tempo and harmonic vocabulary remain adjustable. Existing guitar-and-drum, groove-centered, sparse ensemble, heavy, spacious and other guide mechanisms remain available beyond this bank.
 
+### Production relationship extensions
+
+The [additional written production audit](../evaluation/SPOTIFY_PRODUCTION_RELATIONSHIPS.md) supplies narrower documentary bases for the original choices below. Some bases concern a selected composition; others concern general creator or live-engineering practice. These clauses are proposed implementations, not descriptions of heard recordings. They extend the open palette without adding required profiles or fixed progressions.
+
+| Selectable relationship | Use when this song needs | Compact positive design clause | Variation and conflict check |
+| --- | --- | --- | --- |
+| Familiar harmonies, changed bass landing | A recurring thought becomes firmer without replacing its chord identity | “The chord cycle stays familiar; connected verse bass becomes root-led at the refrain's final chord.” | Reverse the landing for an unsettled ending, or change upper voicing instead. A foreground bass hook may need fewer connecting notes. |
+| Common upper tone, moving lower harmony | A sparse arrangement needs continuity through chord movement | “One quiet upper chord tone rings across lower changes while the lead sings a separate contour.” | Use a compatible common tone, rearticulate it or hand it to another source; unrelated chords may require it to release. |
+| Sung identity, changed harmonic foundation | A real lyric turn needs development beyond volume, layers or register | “Keep the sung phrase's rhythm and contour recognizable as its chord foundation departs, then settle at the actual return.” | Change chord color or tonal center deliberately; the same absolute notes are not required. Preserve another anchor if grouping also changes. |
+| Relative register versus late harmonic lift | A declaration gains a new destination | “Low-mid sung verses open into higher held refrain vowels; one late harmonic lift marks the renewed declaration.” | Higher melody, longer notes, support growth and changed harmony are independent choices. Use only what the brief earns. |
+| Different persistence for different jobs | Active rhythm leaves meaningful gaps after sung lines | “Drum hits carry a short room; a longer quiet echo answers selected phrase endings and releases before the next lead entry.” | Choose decay relative to the phrase gap; sustained sparse songs can use other spaces. Do not add a fixed millisecond recipe. |
+| Selected played responses, stable programmed support | Precise motion needs tactile detail without a second continuous motor | “A short played figure answers the sung line endings while the programmed pulse stays steady.” | Retain one reply owner; change carrier or articulation at a real return. A full-band continuous pattern is another valid brief. |
+
+I07 can use register change without requiring modulation. I09 can develop bass position, upper common tone or chord articulation without a new grouping. I10 can retain selected played phrases rather than duplicate every programmed attack. I05 can treat a sung contour and drum gesture as co-anchors without matching every syllable to every hit. These extensions are choices alongside the twelve architectures and other guide possibilities, not a checklist.
+
+A timbral turn is another local option: one existing chord source changes attack or roughness at a lyric reversal while pulse and pitched melody persist. Choose its color from the current brief; emotion does not prescribe a universal timbre.
+
 ### Select relations that actually affect the new prompt
 
 1. **Locate the lyric requirement.** Identify actual repeated phrases, dense information, breathing spaces, changes of perspective and ending meaning. Preserve the finished words and section structure.
@@ -182,5 +199,10 @@ The table is a reasoning aid, not a ban on unusual combinations. Its third colum
 | Quiet opening + immediate hook | Compatible | State a small, exposed motif early, then expand its arrangement. |
 | Fixed pulse + free vocal timing | Compatible | Let the vocal phrase behind or across the beat while the rhythm bed stays stable. |
 | Simultaneously sparse and full | Incomplete scope | Assign sparse/full to different sections, registers, or sources. |
+| Changed bass landing + unchanged groove | Compatible; harmonic pitch choice and onset pattern differ | Keep the existing kick/bass rhythm and change bass pitch at selected chord boundaries. |
+| Upper common-tone continuity + articulated low end | Compatible by role and register | Let the quiet upper tone sustain while bass gives shorter chord arrivals; do not require both to hold continuously. |
+| Recurring melodic identity + harmonic departure | Compatible when recognition is specified | Retain rhythm and directional shape while adapting phrase pitches or destination to the new chord support. |
+| Root-led support + unresolved ending | Compatible; root position is not tonic closure | State the clear low foundation separately from an open sung or harmonic endpoint. |
+| Lead/drum co-anchors + independent phrasing | Compatible when shared identity is not literal accent matching | Keep one drum gesture stable; let the definite sung contour phrase across it and reserve fills for word gaps. |
 
 Some directions are truly incompatible at one object, time, and dimension: “no percussion” and “continuous snare backbeat” for the same section; “one unaccompanied voice” and “stacked harmony throughout”; “no chord motion” and “new chord every beat.” Do not average them into a vague middle. The user's most explicit instruction wins, or ask one focused question if both are equally central. Many apparent conflicts dissolve when scoped by source or section.

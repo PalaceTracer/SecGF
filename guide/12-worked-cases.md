@@ -31,7 +31,7 @@ Begin with the opening line sung alone on a clear stepwise motif. A brisk straig
 
 **SONG TITLE:** Room to Move
 
-**Intended design.** The answer figure should occupy word gaps and the refrain should widen around a consistently near lead.
+**Intended design — prediction.** The answer figure should occupy word gaps and the refrain should widen around a consistently near lead.
 
 ## Case B: a private admission in an empty room
 
@@ -53,7 +53,7 @@ One close lower-midrange lead sings the verses on a recurring three-note contour
 
 **SONG TITLE:** The Room Keeps Quiet
 
-**Intended design.** The vocal should remain distinctly pitched and near, while the instrumental replies suggest greater distance. The last return should feel steadier through phrasing.
+**Intended design — prediction.** The vocal should remain distinctly pitched and near, while the instrumental replies suggest greater distance. The last return should feel steadier through phrasing.
 
 ## Case C: dense words with a physical guitar edge
 
@@ -75,7 +75,7 @@ Fast-feeling straight pulse with hard kick and snare arrivals, short closed high
 
 **SONG TITLE:** Pressure Gives Way
 
-**Intended design.** The verse should stay melodic despite its rapid articulation, with refrain release supplied by interval size, sustain, and hook doubling.
+**Intended design — prediction.** The verse should stay melodic despite its rapid articulation, with refrain release supplied by interval size, sustain, and hook doubling.
 
 ## Case D: a cut that makes the return count
 
@@ -97,7 +97,7 @@ A compact sung verse motif sits over broad backbeat accents, clipped chord stabs
 
 **SONG TITLE:** Half a Beat of Air
 
-**Intended design.** The unchanged hook should make the return recognizable, while the short total cut and changed accent weight should mark its arrival. The written design requests total silence at that boundary; its rendered execution is unverified.
+**Intended design — prediction.** The unchanged hook should make the return recognizable, while the short total cut and changed accent weight should mark its arrival. The written design requests total silence at that boundary; its rendered execution is unverified.
 
 ## Case E: acoustic grain inside an electronic pulse
 
@@ -119,7 +119,7 @@ Warm plucked acoustic guitar marks the offbeats while a soft electronic chord be
 
 **SONG TITLE:** Thread by Thread
 
-**Intended design.** Plucked attacks and sustained harmony should read as complementary jobs. The refrain should broaden while the guitar keeps the song recognizable.
+**Intended design — prediction.** Plucked attacks and sustained harmony should read as complementary jobs. The refrain should broaden while the guitar keeps the song recognizable.
 
 ## Case F: one hook passed between sources
 
@@ -141,7 +141,7 @@ Begin with a small piano motif, then leave it incomplete when the lead enters. T
 
 **SONG TITLE:** Recognize the Light
 
-**Intended design.** The hook should remain identifiable through piano, string, and vocal roles. The later doubling should communicate recognition without adding a competing tune.
+**Intended design — prediction.** The hook should remain identifiable through piano, string, and vocal roles. The later doubling should communicate recognition without adding a competing tune.
 
 ## Case G: a steady anchor with moving replies
 
@@ -163,7 +163,7 @@ A rounded four-note bass motif carries recognition, meeting two broad low accent
 
 **SONG TITLE:** The Work We Share
 
-**Intended design.** The anchored groove should feel dependable, while replies and the brush-to-stick change supply movement and refrain lift without a tempo change.
+**Intended design — prediction.** The anchored groove should feel dependable, while replies and the brush-to-stick change supply movement and refrain lift without a tempo change.
 
 ## Case H: a persistent tone and a quiet withdrawal
 
@@ -185,7 +185,7 @@ A dark sustained synth tone sits behind dry drum strikes and a short repeating b
 
 **SONG TITLE:** What Remains Near
 
-**Intended design.** The recurring source should change character without losing identity. The final verse should remain sung while the accompaniment releases its weight.
+**Intended design — prediction.** The recurring source should change character without losing identity. The final verse should remain sung while the accompaniment releases its weight.
 
 ## Case I: a high melody with independent support
 
@@ -207,7 +207,7 @@ A repeating dry percussion figure and short rounded bass establish a steady mode
 
 **SONG TITLE:** A Line Held Open
 
-**Intended design.** Rhythmic continuity should connect the sections while the refrain gains sustain and lower vocal support. The instrumental counterline should remain independent without obscuring words.
+**Intended design — prediction.** Rhythmic continuity should connect the sections while the refrain gains sustain and lower vocal support. The instrumental counterline should remain independent without obscuring words.
 
 ## Case J: another design chosen by the current brief
 
@@ -229,10 +229,47 @@ Soft plucked harp marks three evenly spaced beats, with short low notes beneath 
 
 **SONG TITLE:** Three Quiet Steps
 
-**Intended design.** The triple pulse should support a continuous melodic stanza without adding a refrain. The unresolved upper tone should carry the ending's uncertainty within the requested small arrangement.
+**Intended design — prediction.** The triple pulse should support a continuous melodic stanza without adding a refrain. The unresolved upper tone should carry the ending's uncertainty within the requested small arrangement.
+
+## Case K: familiar sung identity on changing harmonic ground
+
+**Brief.** The synthetic finished lyric has two verses, a repeated declaration, a labeled bridge that changes perspective, and an actual refrain return. The brief asks for harmonic development with one consistent sung identity and a clear piano-and-guitar arrangement.
+
+**Influence selection.** Adapt harmonic continuity, common-tone support and bass-position contrast as local choices. The new perspective earns a temporary harmonic departure; the repeated declaration supplies its return. This is original implementation of the palette's written relationships, not an exact progression or a source reconstruction.
+
+**Chosen relationships.** Pitched vocal contour and drum pattern connect the sections. One quiet upper tone links compatible lower changes; the refrain's bass landing firms the familiar cycle. The bridge changes harmonic center while its sung rhythm remains recognizable.
+
+**STYLE OF MUSIC**
+
+```text
+One clear midrange lead sings the verses on a recurring rising-and-falling contour, with short pitched notes for dense words and held vowels at each complete thought. Dry piano chords state a small repeating cycle over a steady moderate kick and soft backbeat. A quiet upper guitar tone rings across compatible lower chord changes; keep its level behind the independent vocal tune. Bass connects verse chords smoothly, then meets the refrain's final chord on its root. At the labeled bridge, keep the sung motif's rhythm recognizable while the piano moves to a different harmonic center. Let the new chord ground change the phrase's color as percussion retains its pattern. The actual refrain restores the familiar foundation, opening its vowels into longer notes. Keep the lead near, chord attacks distinct, and guitar sustain farther back. A high instrumental answer waits until the repeated declaration finishes. End with the last sung vowel above a settled piano chord and a released guitar tone.
+```
+
+**CHARACTER COUNT:** 1000
+
+**EXCLUDE:** none
+
+**SONG TITLE:** Moving Ground, Familiar Shape
+
+**Intended design — prediction.** The lyric turn is represented by a changed harmonic foundation, while voice and percussion retain identity. The actual return restores the familiar grounding rather than simply adding loudness or layers. Only the written relationships are established; their rendered execution is unverified.
+
+## Read the cases as relationships that can be reassigned
+
+The same palette relationship can serve different characters of song. The cases demonstrate selected implementations; they do not fix the source, energy or sequence for future work. Use the brief to decide what the relationship does, then give it concrete wording in Style.
+
+| Relationship | Demonstrated implementation | Other original implementation available to another brief |
+| --- | --- | --- |
+| Recognition persists while support changes | K keeps sung identity through harmonic departure and restoration | A continuous stanza can keep its tune while one chord color changes, with no bridge or return invented |
+| A held upper tone connects moving support | K places quiet guitar resonance above lower movement | A restrained song can rearticulate the tone on piano, then remove it at a disclosure rather than add width |
+| Different jobs have different persistence | B separates a near lead from a distant answer; F gives string a longer tail than piano | An active band song can keep percussion space short and let only one completed phrase receive a longer reply |
+| Played attack and sustained support coexist | E retains plucked attacks against an electronic bed | A guitar-and-drum brief can use a quiet sustained acoustic layer at an actual declaration; continuous electronics are optional |
+| A clear melodic destination develops | C changes interval span and sustain; I adds restrained lower support | A quiet promise can lengthen vowels in the same register, with single voice and unchanged harmony |
+| Source identity survives timbral change | H changes one persistent tone's register and envelope | A forceful song can sharpen an existing chord source locally while pulse and pitched vocal contour remain stable |
+
+These are compact original alternatives, not extra paste-ready examples or additional response fields. Any new final Style must still give the sung verse definite pitched behavior, resolve competing roles and receive its own exact tool count. Do not transplant a whole case to satisfy a palette quota. A fitting relationship may recur across songs; its current responsibility is what matters.
 
 ## How to select a case
 
-Evaluate both the anonymous preference palette and other guide options against the current lyric. Select relationships that define this song rather than the nearest bundle of adjectives. When a preference-derived move wins, express its behavior directly in Style; merely mentioning it in private notes does not make it influence the design. Keep its intended role while adapting source, intensity, or timing to this brief. Cases A and G both emphasize groove but give bass and percussion different jobs. Cases B and H both withdraw backing but differ in depth and sustained-source development. Cases C and F expand a hook by doubling it, while D changes its register after a cut. Case E keeps two source families present together instead of inserting a separate contrast section. Case I combines layered vocal support with a continuing rhythmic cue; Case J shows an explicit brief selecting another part of the broader palette. Cases A, F, and G visibly adapt exposed melody, shared instrumental foreground, and bass identity. Each sung case defines verse pitch before relying on diction or mix distance. These are selection demonstrations, not a rotation Grok must cycle through.
+Evaluate both the anonymous preference palette and other guide options against the current lyric. Select relationships that define this song rather than the nearest bundle of adjectives. When a preference-derived move wins, express its behavior directly in Style; merely mentioning it in private notes does not make it influence the design. Keep its intended role while adapting source, intensity, or timing to this brief. Cases A and G both emphasize groove but give bass and percussion different jobs. Cases B and H both withdraw backing but differ in depth and sustained-source development. Cases C and F expand a hook by doubling it, while D changes its register after a cut. Case E keeps two source families present together instead of inserting a separate contrast section. Case I combines layered vocal support with a continuing rhythmic cue; Case J shows an explicit brief selecting another part of the broader palette. Cases A, F, and G visibly adapt exposed melody, shared instrumental foreground, and bass identity. Each sung case defines verse pitch before relying on diction or mix distance. Case K adds harmonic-foundation change with sung continuity and a firmer bass landing at an actual return. These are selection demonstrations, not a rotation Grok must cycle through.
 
 The exact sources, pulse, cuts, and section order remain choices. A poem with no refrain does not acquire one because these examples contain refrains. EXCLUDE stays separate and can be `none`; the positive Style establishes the song. The songwriter works from lyrics and written preferences only. Reference audio and generated song files are never inputs, and completion does not depend on playback, listening observations, or measured sound. These cases demonstrate written design choices, not proven results.

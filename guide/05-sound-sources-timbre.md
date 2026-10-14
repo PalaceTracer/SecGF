@@ -52,6 +52,25 @@ These source families describe production possibilities, not fixed emotional pro
 
 For acoustic/electronic coexistence, assign complementary jobs. A picked string can mark the offbeats while a smooth low synth holds the foundation; an acoustic chord can expose the opening while an electronic layer carries the same harmony at the return. Another option gives the acoustic source the hook and uses electronics only for transitions. Choose one relation that can be heard. Do not make both families compete for every chord, attack, and lead answer simply to demonstrate a hybrid. If the lyric is dense, put busy acoustic grain or digital fills in the gaps and keep the central sung melody exposed.
 
+### Played material selected around a stable scaffold
+
+A programmed pulse or keyboard figure can establish continuity before a played source contributes detail. Describe the resulting relationship, not a recording-session instruction: retain the short phrases that answer finished sung thoughts, let them release when text resumes, and reserve a longer figure for an actual instrumental space. The player need not fill every beat or double the scaffold. This extends complementary source roles without requesting performances or files from the user.
+
+Similarly, ringing support can belong to one quiet common tone rather than a continuous moving counterline. A guitar may articulate lower changes while a keyboard or bowed source carries that tone; the lead retains a separate melody. When a sustained ensemble is wanted, give it one job—held harmony, local doubling or gap-only response—before deciding its source count. Contributor credits alone establish none of these allocations.
+
+### Recharacterize a part before adding a part
+
+A lyric turn can change the surface of an established part while its motif, chord timing or source role stays recognizable. Decide what should persist first. Then choose one material change: attack, note length, roughness, register or persistence. Introducing another source is an equally available choice, but it needs a different job. A new source that merely duplicates the existing midrange pulse spends space without clearly developing the song.
+
+| What the actual lyric needs | Original selectable change | Continuity and compatibility |
+| --- | --- | --- |
+| A statement becomes decisive | Existing chord strokes gain firmer attacks at the declaration | Their rhythm stays familiar; the pitched lead remains distinct. |
+| A guarded thought becomes sustained commitment | The established hook keeps its contour but its notes ring longer at the repeated line | Shorten other overlapping support if words remain dense. |
+| The final thought becomes exposed | Remove the chord layer's rough doubled body and leave its single clean line | Preserve the sung melody; withdrawal can characterize a turn. |
+| A return needs new color without another hook | Give the same answer figure to a contrasting carrier in its existing gap | The former carrier yields; rhythm and contour provide recognition. |
+
+These are proposals, not fixed emotional meanings. Firm resolve can use clear quiet attacks; sorrow can use a brisk bright setting if the brief wants that relationship. Reject an inherited color when it contradicts the current song. A selected timbral influence reaches Style as source + change + real lyric event: “The chord guitar keeps its rhythm but gains a firmer grain-edged attack at the declaration, then returns to clean short strokes beneath the final sung line.” Use only the clauses this lyric earns.
+
 ## Roles and interaction map
 
 | Role | Candidate audible design | Watch for |

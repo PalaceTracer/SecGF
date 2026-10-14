@@ -63,6 +63,20 @@ Original alternatives: “The refrain keeps its pitch range but doubles the fina
 
 Contrast one dimension while preserving an anchor: held verse chords versus faster refrain changes, narrow verse contour versus a rise, or clipped verse chords versus a sustained refrain. [Berklee’s hook discussion](https://online.berklee.edu/takenote/how-to-write-songs-with-killer-hooks/) treats placement and contrast as useful songwriting choices. Specify which figure returns so sections still feel related.
 
+## Harmonic development with a recognizable identity
+
+Distinguish three mechanisms. **Changed bass position** can alter a chord's landing while its identity persists: connecting or non-root verse support can give way to root-led refrain support. **Common-tone continuity** holds one compatible upper pitch across moving lower voices. **A changed tonal foundation** moves the center beneath a recognizable sung phrase. None requires copying a reference progression or stacking all three changes.
+
+[Written production and analytical evidence](../evaluation/SPOTIFY_PRODUCTION_RELATIONSHIPS.md) supports these as available design relationships with different source scopes. The implementations here are original proposals. An inversion changes the lowest chord tone, not the chord root itself; a higher melody is not automatically a key change. A common tone must fit the planned harmony, and a transposed phrase can retain contour/rhythm without retaining every absolute pitch.
+
+For a new lyric, select the actor, location and endpoint. Original alternatives: “Keep the chord cycle; bass makes its last refrain landing root-led”; “A quiet upper tone connects the verse's changing lower chords”; “At the perspective turn, the sung motif keeps its contour over a new harmonic foundation, settling at the existing return.” One song may need departure without return, or no departure at all. Use written section anchors and preserve the lead's pitched mode rather than inventing a final chorus or numerical key map.
+
+### Bass grounding, harmonic closure and compatible continuity
+
+Root position means a chord's root is its lowest chord tone; it does not mean that chord is the tonic or that the passage has resolved. A root-led return can give its chord a clear foundation while the sung or harmonic ending remains open. If the lyric needs rest, specify a return to the established harmonic center separately. Original alternatives: “The last bass note grounds the chord while the sung ending remains suspended”; “The existing refrain restores the earlier harmonic center without raising the lead's register.” These are conditional designs, not source transcriptions.
+
+A continuing upper note also needs compatibility with the planned chord succession. Retain it where that fit is intended; at a conflicting change, release it, rearticulate another suitable chord tone or transfer continuity to the motif's rhythm. Do not force one absolute pitch across unrelated harmony. Chapter 06 distinguishes vocal contour and stress continuity from literal pitch repetition. Select the continuity that matters to this lyric instead of requiring bass position, upper pitch and every vocal note to stay fixed together.
+
 ## Diagnostic questions
 
 1. Does the written brief supply a key or tonal center? If not, is an intended center important enough to propose, or should it remain unspecified?
