@@ -1,58 +1,29 @@
----
-chapter_id: "09"
-retrieval_tags: [lyrics, syllables, stress, diction, breath, intelligibility, narrative, word_priority, text_setting]
-use_when: "Read when finished lyrics have dense lines, crucial words, unusual stresses, or a narrative turn needing musical space."
-output_influence: style
----
+# 09 — Finished words and musical phrasing
 
-# 09 — Lyric–music fit
+## Inspect text, preserve words
 
-## Analyze words without rewriting them
+Lyrics come from the separate generator. Inspect their syllables, natural stress, complete thoughts, repetitions, meaningful reversals and intentional section tags as text. Do not rewrite, repeat or omit words to fit an admired organization. [Custom mode](https://help.suno.com/en/articles/2415873) supports the user's lyric input; it does not establish faithful rendering of any proposed phrasing.
 
-The Grok lyric generator supplies finished text; this chapter designs its delivery. Words go in Lyrics, decisive production cues in Style. [Suno Custom Mode](https://help.suno.com/en/articles/2415873/) documents the separate lyric field. The wording examples below are **written design hypotheses**. The songwriter never receives, hears, measures, or evaluates any audio.
+Words constrain performance but do not uniquely determine style. Dense text can use short syllabic sung notes at a moderate pulse, longer phrases across several bars, or another compatible design. Quiet language can inhabit a large ensemble; intense words can use a controlled clear melody. Do not turn narrative into speech or require a slow sparse setting for intimacy.
 
-Inspect the written lyric for syllable density, likely natural stress, complete thoughts, repetition, and turns. Identify meaning-bearing words that need emphasis and phrase boundaries that permit a breath or instrumental reply. Do not request an audio reading.
+## Stress, duration and complete thoughts
 
-| Lyric property | Musical choice to consider | Written audit |
-| --- | --- | --- |
-| Dense new information | Short, mostly syllabic notes over a stable pulse; less overlap. | Does the proposed note duration and accompaniment leave room for key words? |
-| A short repeated line | Simple melodic cell, then variation on a later return. | Does the proposed return retain its melodic cell? |
-| Consequential word | Longer note, beat accent, or cleared space. | Is the intended emphasis anchored to that exact word? |
-| Name or unfamiliar term | One foreground lead, crisp consonants. | Is its first statement assigned one exposed lead? |
-| Reversal | Change one musical axis at that exact line. | Is the proposed change anchored to the actual reversal? |
+Accent can come from beat position, pitch, duration, attack or surrounding rest. Coordinate consequential words with the chosen melody while allowing deliberate tension where the brief warrants it. [Prosody research](https://pmc.ncbi.nlm.nih.gov/articles/PMC3225926/) and [sung-word recognition research](https://doi.org/10.18061/emr.v9i1.3729) concern particular materials, not a universal emotional style map. Their English-language findings do not supply stress rules for every language.
 
-A deliberately breathless or mysterious line may call for a different choice.
+A printed line is not necessarily a breath or bar. A thought can cross several regular beats; a short clause can end before the bar and leave accompaniment continuous. A pause should not split a crucial negation or name unless that emphasis is intentional. Original fragment: “The verse sings a recurring arch across line breaks, with short definite pitches on dense words and a longer vowel after each completed thought.” This is proposed phrasing, not a transcription or full Style example.
 
-## Natural stress and musical accent
+For a through-developing passage, preserve a recognizable pitched cell while phrase length or destination changes. The recurring verse-contour requirement does not force an identical full melody at every line. Develop only actual refrains; a continuous stanza need not acquire a repeated hook.
 
-Speech stress and musical accent can reinforce or disrupt each other. Accents arise from beat, duration, pitch, attack, or surrounding silence. Studies examined [song-prosody alignment](https://pmc.ncbi.nlm.nih.gov/articles/PMC3225926/) and [sung-word recognition](https://doi.org/10.18061/emr.v9i1.3729). Inspect *important* words rather than scoring every beat in Style. The cited word-recognition material was sung in English; apply its stress findings most directly to English lyrics and analyze other written languages by their own prosody.
+## Word priority inside an ensemble
 
-“Short sung verse notes follow natural word stress over a recurring contour” gives a governing behavior for a sung song. “The repeated two-word line lands firmly on the beat” names a special case. A deliberate mismatch can make a phrase unstable: “the opening line enters early against a steady pulse, then its answer resolves on the beat.” Avoid blanket “syncopated vocals” if a later claim must sound plain and decisive.
+Clear consonant onsets/releases, suitable note duration, register allocation and selected phrase space can protect a key word. Neither solo singing nor sparse accompaniment is compulsory. A collective melody may own the text; separate parts need coordinated word timing or a deliberate text allocation. Never invent call-response lyrics, new characters or syllabic refrains to fill an ensemble design.
 
-**Written audit:** Match proposed beat emphasis and note duration to important words. Where stress is uncertain from text, avoid over-specific syllable placement. Clarify the intended phrasing or accompaniment without rewriting the finished lyric.
+A [multi-voice experiment](https://pubmed.ncbi.nlm.nih.gov/27068550/) reports word-recognition differences under its tested conditions. An [intelligibility survey](https://pubmed.ncbi.nlm.nih.gov/25249987/) reports beliefs rather than causal effect sizes. These support attention to overlap, not a ban on polyphony or a guarantee of clarity.
 
-## Density, breath, and melodic space
+A melisma gives several notes to one syllable and changes when the next word can arrive. The cited [word-recognition study](https://doi.org/10.18061/emr.v9i1.3729) supports considering syllabic versus ornate treatment for high-priority words; it does not prohibit runs. Ornament can serve an exposed word, a later actual repetition or another lyric-supported event. No mandatory plain-first/ornament-last arc follows.
 
-Syllable density depends on available time. A rapid line can ride a moderate pulse; a brisk track can carry measured vocals. Specify the relation: “quick syllabic sung notes over long held chords.” Dense information can still be melodic; shorten note lengths, repeat a pitch cell, and clear accompaniment without switching to speech. Put a breath or reply after the complete thought, not automatically at every printed line break.
+## Written fit audit
 
-A melisma gives multiple notes to one syllable. It may spotlight a feeling, but it delays the next word. In the tested material of a [sung-word recognition study](https://doi.org/10.18061/emr.v9i1.3729), syllabic settings were more intelligible than melismatic ones. This supports limiting ornate delivery on high-priority words while retaining purposeful vocal runs elsewhere. State a crucial hook simply first; decorate a later repetition or a wordless tail.
+Check phrase durations against relative pace; distinguish a chosen tempo from measured evidence. Keep the verse's recurring pitched behavior when pruning. Locate replies and overlaps in the available text, preserve meaningful stress, and assign any special vocal mode only to its explicitly requested or intentionally tagged section. Resolve an impossible phrase design through performance and arrangement choices before suggesting lyric work, which requires a separate explicit request.
 
-**Prompt hypothesis:** “Dense verses use a measured sung melody, mostly one short note per syllable, over sparse chords; instrumental answers wait until complete sentences.” **Written audit:** Place replies after complete sentences and give dense sung notes enough intended phrase space. If rapid phrasing would crowd the thought, moderate *its phrasing* rather than automatically changing the track's tempo.
-
-## Intelligibility is a scene, not a singer command
-
-A word may disappear because consonants blur, voices overlap, bright instruments mask it, or a long run stretches its syllable. An experiment found a modest decline in word recognition with multiple simultaneous singers versus one, particularly for some final consonants; a survey found musicians perceived diction and acoustic environment as important, but did not establish causal effect sizes. See [multi-voice experiment](https://pubmed.ncbi.nlm.nih.gov/27068550/) and [intelligibility survey](https://pubmed.ncbi.nlm.nih.gov/25249987/).
-
-For a first statement of a key word, try one centered lead, clear consonant starts and releases, little ornament, and an accompaniment gap. A repeated phrase may later gain doubles or harmony. For a crucial name, reduce proposed overlapping support or relocate simultaneous instrumental attacks. “Make all lyrics clear” does not identify the cause. Keep the written word and change the audible conditions around it.
-
-## Narrative turn and emotional relation
-
-An arrangement can reinforce or complicate a lyric. Ask what a line changes, then mark it with *one* event: drum dropout, bass shift, closer lead, bare motif, or contrasting instrumental answer.
-
-**Prompt hypothesis:** “The repeated line first rides a warm steady pulse; after the revelation, it returns with bare voice and one low sustained note.” **Written audit:** Keep the repeated words unchanged and make the proposed subtraction explicit. Remove global build wording that conflicts with the bare return. This is a composition proposal based on the lyric's change of meaning, not a rendered finding or formula for emotion.
-
-## Compile Style from the written lyric
-
-The private analysis can be detailed. The final Style field usually needs only one cue for dense text, one for crucial-word clarity, and one for the major turn. For a sung song: “A precise lead sings information-heavy verses on a compact recurring melody over sparse chords; the repeated phrase opens into longer notes, and instruments fall away for the final reversal.” Do not duplicate lyric lines in Style. Use a spoken cue only when the user's intent or performance tags call for it, and name its section.
-
-Before returning Style, verify the text-to-arrangement map: sung verse contour, note density, natural word emphasis, complete-thought gaps, foreground on key words, and one lyric-linked turning event. Preserve the finished text, and avoid claiming its generated delivery is clear, correctly stressed, or emotionally effective. The songwriter audits the proposal only; it does not request song files, perform listening exercises, diagnose generated syllables, or prescribe post-generation audio tests.
+No audio, transcription task, listening stage or generated-file review is required. The output contains only the four fields in [10](10-style-compiler.md); detailed prosody notes remain private.

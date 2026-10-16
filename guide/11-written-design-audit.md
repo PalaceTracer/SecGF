@@ -1,50 +1,31 @@
----
-chapter_id: "11"
-retrieval_tags: [written-audit, lyric-fit, compatibility, source-role, contract, character-count]
-use_when: "Use to check the written sound design before returning the four fields. No audio input or playback is involved."
-output_influence: audit
----
+# 11 — Written inheritance, relevance and contract audit
 
-# 11. Written design audit
+This audit concerns the intended design and its final text. The writer has no audio access and cannot certify what a generated song sounds like. No listening task, scorecard or recording request is a prerequisite.
 
-The songwriter receives finished lyrics, a written brief, written musical preferences and documented production descriptions. It never receives, hears, plays, measures or evaluates any audio: reference recordings, existing tracks, voice recordings and generated songs are all outside this workflow. The checks here concern the text of the proposed design, not whether a recording achieves it.
+## Inheritance and relevance
 
-## Check the available premises
+Privately ask which choices follow current instructions; which follow confirmed taste; which are original proposals justified by this song; and which arrived only because a case, profile or catalog label made them salient. Keep evidence status separate from musical usefulness. A reference-derived relation can be excellent without proving an isolated preference; an original idea needs no reference ancestry to be eligible.
 
-Use the current brief and conversation context. Treat an influence as an available design option, with the open palette supporting other sounds and original combinations. A creator's written account may support a reported production choice; contributor credits establish participation only. Do not invent a measured BPM, note range, chord map, stereo width or effect setting from a title, credit or category.
+Does every significant source and section instruction have a job? Would the design remain coherent if teaching cases were unavailable? Did catalog consultation reveal useful organization or merely add a label? Did forced novelty displace a better fitting familiar approach? Keep fitting similarities; revise unexplained inheritance. No difference quota or duty to use research.
 
-If the user voluntarily provides written feedback, distinguish that report from your own design reasoning. You still have no audio access. Do not request recordings, uploads, playback links or voice samples to complete the Style task. Written feedback is optional and is never a required next stage.
+## Musical coherence from text
 
-## Audit musical relationships in the text
-
-| Written check | Question about the proposed instructions |
+| Inspect | Written question |
 | --- | --- |
-| Lyric structure | Does each named section or repeated phrase actually exist in the finished lyric, or is an arrangement proposal explicitly identified? |
-| Vocal mode | For intended singing, does the verse have definite pitched behavior before intimacy, diction or texture? |
-| Phrase fit | Are dense words assigned suitable note lengths and complete-thought breathing spaces without rewriting them? |
-| Pulse | Are main beat, subdivision and felt weight distinguished where their relationship matters? |
-| Low end | Is bass supporting, replying to or leading the groove, and does the kick have a compatible job? |
-| Harmony | Are chord vocabulary, chord-change rate and note articulation separate choices rather than redundant adjectives? |
-| Hook | Is the recurring behavior assigned to a carrier, a location and a return? |
-| Source hierarchy | Do replies, countermelodies and background layers leave room for the specified lead role? |
-| Development | Does the contrast change a clear dimension while retaining the song's identity? |
-| Recording image | Are dryness, width, depth, roughness and duration assigned to particular sources and moments? |
-| Cuts | Does a requested complete cut also stop tails, or does the text clearly leave a voice or sustaining layer continuous? |
-| Ending | Does the endpoint follow the actual final thought instead of inserting an obligatory final refrain? |
+| Structure | Does the named stanza, refrain or bridge exist? Is an instrumental proposal distinct from text repetition? |
+| Time | Is pulse, shared flexible time or pulse-free phrasing intentional? Are meter, subdivision and phrase length distinct? |
+| Harmony | Are chord-change rate, voicing, bass destination, cadence and tonal movement coherently related where material? |
+| Melody | Is verse singing positively pitched and recurring? Does any transformation retain the intended cell or contour without copying a source tune? |
+| Ensemble | Are one foreground, inner tune, coequal lines or rotating ownership actually specified when important? Is overlap purposeful rather than automatically prohibited? |
+| Voice | Do register, force, articulation, duration and support have appropriate independent scopes? Are special modes explicitly requested/tagged? |
+| Development | Is growth, stasis, transformation, subtraction or contrast chosen for this form instead of inherited as a duty? |
+| Image | Are width, depth, texture and persistence attached to roles? Can requested tails coexist with cuts and chord changes? |
+| End | Does the ending follow the supplied text without obligatory new refrain, crescendo, fade or silence? |
 
-These questions detect contradictions or omissions in the written plan. They do not certify intelligibility, musical quality or obedience in a generated recording.
+Do not demand an answer to every row in the final paragraph. The audit detects material conflicts, not missing checklist clauses. A brief with no tempo, chord map or exact instrument roster can still be complete.
 
-## Revise the wording before counting
+## Final delivery
 
-Replace a vague adjective with a source relationship when it materially clarifies the design. Scope apparent conflicts: short dry lead versus long distant backing tails; narrow verse chords versus wider refrain support. Select one dominant hook when several parts claim foreground at the same moment. Keep a larger arrangement when its roles are compatible and the brief wants it.
+Finished lyrics unchanged. Intended singing includes recurring pitched verse or verse-equivalent behavior; actual refrains only. No rap direction. Speech, chant, whisper and shouts need explicit intent or intentional tags. Artist/work/geographic/persona shortcuts and researchIDs do not enter complete Style examples or final Style. The writer never requests or evaluates audio.
 
-Retain explicit requested qualities and the few relationships defining this song. For a sung song, keep the pitched verse clause during compression. The influence bank has no mandatory profile or quota. A small design can be complete, and another sound can be preferable to a bank option. Do not add a learned gesture solely to demonstrate palette use.
-
-## Verify the response contract
-
-1. **STYLE OF MUSIC:** one self-contained positive paragraph, with no artist/work shortcuts, regional labels, research IDs, citations or instructions to the model inside the paste-ready sound description.
-2. **CHARACTER COUNT:** tool-count the exact final paragraph, including internal spaces and punctuation but excluding labels, fences and trailing newline. Keep it at or below the user's observed 1,000-character target.
-3. **EXCLUDE:** only justified unwanted sound elements, separately, or `none`.
-4. **SONG TITLE:** one brief name derived from the lyric and internal attribute rationale. Do not print the rationale.
-
-Finished lyrics stay unchanged. Rap remains excluded from the project's genre, subgenre, tag and vocal-direction choices. Do not add an audio task, scorecard, predicted listening result, review of a generated take or fifth field. Once the written design, exact count and four-field structure are checked, return the response.
+The response has exactly STYLE OF MUSIC, CHARACTER COUNT, EXCLUDE, SONG TITLE. Style is one positive self-contained paragraph at most 1,000 characters; exact final count is tool-verified after all edits. Necessary avoidances stay separate and may be none; title is brief and original. No rationale, citation, listening field or extra commentary. If verification is unavailable, disclose the unmet gate rather than inventing compliance.

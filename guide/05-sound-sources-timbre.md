@@ -1,15 +1,8 @@
----
-chapter_id: "05"
-retrieval_tags: [instrument_roles, timbre, sound_sources, attack, decay, sustain, release, articulation, filtering, modulation, noise, layering, hook_handoff, acoustic_electronic, spectral_balance]
-use_when: "Read when selecting a few defining sound sources or turning vague texture words into audible timbre and arrangement instructions."
-output_influence: style
----
-
 # 05 — Sound sources and timbre
 
 ## Choose roles before names
 
-A Style field cannot carry an inventory of every sound. Decide what each needed source **does**: marks the pulse, carries bass, supports chords, states the hook, answers the lead, makes atmosphere, or punctuates a transition. Assign no more than one main carrier to a role unless the intended effect is a clear layer or exchange. “Plucked upper figure answers the vocal” is often more useful than a list of possible instruments because it specifies register, articulation, and timing. A named instrument can still be useful when its characteristic sound is indispensable, but do not expect the name alone to determine performance.
+A Style field cannot carry an inventory of every sound. Decide what each needed source **does**: marks the pulse, carries bass, supports chords, states the hook, answers the lead, makes atmosphere, or punctuates a transition. Decide whether a role belongs to one carrier, a deliberately doubled ensemble, or several independent parts. Shared responsibility can define the design; clarify how it works. “Plucked upper figure answers the vocal” is often more useful than a list of possible instruments because it specifies register, articulation, and timing. A named instrument can still be useful when its characteristic sound is indispensable, but do not expect the name alone to determine performance.
 
 Separate **source identity** from **timbre** and **part behavior**. A keyboard source may have a rounded, sustained tone or a bright, short one; the same nominal source can occupy foreground or background. A guitar-like source can strum chords, play short single notes, sustain a line, scrape rhythmically, or create noise. The Style prompt should carry the smallest combination that prevents an unwanted substitution: source family, audible tone, role, and timing. A sound that has no clear job in the listener’s mental image probably does not deserve prompt space.
 
@@ -52,25 +45,6 @@ These source families describe production possibilities, not fixed emotional pro
 
 For acoustic/electronic coexistence, assign complementary jobs. A picked string can mark the offbeats while a smooth low synth holds the foundation; an acoustic chord can expose the opening while an electronic layer carries the same harmony at the return. Another option gives the acoustic source the hook and uses electronics only for transitions. Choose one relation that can be heard. Do not make both families compete for every chord, attack, and lead answer simply to demonstrate a hybrid. If the lyric is dense, put busy acoustic grain or digital fills in the gaps and keep the central sung melody exposed.
 
-### Played material selected around a stable scaffold
-
-A programmed pulse or keyboard figure can establish continuity before a played source contributes detail. Describe the resulting relationship, not a recording-session instruction: retain the short phrases that answer finished sung thoughts, let them release when text resumes, and reserve a longer figure for an actual instrumental space. The player need not fill every beat or double the scaffold. This extends complementary source roles without requesting performances or files from the user.
-
-Similarly, ringing support can belong to one quiet common tone rather than a continuous moving counterline. A guitar may articulate lower changes while a keyboard or bowed source carries that tone; the lead retains a separate melody. When a sustained ensemble is wanted, give it one job—held harmony, local doubling or gap-only response—before deciding its source count. Contributor credits alone establish none of these allocations.
-
-### Recharacterize a part before adding a part
-
-A lyric turn can change the surface of an established part while its motif, chord timing or source role stays recognizable. Decide what should persist first. Then choose one material change: attack, note length, roughness, register or persistence. Introducing another source is an equally available choice, but it needs a different job. A new source that merely duplicates the existing midrange pulse spends space without clearly developing the song.
-
-| What the actual lyric needs | Original selectable change | Continuity and compatibility |
-| --- | --- | --- |
-| A statement becomes decisive | Existing chord strokes gain firmer attacks at the declaration | Their rhythm stays familiar; the pitched lead remains distinct. |
-| A guarded thought becomes sustained commitment | The established hook keeps its contour but its notes ring longer at the repeated line | Shorten other overlapping support if words remain dense. |
-| The final thought becomes exposed | Remove the chord layer's rough doubled body and leave its single clean line | Preserve the sung melody; withdrawal can characterize a turn. |
-| A return needs new color without another hook | Give the same answer figure to a contrasting carrier in its existing gap | The former carrier yields; rhythm and contour provide recognition. |
-
-These are proposals, not fixed emotional meanings. Firm resolve can use clear quiet attacks; sorrow can use a brisk bright setting if the brief wants that relationship. Reject an inherited color when it contradicts the current song. A selected timbral influence reaches Style as source + change + real lyric event: “The chord guitar keeps its rhythm but gains a firmer grain-edged attack at the declaration, then returns to clean short strokes beneath the final sung line.” Use only the clauses this lyric earns.
-
 ## Roles and interaction map
 
 | Role | Candidate audible design | Watch for |
@@ -78,13 +52,14 @@ These are proposals, not fixed emotional meanings. Firm resolve can use clear qu
 | Rhythm bed | Repeated clipped attacks on a stable subdivision | Duplicating hats or competing with consonants |
 | Harmonic support | Held, widely spaced tones behind the lead | Tails blurring chord changes or lyrics |
 | Hook carrier | Short recognizable figure in one exposed register | Hook repeating so often it loses emphasis |
-| Counterline | Sparse notes between vocal lines | Simultaneous activity masking the lead |
+| Counterline | An independent simultaneous melodic path | Unplanned competing peaks or indistinguishable roles |
+| Reply | A figure after a completed phrase | Insufficient space before the next entry |
 | Atmosphere | Low-level evolving noise or sustained color | Texture becoming louder than the song’s core |
 | Transition marker | One brief swell, strike, or drop | Constant decoration erasing section boundaries |
 
 ## Density, register, and layers
 
-**Layer count** is distinct from perceptual density. Two long overlapping sounds can fill more space than five short punctuations. Density rises with overlapping durations, similar registers, repeated attacks, and reverb tails. To protect a vocal, limit concurrency in its register and phrase spaces rather than simply reducing all volume. A low bass, high accent, and midrange lead can coexist more clearly than three simultaneous midrange melodies. This is an arrangement heuristic for choosing intended source positions; it does not establish a rendered result. The songwriter uses only written inputs and never receives any audio.
+**Layer count** is distinct from perceptual density. Two long overlapping sounds can fill more space than five short punctuations. Density rises with overlapping durations, similar registers, repeated attacks, and reverb tails. To protect a vocal, limit concurrency in its register and phrase spaces rather than simply reducing all volume. A low bass, high accent, and midrange lead can coexist more clearly than three simultaneous midrange melodies. This is a conditional arrangement heuristic for the written plan. Dense interdependent parts may also be appropriate; the songwriter has only written inputs.
 
 **Register handoff** is a useful alternative to piling up layers. A high figure can disappear when the lead moves high, then return when the voice descends. A low pad can recede when bass becomes active. “The high pluck answers only in vocal gaps” encodes this as an audible arrangement rule. If the prompt budget is tight, one such interaction outranks a long list of source names.
 
@@ -105,9 +80,23 @@ Distinguish three arrangements. A **reply** adds a figure after a lead phrase. A
 
 A wordless processed vocal can occupy the hook or answer role when the brief requests it; keep it distinct from the intelligible sung lead. Source handoff is especially useful when another layer would overload the lead register. Doubling may supply emphasis, but its first statement can remain exposed. State which source yields space rather than asking every layer to be prominent.
 
-## Original prompt fragments and intended behavior
+## Ensemble organization can be the primary identity
 
-These fragments specify proposed musical behavior; they are not official Suno syntax or claims about generated results. The songwriter never receives, hears, or evaluates any audio.
+Source identity, part and performer count are different. A single fingerpicked instrument can maintain a bass pulse while its upper notes form an independent line; multiple sources can articulate one shared melody. A block ensemble can move in coordinated chords; a contrapuntal ensemble can keep several paths distinct. Neither is defined by a longer instrument list.
+
+An ensemble may organize attention through one foreground, an inner tune with surrounding parts, deliberate equality, continuous shared melody, or alternating section statements. Choose the relationship, not a rule that all other parts must wait for a lead to stop. A rhythm section can stay continuous while arranged sections answer one another; a whole rhythm-section ownership change is different from adding guitar decoration over an unchanged programmed beat.
+
+A small ensemble may state a theme, develop it in an actual instrumental space and return it, whereas a larger arranged ensemble can build its argument through coordinated sections. Neither requires invented lyric repetitions or a solo break. If the brief already supplies every sung line continuously, preserve that time and adapt instrumental responsibility around it.
+
+## Accompaniment can carry an independent argument
+
+A piano, plucked figure or sustained line can anticipate, question or continue a sung phrase through contour, harmonic tension or placement. It need not repeat the singer or merely fill gaps. Define what its activity contributes, then decide which moments need equality and which need vocal priority. The intended relationship can deliberately complicate the words without borrowing a source story.
+
+New color can come from changing an existing part's envelope, register, roughness or role instead of always adding a part. Purposeful doubling can also be the point: shared attack or octave reinforcement is not automatically redundant. Continuous acoustic/electronic coexistence, alternating ownership and envelope contrast are separate useful choices. Reject a color that does not serve the current brief; no emotion has a mandatory timbre.
+
+## Original prompt fragments and intended results
+
+These fragments describe intended results; they are not official Suno syntax or claims about generated audio. The songwriter never hears generated files.
 
 | Intent | Candidate Style fragment | Intended audible result |
 | --- | --- | --- |
@@ -117,9 +106,3 @@ These fragments specify proposed musical behavior; they are not official Suno sy
 | Slow motion inside a held sound | “Soft sustained upper tone gradually brightens without adding new notes.” | Tone evolves while pitch stays stable. |
 | Contrasting surfaces | “Rough short chord attacks sit beneath a smooth, airy sustained layer.” | Distinct foreground and background textures. |
 | Cleaner lyric space | “Bass and dry pulse stay low; high accents occur only after line endings.” | The lead has an uncluttered middle register. |
-
-## Written source-role audit
-
-Before compilation, inspect the proposed arrangement as text. Does each selected source have a role, register, envelope, and entrance? Do answers wait for completed vocal phrases? Does a handoff retain the motif's contour or rhythm? Are rough textures localized so the intended lead stays clear? A complete cut must state whether sustained notes and effect tails stop too.
-
-Resolve likely conflicts in the design: shorten overlapping chord tails, separate simultaneous melodic roles, move fills into lyric gaps, or develop one existing source rather than adding another layer. These are revisions to an intended arrangement, not diagnoses of generated sound. Source identity, role, and timbre are separate choices; specify only those essential to the current brief. Do not request playback, recordings, timestamps, or heard-result confirmation.

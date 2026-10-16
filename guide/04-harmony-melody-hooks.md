@@ -1,17 +1,10 @@
----
-chapter_id: "04"
-retrieval_tags: [harmony, harmonic_rhythm, chord_loop, pedal_tone, voicing, melody, contour, motif, hook, call_response, countermelody, independent-motifs, phrase-led-entry, melodic-destination]
-use_when: "Read when choosing chord movement, melodic contour, hook function, or contrast between lyric sections."
-output_influence: style
----
-
 # 04 — Harmony, melody, and hooks
 
 ## The decision this chapter supports
 
 Specify what changes in pitch over time and what stays put. Harmony is the simultaneous support around a melody; melody is a timed path of pitches and rests. A prompt is more useful when it says whether chords hold or turn, whether the lead line climbs or circles, and which sound carries a recurring idea. “Beautiful melody and rich chords” predicts almost nothing. “Two repeating chords beneath a narrow verse line; the refrain opens into a longer, rising vocal phrase” predicts shape and contrast without requiring a named category.
 
-Finished lyrics are the input. These definitions are stable compositional tools; Style phrasings are unverified design proposals, not exact note commands. The songwriter never receives, hears, plays, measures, or evaluates reference, preexisting, or generated audio. Use finished lyrics, the current written brief, and documented musical descriptions to choose the intended pitch relationships.
+Finished lyrics are the input. These definitions are compositional tools; Style phrasings are untested proposals, not exact note commands.
 
 ## Harmonic center and emotional color
 
@@ -39,11 +32,11 @@ An **arpeggio** sounds chord tones in sequence; a **stab** is a short chord atta
 
 ## Motifs and the hook’s carrier
 
-A **motif** is a small recognizable rhythmic or pitch figure that returns or transforms. It may belong to the voice, bass, chords, or a short lead sound. Return it clearly before varying its last note, register, or carrier. [Berklee’s motif guide](https://online.berklee.edu/takenote/simple-tools-for-better-melodies/) offers this as a compositional method, not a promise of memorability.
+A **motif** is a small recognizable rhythmic or pitch figure that returns or transforms. It may belong to the voice, bass, chords, or a short lead sound. A motif may return literally or become recognizable through transformed rhythm, contour or carrier; choose the degree of recurrence this song needs. [Berklee’s motif guide](https://online.berklee.edu/takenote/simple-tools-for-better-melodies/) offers this as a compositional method, not a promise of memorability.
 
 A **hook** is the feature the listener can recall and locate. Specify its **carrier**, **shape**, **position**, and **return**: “a three-note rising vocal figure opens each refrain; a bright pluck echoes it after the line.” “Catchy” describes a hoped-for result, not the implementation.
 
-**Call and response** alternates a phrase with an answering source. A **countermelody** runs simultaneously and needs a separate register or restrained level. For dense lyrics, “two high notes answer in the gaps after each line” is safer than a continuous competing part.
+**Call and response** alternates a phrase with an answering source. A **countermelody** runs simultaneously; register, articulation, duration, dynamics or staggered peaks can distinguish it when separation is intended. For dense lyrics, “two high notes answer in the gaps after each line” is safer than a continuous competing part.
 
 ## Section contrast without arbitrary complexity
 
@@ -51,7 +44,7 @@ A **hook** is the feature the listener can recall and locate. Specify its **carr
 
 A vocal tune and an instrumental motif need not share every pitch or rhythm. A repeated guitar, piano or bass figure can be the continuity cue while the lead sings a separate contour. Decide which identity is foreground at each moment. Original hypothesis: “A short repeating guitar figure underpins the verse's independent stepwise tune; the figure recedes as the refrain holds longer notes.” The recession is a new arrangement proposal, not a presumed feature of a reference.
 
-Alternatively, let a meaningful finished phrase determine the first melodic entry: expose its tune early, then confirm the pulse with accompaniment. This does not require an unaccompanied opening or the insertion of new text. Phrase-first entry, instrumental prefiguration and delayed hook arrival are different choices. [Anonymous production evidence](../evaluation/PREFERENCE_ATTRIBUTE_ARCHITECTURE.md) documents examples of phrase-led writing and independent instrumental/vocal construction; it does not supply a tune to copy.
+Alternatively, let a meaningful finished phrase determine the first melodic entry: expose its tune early, then confirm the pulse with accompaniment. This does not require an unaccompanied opening or the insertion of new text. Phrase-first entry, instrumental prefiguration and delayed hook arrival are different choices. [Anonymous production evidence](../provenance/RESEARCH_CONTEXT.md) documents examples of phrase-led writing and independent instrumental/vocal construction; it does not supply a tune to copy.
 
 ### Reserve, expand or suspend the melodic destination
 
@@ -61,25 +54,33 @@ For harmonic contrast, first ask whether a new chord, a changed chord duration, 
 
 Original alternatives: “The refrain keeps its pitch range but doubles the final vowel's duration”; “One larger leap marks the repeated declaration before stepwise settling”; “The final thought ends suspended while the accompaniment withdraws.” These are selectable prompt hypotheses, not a mandated sequence or evidence of heard results.
 
-Contrast one dimension while preserving an anchor: held verse chords versus faster refrain changes, narrow verse contour versus a rise, or clipped verse chords versus a sustained refrain. [Berklee’s hook discussion](https://online.berklee.edu/takenote/how-to-write-songs-with-killer-hooks/) treats placement and contrast as useful songwriting choices. Specify which figure returns so sections still feel related.
+One optional contrast preserves an anchor while changing a dimension: held verse chords versus faster refrain changes, narrow verse contour versus a rise, or clipped verse chords versus a sustained refrain. [Berklee’s hook discussion](https://online.berklee.edu/takenote/how-to-write-songs-with-killer-hooks/) treats placement and contrast as useful songwriting choices. Specify which figure returns so sections still feel related.
 
-## Harmonic development with a recognizable identity
+## Harmonic sentences and several timescales
 
-Distinguish three mechanisms. **Changed bass position** can alter a chord's landing while its identity persists: connecting or non-root verse support can give way to root-led refrain support. **Common-tone continuity** holds one compatible upper pitch across moving lower voices. **A changed tonal foundation** moves the center beneath a recognizable sung phrase. None requires copying a reference progression or stacking all three changes.
+A harmonic route can be cyclic, pedal-centered, cadence-led or traveling. A cadence is a phrase-ending harmonic/melodic event with a chosen degree of closure. It can organize an unequal phrase span rather than arrive at identical production-block lengths. Do not equate every root-position bass note with tonal home, or every higher note with a key change. Stable harmony can focus attention on changing words; moving harmony can support a stable instrumental rhythm.
 
-[Written production and analytical evidence](../evaluation/SPOTIFY_PRODUCTION_RELATIONSHIPS.md) supports these as available design relationships with different source scopes. The implementations here are original proposals. An inversion changes the lowest chord tone, not the chord root itself; a higher melody is not automatically a key change. A common tone must fit the planned harmony, and a transposed phrase can retain contour/rhythm without retaining every absolute pitch.
+Voicing, inversion and harmonic rhythm are separate. Inversion changes the lowest chord tone without changing the chord root; voice leading describes how individual tones move. A compatible common upper tone can connect lower changes. At a conflicting change, release it, adapt it or carry continuity through rhythm rather than forcing one pitch. No key or progression is copied from a reference merely to make a prompt look precise.
 
-For a new lyric, select the actor, location and endpoint. Original alternatives: “Keep the chord cycle; bass makes its last refrain landing root-led”; “A quiet upper tone connects the verse's changing lower chords”; “At the perspective turn, the sung motif keeps its contour over a new harmonic foundation, settling at the existing return.” One song may need departure without return, or no departure at all. Use written section anchors and preserve the lead's pitched mode rather than inventing a final chorus or numerical key map.
+Harmony need not be a continuous chord bed. Bass and melody can define intervals that imply or withhold harmonic grounding. A drone holds a center while upper notes change its tension; it is not the same as cycling a chord set. A repeated accompaniment figure can retain attack rhythm while its notes take different harmonic routes. The current brief decides whether harmonic simplicity, richness, ambiguity or directed closure is useful.
 
-### Bass grounding, harmonic closure and compatible continuity
+## Phrase organization and motif transformation
 
-Root position means a chord's root is its lowest chord tone; it does not mean that chord is the tonic or that the passage has resolved. A root-led return can give its chord a clear foundation while the sung or harmonic ending remains open. If the lyric needs rest, specify a return to the established harmonic center separately. Original alternatives: “The last bass note grounds the chord while the sung ending remains suspended”; “The existing refrain restores the earlier harmonic center without raising the lead's register.” These are conditional designs, not source transcriptions.
+A recurring pitched cell can be extended, contracted, sequenced or moved to a new harmonic setting. A longer phrase may cross several bars; several short cells may form one sentence. State the chosen relation rather than equating every line break with a bar or requiring all phrases to have equal length. In intended sung verses retain a recurring definite contour or cell even when the larger melody develops through the text.
 
-A continuing upper note also needs compatibility with the planned chord succession. Retain it where that fit is intended; at a conflicting change, release it, rearticulate another suitable chord tone or transfer continuity to the motif's rhythm. Do not force one absolute pitch across unrelated harmony. Chapter 06 distinguishes vocal contour and stress continuity from literal pitch repetition. Select the continuity that matters to this lyric instead of requiring bass position, upper pitch and every vocal note to stay fixed together.
+Literal repetition preserves pitches and rhythm; transposition preserves their interval pattern in another pitch region; freer variation can retain only a rhythm, opening gesture or destination. Specify the recognition needed. A held refrain note, a transformed verse cell, a low repeated interval or a cadence can have different responsibilities. No universal requirement for a single exposed hook, new chord, highest note or larger final return.
+
+## Independent lines are more than answers
+
+An **answer** follows a phrase. A **double** reinforces its contour simultaneously. **Counterpoint** coordinates independent melodic lines; an independent countermelody may run at the same time as the sung tune. **Imitation** introduces a recognizable cell later in another part. These relationships need not produce the same foreground hierarchy.
+
+When words need priority, different register, note duration, attack, dynamics or staggered phrase peaks can help distinguish independent parts. Gap-only answers are one option, not a prohibition of simultaneous melody. Equal lines can intentionally share attention; a tune can lie inside an ensemble rather than always at its top. Do not request independent counterpoint and exact unison from the same pair at the same moment.
+
+Original fragments: “The sustained sung arch overlaps a clipped rising instrumental line, with their peaks separated”; “A second pitched part takes up the cell after its first entrance while the earlier line continues”; “Bass and voice define the harmonic path through their moving intervals.” These are design proposals, not claims of a tradition's complete grammar or guaranteed generator behavior. Use detailed [specialist notes](../optional/SPECIALIST_NOTES.md) only if the chosen relation needs more explanation.
 
 ## Diagnostic questions
 
-1. Does the written brief supply a key or tonal center? If not, is an intended center important enough to propose, or should it remain unspecified?
+1. Is a tonal center supplied as a written fact, chosen as a proposal, or intentionally left unspecified?
 2. Does the song’s emotional change require a new chord, a changed chord duration, a wider voicing, or a different melody?
 3. Which section has the fewest distinct chords, and what moves instead?
 4. Where is the highest, longest, or most exposed vocal note, and which lyric stress earns it?
@@ -99,15 +100,3 @@ These are original candidate fragments, not certified commands to a generator.
 | “More musical bridge.” | “Bridge briefly leaves the chord loop while a held upper note preserves continuity.” | Contrast without total loss of identity. |
 | “Rich harmony.” | “Held, widely spaced chords open beneath the refrain; verse chords remain clipped and narrow.” | Contrast in voicing and duration. |
 | “An answering instrument.” | “Two bright plucked notes answer only after the lead finishes each line.” | Clear alternation rather than overlap. |
-
-## Written pitch and hook audit
-
-Check the planned relationships against the finished lyric before returning; audio and listening results are unavailable.
-
-- If the plan needs harmonic stability, specify a returning center or economical chord set rather than claiming a reference's key.
-- If the arrangement needs development, consider chord duration, bass motion, or voicing before adding many chords.
-- Locate any proposed melodic peak at an actual lyric stress; preserve definite verse pitch behavior as well as refrain shape.
-- Give the main hook a carrier, contour or rhythm, entrance, and return. Distinguish a new design proposal from a written source observation.
-- Put a hook answer in a planned vocal gap when dense words need foreground clarity; check that a simultaneous counterline has an assigned register or restrained role.
-
-The audit establishes written specificity and compatibility, not rendered harmony, memorability, or a heard result. No audio input or post-generation evaluation is required.

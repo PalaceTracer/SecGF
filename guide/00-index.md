@@ -1,54 +1,33 @@
----
-chapter_id: "00"
-retrieval_tags: [index, routing, scope, evidence]
-use_when: "Read at the start of every song-style task."
-output_influence: routing
----
+# 00 — Operational reading route
 
-# Suno sound-attribute guide: retrieval index
+This edition designs intended sound from finished lyrics, current intent, confirmed preferences and written evidence. It does not write lyrics or evaluate audio. All wording examples are untested design proposals. The 1,000-character ceiling is the user's contract, not a measured Suno capability.
 
-**Status:** researched chapter draft. **Purpose:** turn the user's finished lyrics and desired sound into a concise, testable Suno Style of Music entry. The existing lyric generator remains responsible for the words. The guide is organized by audible decisions.
+## Routine route
 
-**Workflow boundary:** Grok writes the Style prompt from finished lyrics, written preferences and documented textual production descriptions. It never receives, hears, plays, measures or evaluates any audio, including reference recordings, existing tracks, voice samples and generated songs. No audio upload, playback or post-generation listening stage is an input or prerequisite. Chapters describe intended musical behavior; checks concern the written plan and output contract only.
+Read this index, [01 purpose and evidence](01-purpose-interfaces.md), [02 musical organization](02-attribute-vocabulary.md) and [10 compiler](10-style-compiler.md). These contain all required procedures and constraints without optional retrieval. For sung work use [06 vocals](06-vocal-architecture.md); consult [09 lyric fit](09-lyric-music-fit.md) for phrasing and [11 written audit](11-written-design-audit.md) before returning. Use other craft chapters for consequential design questions; their dimensions are not clauses to fill.
 
-## LLM reading route
+| Operational chapter | Retrieve to decide |
+| --- | --- |
+| [03 time, percussion and bass](03-pulse-percussion-bass.md) | Pulse or flexible time, grouping, accents, rhythmic independence, low-end roles |
+| [04 harmony, melody and hooks](04-harmony-melody-hooks.md) | Harmonic route, voicing, cadence, phrase span, independent lines and recognition |
+| [05 sources and ensemble](05-sound-sources-timbre.md) | Part ownership, timbre, envelopes, source continuity and exchange |
+| [06 vocal organization](06-vocal-architecture.md) | Pitched solo or collective melody, phrasing, force, support and actual text ownership |
+| [07 form and development](07-section-form-dynamics.md) | Strophic or developing text, recurrence, episodes, process, stasis and endings |
+| [08 recording image](08-recording-mix.md) | Depth, width, articulation, density, intentional overlap and timed effects |
+| [09 lyric fit](09-lyric-music-fit.md) | Stress, syllables, breath, sentence boundaries and protected words |
+| [11 written audit](11-written-design-audit.md) | Inheritance, relevance, role compatibility and output compliance |
 
-1. Read this index, Chapter 01 for current interface behavior, Chapter 02 for the attribute map, and Chapter 10 for the output contract.
-2. Inspect the finished lyrics and the conversation's musical preferences. Use Chapter 02's reusable influence bank alongside the wider guide as an open palette for optimization. Choose, adapt or develop relationships that make this song more specific; another sound or original combination remains available when it fits the brief. Read Chapter 06 for every vocal song to decide vocal mode by section; read Chapter 09 when text density or narrative affects phrasing. Retrieve the other focused chapters for the axes that determine this song. Use Chapter 11 when the written design needs an additional compatibility or contract check. Do not assume a chapter was read merely because its filename appears here.
-3. Keep the user's explicit wishes, documented production accounts and your own proposals separate. All evidence available to the songwriter is written. It cannot report direct audio observations or request recordings.
-4. Return the output fields from Chapter 10. Treat the user's observed 1,000-character Style target as binding and verify the exact final count with a counting tool.
+Establish a provisional musical direction from the brief and confirmed preferences before retrieving complete optional arrangements. An explicitly requested reference is current intent and can be researched immediately. Meaningful uncertainty can justify research; it does not require retreat to familiar material. A better musical idea found later can reshape the direction. No bank candidate, example, genre, influence, contrast or novelty receives a guaranteed slot.
 
-The operative influence bank is included in Chapter 02 and therefore in the combined guide. The optional `evaluation/PREFERENCE_ATTRIBUTE_ARCHITECTURE.md` supplies fuller design detail and evidence-audit links when a deep research task calls for them. Ordinary song work can use the compact bank directly. Express fitting influences through actual melodic, rhythmic, source and section behavior in Style. The palette expands the available choices; it introduces no required profile, influence quota or closed style list. A candidate derived from the research is available to use without asserting that its isolated trait is a confirmed preference. Keep source IDs, artist/work names, nationality and regional shortcuts out of Style.
+## Optional retrieval, only for a named question
 
-| Chapter | Read when the task involves | File |
-| --- | --- | --- |
-| 01. Purpose and interfaces | Field separation, current controls, product facts, evidence labels | `01-purpose-interfaces.md` |
-| 02. Attribute vocabulary and influence bank | Any new song; open palette, candidate selection, ranking wishes and resolving conflicts | `02-attribute-vocabulary.md` |
-| 03. Pulse, percussion, bass | Beat feel, subdivision, drum–bass interaction, low-note length | `03-pulse-percussion-bass.md` |
-| 04. Harmony, melody, hooks | Chord economy, harmonic motion, melodic figure, call and response | `04-harmony-melody-hooks.md` |
-| 05. Sound sources and timbre | Which source does which job; attack, decay, articulation, layering | `05-sound-sources-timbre.md` |
-| 06. Vocal architecture | Lead register and delivery, diction, doubles, harmonies, vocal development | `06-vocal-architecture.md` |
-| 07. Section form and dynamics | Opening, verse restraint, refrain lift, contrast, ending | `07-section-form-dynamics.md` |
-| 08. Recording and mix | Dry/wet, near/far, width, depth, texture, dynamics | `08-recording-mix.md` |
-| 09. Lyric–music fit | Stress, syllable density, breathing, narrative pacing, word clarity | `09-lyric-music-fit.md` |
-| 10. Style compiler | Converting the profile into one paste-ready paragraph | `10-style-compiler.md` |
-| 11. Written design audit | Text-only lyric fit, role compatibility and final contract checks | `11-written-design-audit.md` |
-| 12. Worked cases | Seeing original briefs, selected attributes, and compact Style examples | `12-worked-cases.md` |
+- [Catalog](../optional/catalog/EXPANDED_SONG_STYLE_CATALOG.md): discovery labels, mechanisms, categories and claim boundaries. Search for the question at hand rather than reading104 rows routinely. Absence is not exclusion; catalog membership is not taste or model support.
+- [Influence profiles](../optional/INFLUENCE_PROFILES.md): complete researched proposal bundles, useful only when their relationship could clarify or improve the provisional direction.
+- [Teaching cases](../optional/12-worked-cases.md): demonstrations for a specific craft problem. Learn the principle, then return to this song; do not select its nearest complete arrangement.
+- [Specialist notes](../optional/SPECIALIST_NOTES.md): deeper explanations when a chosen time, contrapuntal or formal relation needs clarification.
 
-## Evidence labels
+These resources are physically absent from the combined operational guide. Unavailable optional material does not block a design from the available brief and general knowledge. Never pretend to have retrieved an inaccessible source. If a current request depends on its details, report that limitation honestly.
 
-- **Documented interface fact:** a current first-party Suno page supports the statement. Recheck after a product update.
-- **Musical principle:** an account of how audible features relate, with a technical or research source where a nontrivial claim warrants one.
-- **Documented production account:** a creator or performer reports a composition, arrangement or delivery decision. This supports the reported choice, not our independent listening, a measured signal property, or the user's reason for liking it. Contributor credits establish participation, not audible role or mix position.
-- **Prompt hypothesis:** proposed wording for intended musical behavior; its execution is unverified. Check its written specificity and compatibility without claiming a resulting sound.
-- **User-provided written feedback:** an optional report supplied in text. Treat it as the user's report, not your direct observation; no recording is supplied or requested.
+## Delivery rule
 
-These labels distinguish available controls, written accounts and intended designs without claiming guaranteed obedience. They also keep research support tied to the relevant chapter instead of making a source list into a style recipe.
-
-## Scope and defaults
-
-Use finished lyrics; do not silently rewrite them. Do not use named artists or works as shortcuts in output prompts or examples. There is no fixed base-genre catalog in this guide: Chapter 02 maps audible attributes, while user-supplied genres and songs are references for a particular request. If the user supplies a genre or other reference, extract the requested audible traits and give those traits priority over the label. Do not introduce rap as a genre, subgenre, or vocal direction. Specific beat, vocal, source, and mix characteristics make the direction usable.
-
-Exact tempo and key are optional. Do not invent them to look precise. Positive energy, electronic motion, and economical harmony are recurring user interests, not universal requirements for every song. Let the current lyric and explicit brief decide.
-
-The chapter files are the operative guide. The older `RESEARCH_BLUEPRINT.md` documents the plan that led here; `GROK_RUNBLOCK_DRAFT.md` is a prototype. Keep this index and the short project instruction in sync when the chapter guide changes.
+Return exactly STYLE OF MUSIC, CHARACTER COUNT, EXCLUDE, SONG TITLE as defined in 10. Preserve finished lyrics; specify recurring pitched verse behavior for intended singing and treat only actual refrains. No rap direction; special speech/chant/whisper/shout modes need explicit intent or an intentional performance tag. No artist/work/geographic shortcuts or researchIDs in final Style or complete examples. No audio files, invented heard results, listening task or printed rationale.

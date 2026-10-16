@@ -1,15 +1,8 @@
----
-chapter_id: "07"
-retrieval_tags: [form, section, opening, verse, refrain, contrast, build, drop, hard_cut, micro_silence, withdrawal, ending, dynamics, lyric_structure]
-use_when: "Read when finished lyrics contain sections or the recording needs a planned change in energy, density, or focus."
-output_influence: style
----
-
 # 07 — Section form and dynamic arc
 
 ## Build from the lyric's events
 
-Form is the audible pattern of entrance, return, contrast, and ending. Read the *finished* lyric before designing it. Mark where new information appears, a phrase repeats, a perspective changes, and the last statement lands. The Style field should specify only the musical changes that make those events legible; the words and useful section headings stay unchanged in Lyrics. [Suno Custom Mode](https://help.suno.com/en/articles/2415873/) provides separate lyric input. Every section cue suggested here is a **prompt hypothesis**, not a guaranteed instruction to the generator. The songwriter works from lyrics and written preferences and never receives, hears, or evaluates any audio.
+Form is the audible pattern of entrance, return, contrast, and ending. Read the *finished* lyric before designing it. Mark where new information appears, a phrase repeats, a perspective changes, and the last statement lands. The Style field should specify only the musical changes that make those events legible; the words and useful section headings stay unchanged in Lyrics. [Suno Custom Mode](https://help.suno.com/en/articles/2415873/) provides separate lyric input. Every section cue suggested here is a **prompt hypothesis**, not a guaranteed instruction to the generator. The songwriter works from lyrics and written preferences and never receives, hears, or evaluates generated song files.
 
 Do not impose a fixed sequence. Assign each actual section a function—information, anticipation, recognition, reconsideration, or resolution—even when the lyric has no repeated hook.
 
@@ -17,7 +10,7 @@ Separate **existing lyric structure** from **proposed arrangement structure** in
 
 ## Dimensions of change
 
-For each lyric section, make a private map. Which source has **focus**? What is the **pulse** and its felt rhythmic weight? How many events sound at once (**density**)? Where do melody and bass sit (**register**)? How long do notes and tails overlap (**sustain**)? Is the image near, distant, narrow, or wide (**space**)? What sound has been withheld or established that the listener can expect next? Choose the two dimensions that matter most. “Build” by itself does not identify a cause.
+When useful, map the consequential phrases or sections privately. Which source has **focus**? What is the **pulse** and its felt rhythmic weight? How many events sound at once (**density**)? Where do melody and bass sit (**register**)? How long do notes and tails overlap (**sustain**)? Is the image near, distant, narrow, or wide (**space**)? What sound has been withheld or established that the listener can expect next? Select the dimensions that carry this design; the list is not a quota. “Build” by itself does not identify a cause.
 
 | Change | Possible audible event | Different from |
 | --- | --- | --- |
@@ -33,11 +26,9 @@ Experiments link intensity profile with perceived arousal and temporal expectati
 
 ## Opening and information
 
-Give the opening one recognizable cue: a short figure, bare vocal, incomplete pulse, sustained chord, or interruption. “Dry voice over a two-note pulse; bass enters with the repeated line” specifies more than “start sparse and build.” If the full arrangement begins immediately, develop through subtraction, distance, or rhythm.
+An opening may establish recognition with a short figure, bare vocal, incomplete pulse, sustained chord, or interruption. “Dry voice over a two-note pulse; bass enters with the repeated line” specifies more than “start sparse and build.” If the full arrangement begins immediately, it may stay stable or develop through subtraction, distance, rhythm or another justified process.
 
 A section carrying new facts needs room for the lead: fewer chord attacks, replies after complete lines, or a stable motif. A forceful beat can leave holes for consonants. If the song is sung, preserve a verse melody while making that space: “single close lead sings a short recurring contour over clipped chords and a steady low pulse.”
-
-**Written audit:** Give the opening one defined cue and place competing roles after completed information-bearing phrases. If the proposed first verse has several foreground parts, remove or relocate one rather than adding another vague “clear vocal” instruction.
 
 ## Anticipation and arrival
 
@@ -45,13 +36,11 @@ An anticipation section changes one or two axes to make an arrival apparent. It 
 
 An arrival needs an identity: repeated words, melodic contour, instrumental hook, chord change, or a particular combination of sound sources. It need not be the loudest section. “Short sung verse cells become held lead notes over a broad half-time pattern” gives a contrast between two melodies; “powerful chorus” does not. If the arrival repeats, keep enough of its identity for recognition. A final return can add a harmony, answer, or new bass movement without replacing the hook.
 
-Choose a **cut** or a **build** deliberately. Increasing subdivisions can prepare an arrival without changing metronome tempo. A very short full cut can sharpen the next entrance without needing a long riser. Specify the gap relative to the pulse when its length matters: a tiny interruption, a subdivision, one beat, or a full bar create different expectations. These are alternative decisions, not accumulating requirements. A complete micro-silence also stops sustaining sounds and effect tails; a drum cut with a chord still ringing leaves continuity. If the sung lead must carry the lyric across the gap, call it an accompaniment cut rather than total silence.
-
-**Prompt hypothesis:** “The drums thin before the repeated line; the low end returns as the lead opens into two held notes.” **Written audit:** Anchor the subtraction and return to an actual lyric event. Name what is absent before the arrival and what enters there. If the written arrival assigns several competing new roles, retain only the most useful contrast.
+A **cut** or **build** is optional; continuity, stasis or another development can be equally deliberate. Increasing subdivisions can prepare an arrival without changing metronome tempo. A very short full cut can sharpen the next entrance without needing a long riser. Specify the gap relative to the pulse when its length matters: a tiny interruption, a subdivision, one beat, or a full bar create different expectations. These are alternative decisions, not accumulating requirements. A complete micro-silence also stops sustaining sounds and effect tails; a drum cut with a chord still ringing leaves continuity. If the sung lead must carry the lyric across the gap, call it an accompaniment cut rather than total silence.
 
 ## Contrast, return, and ending
 
-A contrasting section changes perspective while preserving a motif, pulse, harmonic center, or vocal contour. Expose one lead where voices stacked, halve chord attacks, or shift the hook to another source.
+A contrasting section may preserve a motif, pulse, harmonic center or vocal contour, or use deliberately discontinuous material where the brief supports it. Expose one lead where voices stacked, halve chord attacks, or shift the hook to another source.
 
 For the final return, ask whether the repeated lyric means something different after the intervening line. If it resolves, the voice may firm and support may widen. If it now sounds doubtful, percussion may fall away. A one-time final sentence can be most effective with the arrangement cleared around it. Form follows this song's meaning; the final passage need not always grow.
 
@@ -71,56 +60,41 @@ Do not automatically repeat a one-time disclosure or calm every bridge. A real s
 
 These are proposed arrangements. A creator's description of surprising full-length structure does not supply a transferable section map, and a shortened version is not an independent vote for the full song's form. Do not infer a tempo change from a broadening of accents unless the evidence or current brief makes it clear. In a new grouping contrast, use a motif or source cue to connect the sections and protect the sung phrase.
 
-### Develop the selected relationship through the lyric
+## Form beyond a compulsory arrival
 
-A palette choice becomes characterization when its behavior changes for a reason in this song. Privately map **where the relationship first appears, what makes it recognizable, which actual lyric event changes its responsibility, and whether the ending retains or releases it**. A source list or “larger final chorus” cannot answer these questions. Any of the stages can be absent: a continuous stanza can carry one evolving relation without acquiring new sections.
+A form describes relations between actual phrases and sections. The examples below are diagnostic descriptions, not a new menu to cycle or candidate slots. The finished text and explicit brief determine eligibility; several principles may coexist without all appearing in Style.
 
-The following are original arrangement proposals informed by written production relationships, not recovered source-song maps:
-
-| Actual lyric event | Selectable development | Retain | Alternative when this brief needs another meaning |
-| --- | --- | --- | --- |
-| A repeated statement grows more settled | Keep the chord cycle; make the returning phrase's final bass landing more root-led | Sung contour and chord identity | Keep connected non-root bass for an unsettled return, or change chord duration instead |
-| A repeated thought gains a different perspective | Preserve the phrase's sung rhythm while harmony changes beneath it at the turn | Melodic recognition and one rhythmic anchor | Keep the harmonic center and alter one chord color; no tonal departure is required |
-| A continuing commitment is reconsidered | Let a quiet compatible upper tone bridge the lower chord movement, then release it at the actual disclosure | Independent pitched lead and clear lower attacks | Renew the tone on another carrier, or omit it when the new harmony makes continuity unsuitable |
-| A short declaration needs a new destination | Choose a higher sung region, longer vowel or changed harmonic support for that event | The verse remains explicitly pitched | Keep the register restrained and expand duration or support; do not stack every possible lift |
-| An existing later stanza intensifies the same intention | Keep one chord source's rhythm but sharpen its attack or add local grain | Its source role, the pulse and the sung tune | Soften that source instead if the brief asks for acceptance; timbre does not carry a fixed emotional meaning |
-| A later thought leaves more space after its last word | Extend the established played reply into that real gap while the stable scaffold continues | Reply identity and the next vocal entry's foreground | Shorten or omit the reply when the next words arrive sooner; do not invent an instrumental break |
-| A final sentence closes the earlier recurring thought | Reduce the reply count or let its last tail finish after the sung phrase | The lyric's actual ending and pitched vocal mode | End dry if a clean boundary serves the brief better; do not assume an echo or fade |
-
-Choose one event with a meaningful consequence before planning several changes. A bridge can preserve rhythmic urgency while harmonic grounding shifts; a return can become firmer through bass placement without getting wider; an ending can withdraw support while its sung destination stays stable. Tie each choice to the supplied words and explicit brief rather than the reference's original order.
-
-**Private comparison:** briefly consider a second plausible implementation of the same relation. Does this repeated line need greater grounding or deliberate instability? Does its new perspective benefit from harmonic departure or from the same harmony with a different source attack? Choose the implementation that makes the current song more coherent, not the one that contains the most learned gestures. This is a written design comparison, never a playback task or a printed fifth field.
-
-## Original maps for specific lyric events
-
-These maps are selectable design proposals. Use one only when the stated lyric event exists, then adapt its anchor to the actual words or section name. Each row describes an intended result, not a heard recording. The maps vary density, register, rhythmic weight, sustain, and width without imposing a standard verse/drop/final-chorus sequence.
-
-| Actual lyric event | Original arrangement map | Identity and vocal mode to preserve |
+| Organization | Musical responsibility | Text boundary and alternative |
 | --- | --- | --- |
-| A dense stanza ends before the first repeated declaration | Keep short pitched verse cells over narrow clipped backing; after the completed line, cut all sound for one subdivision; the declaration arrives on a held melodic note with bass and wider chords. | The tiny silence follows a completed sung phrase. The declaration's tune remains recognizable on later returns. |
-| A repeated phrase shifts from hesitation to decision | First statement uses a compact sung contour over light upper attacks; after a brief bass withdrawal, its return lands with a broad low pulse and longer chord sustain while subdivisions recede. | A sudden drop means a new rhythmic weight at this lyric event; the same tempo and hook can persist. |
-| An existing bridge reveals a quieter perspective | Remove the electronic rhythm bed; a single plucked source takes the established figure, with exposed pitched singing and a narrower image; bring the low anchor back after the bridge's final thought. | A stripped acoustic passage is conditional on this contrast. Removing drums does not convert the lead to speech. |
-| A refrain actually returns after a changed perspective | Keep its hook pitches and pulse; add one reinforcing carrier above the lead or a local upper harmony, widen backing, and let chord notes ring longer. | Expand one or two dimensions while the centered sung hook remains the point of recognition. |
-| A final unrepeated sentence withdraws from the earlier claim | Reduce from pulse and chords to voice with one sustained low tone; the voice keeps its verse melody and tapers the final held vowel; the low tone releases afterward into silence. | The ending retreats in density and width. No new final chorus, obligatory crescendo, or forced resolution is added. |
+| Strophic | A recurring stanza tune carries successive existing verses; inflection or accompaniment can vary or remain stable | No separate chorus needed. Do not repeat a stanza to manufacture the pattern. |
+| Actual refrain-based return | Existing repeated words recur recognizably, with unchanged or adapted support | A return need not get higher, louder, wider or denser. |
+| Through-developing | A recurring pitched cell changes length, context or destination as the supplied text advances | Recognition can reside in a cell rather than a complete repeated section. |
+| Episodic | Distinct passages make a sequence, with selected connections or deliberate discontinuity | Do not add narrative events, new lyrics or obligatory instrumental breaks. |
+| Return with variation | Earlier material returns with ornament or altered context | Large textual return is eligible only if the actual words/brief permit it; no forced repeated opening. |
+| Cadence-led | Unequal phrases and ensemble entries move toward chosen harmonic arrivals | Phrase endings need not follow identical loop lengths. |
+| Process | Gradual accumulation, subtraction or transformation operates across spans | Process boundaries may cross lyric headings; not every line needs a new entrance. |
+| Deliberate stasis | Pulse, harmony or density stays stable while words and articulation sustain attention | Missing growth is not a fault when stability is the intended organization. |
 
-One map can be compressed to one relation: “The last verse line finishes before a brief full cut; the repeated declaration returns on held sung notes over broad bass and wider chords.” A different lyric might need only “The bridge stays melodically sung over one plucked figure; backing withdraws from the final sentence.” Keep the changes the lyric can support rather than combining every transition.
+One persistent identity with one meaningful change can work well, but is only one option. Coherence can instead come from several interacting lines, recurring cadential relations, a sustained process or a stable frame. Do not turn the diagnostic list into eight required alternatives.
 
-**Prompt hypothesis:** “The repeated line returns with its melody intact but only voice and low pulse; the last word ends dry before one instrumental answer.” **Written audit:** Anchor the reduction to the actual repeated line and put the answer after the final sung word. Remove global build language if the intended relation is withdrawal.
+## Different timescales, real lyric eligibility
+
+Meter, phrase, harmonic arrival and source process need not share boundaries. A long sung arch can cross repeated accompaniment cells; a cadence can finish before percussion reaches its next cycle. Specify a shared landmark only where the design needs one. A singer-led passage can pass to strict instrumental time after a completed thought if that space is authorized; no beat interlude is automatically added.
+
+A new perspective can preserve the same tune and change harmony, or preserve harmony and change articulation, or leave both stable. A repeated thought may acquire meaning through context without a production lift. Sadness, resolve or acceptance do not choose a universal form. An ending may continue its established weight, stop, dissolve, suspend or withdraw according to the actual brief.
+
+## Written form audit
+
+Identify existing text recurrence and any proposed instrumental relation separately. For each material instruction, locate its phrase or section and ask what it does. Retain stable organization when intentional; do not insert a contrast or a final chorus to satisfy an inherited template. Check a complete cut against sustained voices/tails, and preserve pitched verse behavior when support thins. No listening, timestamping or generated-file stage follows this audit.
 
 ## Resolve contradictions before compilation
 
 “Sparse and full” needs a section boundary. “Driving beat throughout” and “total drum dropout” need an explicit exception. “Close lead” and “huge room” can coexist if the room belongs to backing layers. “Gradually louder” and “sudden stop” can coexist if the stop marks the climax. Make the relationship explicit rather than repeating conflicting adjectives.
 
-Draft a section map outside the final field, then retain no more than three high-value relationships. Original compact candidates:
+Draft a section map privately when useful; retain the decisive relationships within the character budget, with no numerical arrangement quota. Original compact candidates:
 
 - “Bare lead sings a recurring contour over a muted two-note figure; bass arrives at the first repeated line, and a narrow upper harmony enters only on the final return.”
 - “Short pitched verse phrases finish before a one-beat stop; the refrain lands on held melodic notes over a broad half-time pulse.”
 - “The second return strips to sung melody and low pulse; the last return restores the hook carrier and wider backing.”
 
 These are components to adapt, not stock templates. If the lyric lacks a repeated section, do not invent one to use a preferred phrase.
-
-## Written section audit
-
-Inspect the private map against the supplied lyric structure. What is the opening cue? What is withheld? Which actual section carries new information? What defines the arrival? What remains recognizable at a return? How does the last sound terminate? Select only answers that justify space in the Style field.
-
-For each proposed change, name its lyric anchor, the source or dimension that changes, and the continuity to retain. A backing reduction must preserve the verse's pitched mode; a full cut must not conflict with a voice or effect tail crossing it. Distinguish density, subdivision, rhythmic weight, register, sustain, and width rather than conflating them with volume. Do not invent a repeated section or silently change the finished words. Audit this intended map from text only; do not request recordings, locate rendered boundaries, assign timestamps, or claim transitions occurred.
