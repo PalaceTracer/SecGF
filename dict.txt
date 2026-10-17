@@ -1,15 +1,4 @@
-CORRECTED HISTORICAL DICTIONARIES
-
-B.E., Canting Crew (1699) / Francis Grose, Vulgar Tongue (1811) / Albert M. Hyamson, English Phrases (1922)
-
-Restoration pass: contextual OCR corrections plus targeted scan verification.
-Hyamson boundaries rebuilt from bold type and column layout in Internet Archive OCR coordinates.
-Historical wording and distinct senses retained. Uncertain readings preserved; see Unresolved-OCR-Issues.txt.
-This is a corrected working edition, not a fully proofread or fully scan-verified transcription.
-All original input definitions accounted for in Entry-Accounting.json; originals remain unchanged.
-19,028 headword groups; 19,935 retained source definitions.
-
-DICTIONARY
+DICTIONARIES
 ========================================================================
 
 " Bang went saxpence I ''
