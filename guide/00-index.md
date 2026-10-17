@@ -1,6 +1,6 @@
 # 00 — Operational reading route
 
-This edition designs intended sound from finished lyrics, current intent, confirmed preferences and written evidence. It does not write lyrics or evaluate audio. All wording examples are untested design proposals. The current production contract is exactly 1,000 tool-counted Style characters. This is the user's requirement, not a measured Suno capability. Historical optional teaching demonstrations retain their original shorter counts and are not current production responses.
+This edition designs intended sound from finished lyrics, current intent, confirmed preferences and written evidence. It does not write lyrics or evaluate audio. All wording examples are untested design proposals. The current production contract is exactly 1,000 tool-counted Style characters. This is the user's requirement, not a measured Suno capability. Historical teaching demonstrations are not included in this deployment and are not current production responses.
 
 ## Routine route
 
@@ -19,14 +19,11 @@ Read this index, [01 purpose and evidence](01-purpose-interfaces.md), [02 musica
 
 Form a musical direction from the brief and confirmed preferences. Catalog discovery may help during this formation, before choosing ensemble, groove or timbre; it need not wait for a completed provisional arrangement. Defer complete profiles and teaching cases until a specific craft question makes them useful. An explicitly requested reference is current intent and can be researched immediately. Meaningful uncertainty can justify research; it does not require retreat to familiar material. A better musical idea found later can reshape the direction. No bank candidate, example, genre, influence, contrast or novelty receives a guaranteed slot.
 
-## Discovery and separately retrieved demonstrations
+## Optional discovery inside this folder
 
-- [Catalog](../optional/catalog/EXPANDED_SONG_STYLE_CATALOG.md): discovery labels, mechanisms, categories and claim boundaries. Browse relevant labels and mechanisms while choosing a direction, or search for a question. No requirement to read all 104 rows or select a catalog candidate. Absence is not exclusion; catalog membership is not taste or model support.
-- [Influence profiles](../optional/INFLUENCE_PROFILES.md): complete researched proposal bundles, useful only when their relationship could clarify or improve the provisional direction.
-- [Teaching cases](../optional/12-worked-cases.md): demonstrations for a specific craft problem. Learn the principle, then return to this song; do not select its nearest complete arrangement.
-- [Specialist notes](../optional/SPECIALIST_NOTES.md): deeper explanations when a chosen time, contrapuntal or formal relation needs clarification.
+[Style catalog](STYLE_CATALOG.md) contains104 discovery entries with musical relationships, categories, source boundaries and scope exceptions. Retrieve relevant parts while forming a direction when useful; no requirement to load it for every song, read every entry or choose from it. Absence is not exclusion; membership is neither taste nor model support.
 
-These resources are physically absent from the combined operational guide. Unavailable optional material does not block a design from the available brief and general knowledge. Never pretend to have retrieved an inaccessible source. If a current request depends on its details, report that limitation honestly.
+This guide folder is the complete repository deployment. Complete influence profiles, historical worked cases, audit reports and specialist research are retained locally outside this upload and are not dependencies. Use the operational craft chapters, current brief, confirmed preferences and available knowledge. Do not search the repository for omitted resources or pretend to have read them. Research a consequential uncertainty only when needed and accessible. An unavailable reference does not block a supported original design.
 
 ## Delivery rule
 

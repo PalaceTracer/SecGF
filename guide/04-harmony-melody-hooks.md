@@ -44,7 +44,7 @@ A **hook** is the feature the listener can recall and locate. Specify its **carr
 
 A vocal tune and an instrumental motif need not share every pitch or rhythm. A repeated guitar, piano or bass figure can be the continuity cue while the lead sings a separate contour. Decide which identity is foreground at each moment. Original hypothesis: “A short repeating guitar figure underpins the verse's independent stepwise tune; the figure recedes as the refrain holds longer notes.” The recession is a new arrangement proposal, not a presumed feature of a reference.
 
-Alternatively, let a meaningful finished phrase determine the first melodic entry: expose its tune early, then confirm the pulse with accompaniment. This does not require an unaccompanied opening or the insertion of new text. Phrase-first entry, instrumental prefiguration and delayed hook arrival are different choices. [Anonymous production evidence](../provenance/RESEARCH_CONTEXT.md) documents examples of phrase-led writing and independent instrumental/vocal construction; it does not supply a tune to copy.
+Alternatively, let a meaningful finished phrase determine the first melodic entry: expose its tune early, then confirm the pulse with accompaniment. This does not require an unaccompanied opening or the insertion of new text. Phrase-first entry, instrumental prefiguration and delayed hook arrival are different choices. Phrase-led writing and independent instrumental/vocal construction are available design proposals here, not a tune to copy.
 
 ### Reserve, expand or suspend the melodic destination
 
@@ -76,7 +76,7 @@ An **answer** follows a phrase. A **double** reinforces its contour simultaneous
 
 When words need priority, different register, note duration, attack, dynamics or staggered phrase peaks can help distinguish independent parts. Gap-only answers are one option, not a prohibition of simultaneous melody. Equal lines can intentionally share attention; a tune can lie inside an ensemble rather than always at its top. Do not request independent counterpoint and exact unison from the same pair at the same moment.
 
-Original fragments: “The sustained sung arch overlaps a clipped rising instrumental line, with their peaks separated”; “A second pitched part takes up the cell after its first entrance while the earlier line continues”; “Bass and voice define the harmonic path through their moving intervals.” These are design proposals, not claims of a tradition's complete grammar or guaranteed generator behavior. Use detailed [specialist notes](../optional/SPECIALIST_NOTES.md) only if the chosen relation needs more explanation.
+Original fragments: “The sustained sung arch overlaps a clipped rising instrumental line, with their peaks separated”; “A second pitched part takes up the cell after its first entrance while the earlier line continues”; “Bass and voice define the harmonic path through their moving intervals.” These are design proposals, not claims of a tradition's complete grammar or guaranteed generator behavior. If a chosen relation needs more explanation, research it proportionately; no omitted specialist file is required.
 
 ## Diagnostic questions
 
