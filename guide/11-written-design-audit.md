@@ -24,6 +24,10 @@ Does every significant source and section instruction have a job? Would the desi
 
 Do not demand an answer to every row in the final paragraph. The audit detects material conflicts, not missing checklist clauses. A brief with no tempo, chord map or exact instrument roster can still be complete.
 
+## Recent-output specificity check
+
+Where recent prompts are available, check for an unexplained repeated musical bundle, not merely repeated words or genre labels. Preserve fitting similarities; revise unsupported carryover. Confirm concrete part behavior where it defines this song, an explicitly recurring pitched verse, and no narrative-claim explanation replacing sound design. Do not claim to know absent history. A different instrument name over the same organization is not by itself a meaningful repair.
+
 ## Final delivery
 
 Finished lyrics unchanged. Intended singing includes recurring pitched verse or verse-equivalent behavior; actual refrains only. No rap direction. Speech, chant, whisper and shouts need explicit intent or intentional tags. Artist/work/geographic/persona shortcuts and researchIDs do not enter complete Style examples or final Style. The writer never requests or evaluates audio.
