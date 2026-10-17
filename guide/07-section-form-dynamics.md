@@ -28,7 +28,7 @@ Experiments link intensity profile with perceived arousal and temporal expectati
 
 An opening may establish recognition with a short figure, bare vocal, incomplete pulse, sustained chord, or interruption. “Dry voice over a two-note pulse; bass enters with the repeated line” specifies more than “start sparse and build.” If the full arrangement begins immediately, it may stay stable or develop through subtraction, distance, rhythm or another justified process.
 
-A section carrying new facts needs room for the lead: fewer chord attacks, replies after complete lines, or a stable motif. A forceful beat can leave holes for consonants. If the song is sung, preserve a verse melody while making that space: “single close lead sings a short recurring contour over clipped chords and a steady low pulse.”
+New text needs a workable relation between sung phrasing and ensemble activity, not a prescribed density. A long pitched arc can cross active instrumental lines with coordinated attacks and distinct register; collective singing can share the words; alternating replies or reduced support can also fit. Continuous full-band or electronic momentum may remain intact while articulation and phrase peaks allocate attention. Preserve a recognizable pitched verse identity without imposing short cells, isolation or a dry image.
 
 ## Anticipation and arrival
 
@@ -42,7 +42,7 @@ A **cut** or **build** is optional; continuity, stasis or another development ca
 
 A contrasting section may preserve a motif, pulse, harmonic center or vocal contour, or use deliberately discontinuous material where the brief supports it. Expose one lead where voices stacked, halve chord attacks, or shift the hook to another source.
 
-For the final return, ask whether the repeated lyric means something different after the intervening line. If it resolves, the voice may firm and support may widen. If it now sounds doubtful, percussion may fall away. A one-time final sentence can be most effective with the arrangement cleared around it. Form follows this song's meaning; the final passage need not always grow.
+For an actual final return, ask whether the repeated lyric gains meaning from its context and whether a musical change is useful. Resolve does not prescribe wider support; doubt does not prescribe withdrawal. Established weight may continue while harmony, phrasing or interpretation changes, or the whole image may remain stable. A one-time final sentence can arrive inside a full ensemble or an exposed texture. Choose from the current interpretation and musical organization, without a mandatory lift or clearing.
 
 End with an action: dry stop, held chord after the lead, instrumental reply, fade, or opening texture returned. Name it in Style only if vital.
 
@@ -91,10 +91,9 @@ Identify existing text recurrence and any proposed instrumental relation separat
 
 “Sparse and full” needs a section boundary. “Driving beat throughout” and “total drum dropout” need an explicit exception. “Close lead” and “huge room” can coexist if the room belongs to backing layers. “Gradually louder” and “sudden stop” can coexist if the stop marks the climax. Make the relationship explicit rather than repeating conflicting adjectives.
 
-Draft a section map privately when useful; retain the decisive relationships within the character budget, with no numerical arrangement quota. Original compact candidates:
+Draft a section map privately when useful; retain only decisive relationships within the character budget. The following are original single-relationship teaching fragments, not complete Style responses or candidates to inherit:
 
-- “Bare lead sings a recurring contour over a muted two-note figure; bass arrives at the first repeated line, and a narrow upper harmony enters only on the final return.”
-- “Short pitched verse phrases finish before a one-beat stop; the refrain lands on held melodic notes over a broad half-time pulse.”
-- “The second return strips to sung melody and low pulse; the last return restores the hook carrier and wider backing.”
+- Continuous ensemble activity can retain its rhythmic weight while a sung phrase lengthens across the bar and inner harmony moves beneath it; no layer must enter or leave.
+- A cadence-led design can let unequal sung phrases and moving bass converge at existing sentence endings without adding a refrain or increasing register.
 
-These are components to adapt, not stock templates. If the lyric lacks a repeated section, do not invent one to use a preferred phrase.
+These are incomplete selectable relationships, not complete arrangements or a required candidate list. Choose from the actual brief; no musical organization is required by these demonstrations.

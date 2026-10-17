@@ -82,8 +82,8 @@ Original fragments: “The sustained sung arch overlaps a clipped rising instrum
 
 1. Is a tonal center supplied as a written fact, chosen as a proposal, or intentionally left unspecified?
 2. Does the song’s emotional change require a new chord, a changed chord duration, a wider voicing, or a different melody?
-3. Which section has the fewest distinct chords, and what moves instead?
-4. Where is the highest, longest, or most exposed vocal note, and which lyric stress earns it?
+3. Does harmonic vocabulary remain stable or change, and how do voicing, bass movement and harmonic rhythm contribute?
+4. How are melodic destinations distributed across phrases: concentrated peak, several local arrivals or sustained continuity? Which text stresses shape them?
 5. Is the main hook vocal, instrumental, bass-led, or rhythmic? When does it first appear and return?
-6. Does any simultaneous counterline compete with dense syllables?
+6. What does each simultaneous line contribute, and how do articulation, phrase timing, register or intentional blend allocate attention?
 7. What feature remains recognizable across sections?

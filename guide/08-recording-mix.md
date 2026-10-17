@@ -2,13 +2,13 @@
 
 ## Describe a listener's experience, not a settings sheet
 
-The Style paragraph can request a recording image, but it is not a mixer project. A number for compressor ratio, reverberation time, or equalizer cutoff would imply a directness of control that a text generation workflow has not established. Describe the *audible result* and the relationship between sound sources. “Close, dry lead; wide chord reflections behind it; short, punchy drums and warm sustained bass” gives the model a scene with hierarchy. “Professional, clean, huge, warm, polished, raw, vintage, pristine” gives incompatible or redundant impressions with no clear roles.
+The Style paragraph can request a recording image, but it is not a mixer project. A number for compressor ratio, reverberation time, or equalizer cutoff would imply a directness of control that a text generation workflow has not established. Describe the *audible result* and the relationship between sound sources. “A full ensemble shares a broad image; articulate vocal attacks remain distinct within sustained harmonic layers and active low lines” gives the model a scene with hierarchy. “Professional, clean, huge, warm, polished, raw, vintage, pristine” gives incompatible or redundant impressions with no clear roles.
 
 An audio engineer can build these effects using level, equalization, panning, dynamic control, reverberation, delays, saturation, source selection, and performance. The [Ableton Live audio-effect reference](https://www.ableton.com/en/manual/live-audio-effect-reference/) documents how filters affect frequency content, reverberation parameters affect reflections and tails, compression responds to level, and its Utility effect changes stereo width or sums to mono. Those mechanics support the vocabulary below. They do not establish that a particular Suno prompt will map to a particular internal signal path.
 
 ## Foreground, depth, and air
 
-**Foreground** means the listener's attention lands on a source. It is influenced by relative level, transient definition, intelligibility, spectral space, and dryness. The loudest element is not always the clearest: a lead can feel close at moderate level if consonants stay legible and a busy chord bed avoids its active range. In Style language, name the source and its relation: “one close lead above restrained low-register chords.” The written design should identify how important words retain their role when other material enters.
+**Foreground** means the listener's attention lands on a source. It is influenced by relative level, transient definition, intelligibility, spectral space, and dryness. The loudest element is not always the clearest: a lead can feel close at moderate level if consonants stay legible and a busy chord bed avoids its active range. In Style language, name the source and its relation: “the sung tune remains perceptible within continuous ensemble motion through distinct attacks and balanced registers.” The written design should identify how important words retain their role when other material enters.
 
 **Depth** is not a single wet/dry switch. Direct sound, early reflections, delayed repeats, and a diffuse tail can imply different spaces. Ableton's reference explains early reflections as the first room echoes and pre-delay as the interval before reflections; decay describes how long the tail falls away. For this guide, these are explanatory mechanisms. A Style prompt should usually specify perception: “small, short room around the drums” or “long diffuse reflections behind the upper notes.” Avoid giving the entire mix the same long tail when intelligibility and attack are the song's main needs. If the vocal is meant to feel remote, say whether it remains intelligible: “distant lead with clear consonants” is a deliberate intended balance requiring source hierarchy.
 
@@ -28,7 +28,7 @@ Low-end descriptions should distinguish **weight** from **note definition**. A l
 
 ## Density is a time pattern
 
-Layer count alone does not determine perceived density. Consider how long sounds should persist and how their attacks should overlap. Four short elements that take turns may feel clear; two sustained sources in the same register may feel opaque. Ask whether a layer should be present continuously, only on selected beats, between vocal lines, at transitions, or solely at the refrain. “Lean verses” has more meaning when followed by what remains: “voice, bass, and a clipped two-note chord pulse in verses; wider sustained chords enter at the refrain.”
+Layer count alone does not determine perceived density. Consider how long sounds should persist and how their attacks should overlap. Four short elements that take turns may feel clear; two sustained sources in the same register may feel opaque. Ask whether a layer should be present continuously, only on selected beats, between vocal lines, at transitions, or solely at the refrain. Specify the time pattern rather than using density as a mood instruction: “continuous chord and bass movement supports a long sung arc; short percussion attacks retain definition while the ensemble width stays stable across the return.” A lean texture is equally available when selected.
 
 ## Saturation, distortion, and surface texture
 
@@ -36,7 +36,7 @@ Saturation can add harmonics, thickness, and edge; obvious distortion can change
 
 ## Dynamics without a hardware fantasy
 
-Dynamic range is the contrast between quieter and louder moments, at the scale of an attack, phrase, section, or whole song. Compression can reduce peaks and alter apparent loudness; attack and release determine how it reacts over time. Ableton's compressor documentation explains these controls and the way fast settings can change transient character. For a Style prompt, translate the desired experience: “firm attacks with breathing room between hits,” “restrained verse, broad refrain without flattening the lead,” or “tight, even percussion under a more variable vocal.”
+Dynamic range is the contrast between quieter and louder moments, at the scale of an attack, phrase, section, or whole song. Compression can reduce peaks and alter apparent loudness; attack and release determine how it reacts over time. Ableton's compressor documentation explains these controls and the way fast settings can change transient character. For a Style prompt, translate the desired experience: “firm attacks with breathing room between hits,” “continuous full-ensemble impact with phrase-level vocal dynamic variation,” or “tight, even percussion under a more variable vocal.”
 
 ## Effects can be active timed material
 

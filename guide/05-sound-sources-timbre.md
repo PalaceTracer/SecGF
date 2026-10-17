@@ -31,11 +31,11 @@ Choose a target source, an audible change, and a location before naming a treatm
 | Reference shorthand | Operational choice | Compact candidate wording |
 | --- | --- | --- |
 | Named electric-piano or organ model | Short rounded chord attack versus a hollow sustained chord; foreground versus backing | “Rounded keyboard stabs answer the lead endings.” |
-| Bitcrushed texture | A deliberately coarse digital edge on one fill or hook layer | “Brief coarse digital fills occupy the gaps between clean sung lines.” |
+| Bitcrushed texture | A deliberately coarse digital edge on one fill or hook layer | “A coarse digital pattern continues beneath sustained singing, with clipped attacks distinct from the vocal arc.” |
 | Saturated texture | A roughened body or compressed attack on a selected source | “The guitar gains a gritty sustained edge on the refrain while the lead stays clear.” |
 | Low-pass automation | A specific source becomes duller or brighter across a transition | “The held synth chord gradually opens brighter before the return.” |
 | Slap or rhythmic delay | A short echo thickens an attack, or distinct repeats answer a gap | “One dark echo answers the final sung word after the lead releases.” |
-| Named plate or hall | Short vocal ambience versus a long distant backing tail | “Close dry lead above distant chords with long quiet decay.” |
+| Named plate or hall | Allocate decay and articulation to the selected voice/instrument relationship | “A sustained reverberant lead floats above sharply articulated ensemble chords; word onsets remain distinct.” |
 
 Keep a technique label when it concisely names an essential texture; pair it with its source and role. Exact delay fractions or settings belong only when the current brief makes that rhythm decisive. Distortion across the whole recording, simultaneous bright fills under dense sung words, and long echoes on every line are separate design decisions; they do not follow automatically from choosing one processed source. Before a requested complete silence, decide whether effect tails also stop. A cut in note attacks with echoes still ringing is a different event.
 
@@ -59,7 +59,7 @@ For acoustic/electronic coexistence, assign complementary jobs. A picked string 
 
 ## Density, register, and layers
 
-**Layer count** is distinct from perceptual density. Two long overlapping sounds can fill more space than five short punctuations. Density rises with overlapping durations, similar registers, repeated attacks, and reverb tails. To protect a vocal, limit concurrency in its register and phrase spaces rather than simply reducing all volume. A low bass, high accent, and midrange lead can coexist more clearly than three simultaneous midrange melodies. This is a conditional arrangement heuristic for the written plan. Dense interdependent parts may also be appropriate; the songwriter has only written inputs.
+**Layer count** is distinct from perceptual density. Two long overlapping sounds can fill more space than five short punctuations. Density rises with overlapping durations, similar registers, repeated attacks, and reverb tails. Choose purposeful overlap, separation or blend through rhythm, register, articulation and relative level. Reduction can address a particular masking conflict; it is not the definition of vocal clarity. A full ensemble can sustain momentum with coordinated attacks or independent lines under pitched singing. The songwriter has only written inputs, so these remain intended relationships.
 
 **Register handoff** and simultaneous layering create different textures; neither is intrinsically preferable. A high figure can disappear when the lead moves high, then return when the voice descends. A low pad can recede when bass becomes active. “The high pluck answers only in vocal gaps” encodes this as an audible arrangement rule. If the prompt budget is tight, one such interaction outranks a long list of source names.
 

@@ -16,7 +16,7 @@ Technical research distinguishes pitch, vocal-fold behavior, and vocal-tract res
 | --- | --- | --- |
 | Lead | One centered voice, alternating leads, or a collective line. | Who must be understood here? |
 | Double | A quieter unison shadow of the lead. | Where should a line gain weight without new words? |
-| Harmony | Another pitch under or above the lead. | Which sustained word can carry extra color? |
+| Harmony | Another pitch under or above the lead. | Is support continuous, phrase-local, structural or absent, and which line owns the tune? |
 | Answer | A phrase or wordless sound in a gap. | What can respond without covering the story? |
 | Space | Near/dry foreground versus distant/wide support. | Does distance change at the lyric turn? |
 
@@ -32,7 +32,7 @@ State mode positively in Style when it matters: “The verses carry a clearly su
 
 A syllabic verse gives most syllables one note; its tune may use any suitable pitch span, motion and phrase length; syllabic setting does not require narrow range or simple harmony. Rhythmic singing can place short pitched notes against syncopation without turning the line into speech. Establish definite sung melodic identity, then choose projection, texture, articulation and recording position appropriate to the selected direction. A full accompaniment withdrawal must preserve that melodic behavior if the verse is meant to remain sung.
 
-Pitched singing is compatible with broad arches, angular syncopation, long unfolding phrases, rhythmic motif variation and collective melodic writing. A compact tune remains available, but is not a corrective default for speech. Recurrence can be recognizable through rhythmic or directional identity while pitches develop. Identical notes, a fixed note count, tonic resolution or a higher refrain are not requirements.
+Pitched singing is compatible with broad arches, angular syncopation, long unfolding phrases, rhythmic motif variation and collective melodic writing. A compact tune remains available, but is not a corrective default for speech. Recurrence can be recognizable at phrase or section scale through rhythmic or directional identity while pitches develop; it need not repeat a tiny cell on every line. Identical notes, a fixed note count, tonic resolution or a higher refrain are not requirements.
 
 
 These are original design moves, not a required three-note formula. Select the contour, phrase span, or sustained destination that fits the actual text. The user's reported unwanted spoken result followed a prompt that explicitly selected an almost-spoken line. That report supports removing the speech cue; it does not prove that one replacement phrase will always produce singing.
@@ -64,7 +64,7 @@ The written references contain speech, group responses, processed voices, and du
 | Spoken aside or whisper | Which existing intro, bridge, or final line carries it, and where pitched singing resumes? |
 | Chant or shout | Is the named response pitched or unpitched, and does it answer after the sung lead? |
 | Duet | Which actual sections alternate leads, and which repeated line joins them? |
-| Harmony or unison double | Which held refrain words gain support, and which narrative lines remain single? |
+| Harmony or unison double | Does coordinated support carry full existing text, selected phrases or local words, and who owns the tune? |
 | Vocal chop | Does a wordless hook answer a named refrain or transition while the verse lead stays intact? |
 
 Do not add a spoken verse to achieve intimacy, a shout to achieve energy, or a duet to imitate a liked song. Read any reference's Style and Lyrics performance tags as separate evidence. If the current brief requires a special section, state the boundary explicitly; avoid global wording that spreads its treatment across the whole song.
@@ -103,7 +103,7 @@ Sung-word clarity depends on performer, arrangement, and acoustic environment. A
 A sung line has a start, a path, a pause, and an ending. Specify the element that shapes this lyric:
 
 - **Pickup and pocket:** entry before, on, or just after the beat. “Slightly ahead” can create urgency while a steady drum remains the anchor.
-- **Line length:** clipped cells for dense information; longer arcs when a thought needs to unfold.
+- **Line length:** compact cells, unequal phrases or long arcs containing short syllabic notes; choose from stress, available duration and intended melody rather than information density alone.
 - **Breath gap:** a pause that separates complete thoughts or leaves room for an answer.
 - **Stress:** weight on a word through duration, beat placement, pitch, or a brief instrumental clearing.
 - **Release:** a dry cut, taper, trailing breath, or held vowel, each with a different effect on the following event.
@@ -118,9 +118,9 @@ A crucial hook may begin plainly and gain later ornament, or begin ornamented, r
 
 ## Doubles, harmonies, and responses
 
-A double thickens a melody. A harmony introduces another pitch. An answer takes a gap. A group response can turn a private line into a shared one. A wordless pad supplies harmony without new text. These roles are not interchangeable, and none is mandatory. Give each a *time and location*: “quiet low harmony under held refrain endings” or “short high answers between the lead lines.” Avoid full-text support voices covering crucial first statements. The [multi-voice experiment](https://pubmed.ncbi.nlm.nih.gov/27068550/) supports considering word priority when voices overlap, within the study’s limits.
+A double thickens a melody. A harmony introduces another pitch. An answer takes a gap. A group response can turn a private line into a shared one. A wordless pad supplies harmony without new text. These roles are not interchangeable, and none is mandatory. Give each a *time and location*: “quiet low harmony under held refrain endings” or “short high answers between the lead lines.” For crucial first statements, coordinate text onsets, tune ownership, register and balance. Full-text unison or chordal ensemble can carry the first statement; an exposed lead is another choice. The [multi-voice experiment](https://pubmed.ncbi.nlm.nih.gov/27068550/) supports considering word priority when voices overlap, within the study’s limits.
 
-One optional arc uses an exposed opening lead, a local double at a real return and a later upper harmony. Collective singing throughout or rotating foreground are equally available. If the lyric demands isolation, the strongest arc may keep one voice and instead change its distance or phrasing. If the written design intends local support, bind it to those sections; continuous ensemble ownership is a different deliberate choice. Keep the lead centered when the support widens so its words remain focal.
+One optional arc uses an exposed opening lead, a local double at a real return and a later upper harmony. Collective singing throughout or rotating foreground are equally available. If the lyric demands isolation, the strongest arc may keep one voice and instead change its distance or phrasing. If the written design intends local support, bind it to those sections; continuous ensemble ownership is a different deliberate choice. Choose a centered lead, spread ensemble, alternating foreground or distributed image according to text ownership; no single spatial hierarchy is compulsory.
 
 ## Vocal intensity as a change, not an adjective
 
@@ -142,13 +142,13 @@ Register, force, grain, ornament, duration and number of parts are independent. 
 
 ## Compatibility and prompt budget
 
-| Combination | Necessary relation | Written conflict to avoid |
+| Combination | Possible coordinated relation | Potential conflict when unintended |
 | --- | --- | --- |
 | Near lead + wide backing | Lead stays foreground; support expands behind it. | The lead recedes. |
 | Breathy color + dense words | Air is limited to tails; core syllables stay clear. | Names vanish. |
 | Grain + clear diction | Edge colors held vowels, not every consonant. | All words distort. |
-| Fast verse + group answer | Response enters after the line. | Overlap hides the story. |
-| Higher final refrain + hook clarity | The first hook is plain; later return grows. | Hook changes before recognition. |
+| Fast verse + group answer | Response follows a line, or overlaps with coordinated text and distinguishable rhythm/register. | Unplanned overlap obscures required words. |
+| Refrain variation + recognition | Preserve a recognizable rhythmic or directional identity while changing selected intervals, duration or support, if wanted. | Unexplained replacement of its identity; compulsory growth. |
 | Flexible lead + tight pulse | Rhythm section provides a fixed reference. | Whole recording wanders. |
 
-Draft a full working vocal profile, then rank candidates by meaning, audibility, compatibility, and character cost. For an intended sung song, preserve the pitched verse behavior before optional texture or support. A compact Style field may then need only foreground configuration, one delivery trait, one section change, and one support role. Avoid reciting all technical dimensions. Exact lyrics stay unchanged in Lyrics. Necessary unwanted vocal elements belong separately in [Suno Exclude](https://help.suno.com/en/articles/3161921/) when available; an exclusion cannot replace the positive melody design.
+Resolve consequential vocal choices and compare alternatives only where useful, by meaning, intended audibility, compatibility and character cost. For an intended sung song, preserve the pitched verse behavior before optional texture or support. A compact Style field may then need only foreground configuration, one delivery trait, one section change, and one support role. Avoid reciting all technical dimensions. Exact lyrics stay unchanged in Lyrics. Necessary unwanted vocal elements belong separately in [Suno Exclude](https://help.suno.com/en/articles/3161921/) when available; an exclusion cannot replace the positive melody design.
