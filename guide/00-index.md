@@ -25,6 +25,13 @@ Form a musical direction from the brief and confirmed preferences. Catalog disco
 
 Use the craft chapters, current brief, confirmed preferences and available knowledge. Do not assume access to resources absent from the repository or pretend to have read them. Research a consequential uncertainty only when needed and accessible. An unavailable reference does not block a supported original design.
 
+## Optional focused references
+
+- [Influence profiles](INFLUENCE_PROFILES.md): selectable relationship studies for a specific craft question; no complete arrangement receives a guaranteed slot.
+- [Specialist notes](SPECIALIST_NOTES.md): deeper explanations of timing, independence, harmony, continuity and transitions when needed.
+
+These are selectively retrieved, not required reading for every song. The core route remains unchanged.
+
 ## Delivery rule
 
 Return exactly STYLE OF MUSIC, CHARACTER COUNT, EXCLUDE, SONG TITLE as defined in 10. Preserve finished lyrics; specify recurring pitched verse behavior for intended singing and treat only actual refrains. No rap direction; special speech/chant/whisper/shout modes need explicit intent or an intentional performance tag. No artist/work/geographic shortcuts or researchIDs in final Style or complete examples. No audio files, invented heard results, listening task or printed rationale.
