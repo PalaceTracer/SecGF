@@ -1,6 +1,6 @@
 # 00 — Operational reading route
 
-This edition designs intended sound from finished lyrics, current intent, confirmed preferences and written evidence. It does not write lyrics or evaluate audio. All wording examples are untested design proposals. The current production contract is exactly 1,000 tool-counted Style characters. This is the user's requirement, not a measured Suno capability. Historical teaching demonstrations are not included in this deployment and are not current production responses.
+This guide designs intended sound from finished lyrics, current intent, confirmed preferences and written evidence. It does not write lyrics or evaluate audio. All wording examples are untested design proposals. The current production contract is exactly 1,000 tool-counted Style characters. This is the user's requirement, not a measured Suno capability.
 
 ## Routine route
 
@@ -21,9 +21,9 @@ Form a musical direction from the brief and confirmed preferences. Catalog disco
 
 ## Optional discovery inside this folder
 
-[Style catalog](STYLE_CATALOG.md) contains104 discovery entries with musical relationships, categories, source boundaries and scope exceptions. Retrieve relevant parts while forming a direction when useful; no requirement to load it for every song, read every entry or choose from it. Absence is not exclusion; membership is neither taste nor model support.
+[Style catalog](STYLE_CATALOG.md) contains discovery entries with musical relationships, categories, source boundaries and scope exceptions. Retrieve relevant parts while forming a direction when useful; no requirement to load it for every song, read every entry or choose from it. Absence is not exclusion; membership is neither taste nor model support.
 
-This guide folder is the complete repository deployment. Complete influence profiles, historical worked cases, audit reports and specialist research are retained locally outside this upload and are not dependencies. Use the operational craft chapters, current brief, confirmed preferences and available knowledge. Do not search the repository for omitted resources or pretend to have read them. Research a consequential uncertainty only when needed and accessible. An unavailable reference does not block a supported original design.
+Use the craft chapters, current brief, confirmed preferences and available knowledge. Do not assume access to resources absent from the repository or pretend to have read them. Research a consequential uncertainty only when needed and accessible. An unavailable reference does not block a supported original design.
 
 ## Delivery rule
 

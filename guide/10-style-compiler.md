@@ -20,19 +20,19 @@ The writer uses text only and never receives, hears, plays, transcribes, measure
 
 Private notes may track choice + source of authority + musical reason + actual location + uncertainty. They are working aids, not required slots or extra output. Do not expose rationale, citations, resource lists, model instructions or methodology in the Style paragraph.
 
-## Recent-output diagnosis and completion gate
+## Selection and completion checks
 
 When recent Style outputs are available in the current conversation, privately compare their musical organizations with this proposal: pulse/accent, low-end roles, harmonic route, phrase contour, actual source responsibility, vocal configuration, form and recording image. Keep a shared choice when the current brief or confirmed intent gives it a musical job. Revise unexplained reuse; do not force contrast, rotate genres or manufacture novelty. If history is unavailable, do not claim to have checked it.
 
-The reported six-output failure repeats broad or mid-tempo pulse, locked or answering kick–bass, stationary chord loops, near-dry conversational verses, sparse ticks and refrain-only lift. This bundle is not a default inferred from narrative lyrics. Each component remains available when justified; do not reject it merely for appearing previously.
+Avoid automatically combining broad or mid-tempo pulse, locked or answering kick–bass, stationary chord loops, near-dry conversational verses, sparse ticks and refrain-only lift. This bundle is not a default inferred from narrative lyrics. Each component remains available when justified; do not reject it merely for appearing previously.
 
-The user also explicitly liked two later full-band rock designs. Treat those as positive whole-design evidence, not failed examples. Their component relationships are candidates rather than universal preferences; a fitting rock design need not change genre to pass this audit. Refer to Chapter01 for that distinction.
+The user explicitly liked two full-band rock designs. Treat those as positive whole-design evidence, not failed examples. Their component relationships are candidates rather than universal preferences; a fitting rock design need not change genre to pass this audit. Refer to Chapter01 for that distinction.
 
 A completed intended sung design explicitly names the verse's recurring pitched melody or contour before close/dry/diction descriptors. Do not use “conversational” or “almost spoken” as sung-verse shorthand. A requested spoken section is a separately scoped exception. Vague “sources,” “upper ticks,” “short hook” and “chord layer” should be made concrete when those parts define the design: choose an appropriate source family, articulation and musical behavior, or omit the immaterial detail. A precisely described texture can suffice when instrument identity is unimportant; no instrument quota follows.
 
 Remove explanations such as keeping a narrative image or an ideological claim clear from the Style paragraph. The lyrics retain their meaning; Style uses its budget for actual performance, melody, ensemble and recording behavior. Do not paraphrase a claim into a musical control.
 
-The user now requires exactly 1,000 characters in each final production Style paragraph. Develop consequential source, phrase, harmonic, ensemble, dynamic and recording relationships until the complete design meets that count; remove redundancy if over. Do not pad with repeated adjectives or invented details. Historical shorter teaching demonstrations are not copy-ready current responses. Count the exact final paragraph with a tool after edits. Do not infer a count from its apparent length or the target.
+Each final Style paragraph requires exactly 1,000 characters. Develop consequential source, phrase, harmonic, ensemble, dynamic and recording relationships until the complete design meets that count; remove redundancy if over. Do not pad with repeated adjectives or invented details. Count the exact final paragraph with a tool after edits. Do not infer a count from its apparent length or the target.
 
 Return STYLE OF MUSIC, CHARACTER COUNT, EXCLUDE, SONG TITLE only. The Style is one positive paragraph inside one fenced text block; the remaining fields are outside that fence. SONG TITLE contains only the brief original title, not rationale. Do not use the obsolete RATIONALE SONG TITLE label. A correct field label, positive verse melody and genuinely verified count are delivery checks, not optional artistic preferences.
 
@@ -57,7 +57,7 @@ Positive Style names desired behavior. Necessary avoidances belong separately in
 3. **EXCLUDE:** only necessary avoidances, or `none`.
 4. **SONG TITLE:** one brief original name from the finished words and intended sound. Internal attribute rationale is not printed.
 
-No extra commentary, sentence quota, concluding genre classification or listening-test field. Research and package-administration responses use their appropriate formats rather than this contract.
+No extra commentary, sentence quota, concluding genre classification or listening-test field. Research and project-administration responses use their appropriate formats rather than this contract.
 
 ## Counting and delivery gate
 
@@ -70,6 +70,6 @@ print(len(style))
 print(len(style.encode("utf-16-le")) // 2)
 ```
 
-Unicode code points and UTF-16 units can differ for some symbols. The package examples avoid that discrepancy; ornamental symbols are unnecessary. Exactly 1,000 characters is the user's current production constraint, not a claim about every interface implementation. Do not invent a minimum of 9,999 or any other conflicting range. A rejected field is an interface issue to report honestly, not permission to falsify the count.
+Unicode code points and UTF-16 units can differ for some symbols. Avoid unnecessary ornamental symbols that create counting ambiguity. Exactly 1,000 characters is the user's current production constraint, not a claim about every interface implementation. Do not introduce a conflicting minimum or range. A rejected field is an interface issue to report honestly, not permission to falsify the count.
 
 Never claim a verified count from mental estimation. If no counting tool is available, do not present an unverified paragraph as completed verified delivery: state the count-verification limitation or configure a tool. An audit of written coherence is not a claim of rendered behavior or proven prompt effectiveness.
