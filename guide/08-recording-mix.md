@@ -24,7 +24,7 @@ Stereo width is the perceived left-to-right spread. A single central lead, centr
 
 Arrange spectral roles before asking for more equalization. A sustained bass note occupies low space longer than a short bass pluck. A dense chord bed may obscure the vocal even when each layer sounds good in isolation. A high, thin answer figure can coexist with the lead if it appears between phrases. Useful Style language captures the relationship: “rounded bass sustains beneath short kick strikes; chord attacks leave the lead's midrange exposed.” This describes an intended allocation, not a rendered result.
 
-Low-end descriptions should distinguish **weight** from **note definition**. A long sub tone can provide physical weight but may obscure bass pitch on small speakers; a shorter bass note with audible harmonics can make the line easier to follow. “Heavy bass” says little about the rhythmic role. “Short, tuneful bass notes lock to the kick on downbeats, then answer the gaps” states both weight and motion. If bass and kick strike together, one can provide a sharp start and the other a sustaining body. If they alternate, the groove can feel active without extra percussion. These are arrangement relations that affect the recording image.
+Low-end descriptions should distinguish **weight** from **note definition**. A long sub tone can provide physical weight but may obscure bass pitch on small speakers; a shorter bass note with audible harmonics can make the line easier to follow. “Heavy bass” says little about the rhythmic role. A moving sustained bass can carry harmonic direction independently of shorter kick attacks; another design can coordinate their onsets. Specify the selected relation rather than defaulting to downbeat locks and gap replies. If bass and kick strike together, one can provide a sharp start and the other a sustaining body. If they alternate, the groove can feel active without extra percussion. These are arrangement relations that affect the recording image.
 
 ## Density is a time pattern
 
@@ -50,12 +50,6 @@ Allocate foreground or shared attention, width, depth, roughness and persistence
 
 ## Compile a coherent image
 
-Choose a coherent image with the purposeful contrasts this song needs; no contrast count or spatial change is required. A useful sequence for drafting is **foreground → supporting depth → rhythmic texture → sectional change**. The order need not appear literally in the final Style field, but it prevents a collection of unrelated adjectives.
+Choose a coherent image with the purposeful contrasts this song needs; no contrast count or spatial change is required. Describe the selected recording organization: foreground/background hierarchy, distributed ensemble attention, deliberate blend or articulated separation. There is no universal drafting order or requirement to keep the vocal dry while backing expands.
 
 Before compiling, ask: Which source is in front? Which layer supplies width or distance? Which attacks need to stay distinct? Does any actual refrain need a spatial change, or should the image stay stable? Which crucial lyric line is most at risk of masking? Answer with source and section names. “Close lead” is incomplete if every competing layer is also pushed forward.
-
-| Weak request | Original design fragment |
-| --- | --- |
-| “Huge and clear” | “Close lead over wide sustained refrain chords; short drum tails leave words exposed.” |
-| “Warm but punchy” | “Rounded bass body beneath distinct kick attacks; bright short accents stay behind the lead.” |
-| “Spacious verse” | “Sparse chord attacks with a short quiet room around the lead and audible gaps after lines.” |

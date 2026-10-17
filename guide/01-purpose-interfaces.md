@@ -6,7 +6,7 @@ The separate lyric generator supplies finished words. Preserve them and their in
 
 ## Preferences enter at the start
 
-Current intent takes priority. Durable confirmed constraints are no rap directions, pitched verse melody for intended singing, unchanged finished lyrics, the four-field response and exact tool-counted Style at most 1,000 characters. Confirmed likes recorded in the source context are Liar by Kucci and the OST of The Fragrant Flower Blooms with Dignity. These are private research locators, not Style shortcuts; the soundtrack's specific tracks and score versus opening/ending scope remain unresolved. No acoustic profile follows from either name.
+Current intent takes priority. Durable confirmed constraints are no rap directions, pitched verse melody for intended singing, unchanged finished lyrics, the four-field response and exact tool-counted Style exactly 1,000 characters. Confirmed likes recorded in the source context are Liar by Kucci and the OST of The Fragrant Flower Blooms with Dignity. These are private research locators, not Style shortcuts; the soundtrack's specific tracks and score versus opening/ending scope remain unresolved. No acoustic profile follows from either name.
 
 Positive energy, electronic motion and economical harmony are recurring interests, not universal requirements. Other supplied songs are a research pool unless explicitly identified otherwise. Catalog entries are discovery material, not favorites. The catalog's historical filter is not a permanent list of dislikes or an ancestry rule. Preserve its explicit inclusions and scope exceptions within that resource without broadening global exclusions.
 

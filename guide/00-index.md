@@ -1,6 +1,6 @@
 # 00 — Operational reading route
 
-This edition designs intended sound from finished lyrics, current intent, confirmed preferences and written evidence. It does not write lyrics or evaluate audio. All wording examples are untested design proposals. The 1,000-character ceiling is the user's contract, not a measured Suno capability.
+This edition designs intended sound from finished lyrics, current intent, confirmed preferences and written evidence. It does not write lyrics or evaluate audio. All wording examples are untested design proposals. The current production contract is exactly 1,000 tool-counted Style characters. This is the user's requirement, not a measured Suno capability. Historical optional teaching demonstrations retain their original shorter counts and are not current production responses.
 
 ## Routine route
 
@@ -17,11 +17,11 @@ Read this index, [01 purpose and evidence](01-purpose-interfaces.md), [02 musica
 | [09 lyric fit](09-lyric-music-fit.md) | Stress, syllables, breath, sentence boundaries and protected words |
 | [11 written audit](11-written-design-audit.md) | Inheritance, relevance, role compatibility and output compliance |
 
-Establish a provisional musical direction from the brief and confirmed preferences before retrieving complete optional arrangements. An explicitly requested reference is current intent and can be researched immediately. Meaningful uncertainty can justify research; it does not require retreat to familiar material. A better musical idea found later can reshape the direction. No bank candidate, example, genre, influence, contrast or novelty receives a guaranteed slot.
+Form a musical direction from the brief and confirmed preferences. Catalog discovery may help during this formation, before choosing ensemble, groove or timbre; it need not wait for a completed provisional arrangement. Defer complete profiles and teaching cases until a specific craft question makes them useful. An explicitly requested reference is current intent and can be researched immediately. Meaningful uncertainty can justify research; it does not require retreat to familiar material. A better musical idea found later can reshape the direction. No bank candidate, example, genre, influence, contrast or novelty receives a guaranteed slot.
 
-## Optional retrieval, only for a named question
+## Discovery and separately retrieved demonstrations
 
-- [Catalog](../optional/catalog/EXPANDED_SONG_STYLE_CATALOG.md): discovery labels, mechanisms, categories and claim boundaries. Search for the question at hand rather than reading104 rows routinely. Absence is not exclusion; catalog membership is not taste or model support.
+- [Catalog](../optional/catalog/EXPANDED_SONG_STYLE_CATALOG.md): discovery labels, mechanisms, categories and claim boundaries. Browse relevant labels and mechanisms while choosing a direction, or search for a question. No requirement to read all 104 rows or select a catalog candidate. Absence is not exclusion; catalog membership is not taste or model support.
 - [Influence profiles](../optional/INFLUENCE_PROFILES.md): complete researched proposal bundles, useful only when their relationship could clarify or improve the provisional direction.
 - [Teaching cases](../optional/12-worked-cases.md): demonstrations for a specific craft problem. Learn the principle, then return to this song; do not select its nearest complete arrangement.
 - [Specialist notes](../optional/SPECIALIST_NOTES.md): deeper explanations when a chosen time, contrapuntal or formal relation needs clarification.

@@ -2,7 +2,7 @@
 
 ## The decision this chapter supports
 
-Specify what changes in pitch over time and what stays put. Harmony is the simultaneous support around a melody; melody is a timed path of pitches and rests. A prompt is more useful when it says whether chords hold or turn, whether the lead line climbs or circles, and which sound carries a recurring idea. “Beautiful melody and rich chords” predicts almost nothing. “Two repeating chords beneath a narrow verse line; the refrain opens into a longer, rising vocal phrase” predicts shape and contrast without requiring a named category.
+Specify what changes in pitch over time and what stays put. Harmony is the simultaneous support around a melody; melody is a timed path of pitches and rests. A prompt is more useful when it says whether chords hold or turn, whether the lead line climbs or circles, and which sound carries a recurring idea. “Beautiful melody and rich chords” predicts almost nothing. A developing sung phrase over traveling harmony specifies a different organization from a returning tune over stable chords; choose the relationship rather than treating either as the safe starting point.
 
 Finished lyrics are the input. These definitions are compositional tools; Style phrasings are untested proposals, not exact note commands.
 
@@ -10,7 +10,7 @@ Finished lyrics are the input. These definitions are compositional tools; Style 
 
 A **tonal center** is the pitch that feels like rest. Preserve a supplied key when it matters; do not invent one. “Dark” and “bright” could describe harmony, register, timbre, or mix, so name the mechanism: “low repeating chords with a brighter upper voicing at the refrain.”
 
-**Chord-set size** is the number of distinct harmonies in a loop. A small set can support a vivid track when bass motion, vocal contour, and voicing develop. Specify the consequence: “two repeating chords; upper notes spread wider at the refrain.” [Berklee’s songwriting discussion](https://online.berklee.edu/takenote/harmonic-progressions-for-songwriters/) explains how even one changed chord can create section contrast.
+**Chord-set size** is the number of distinct harmonies in a loop. Chord vocabulary and harmonic development are choices with equal need for musical justification. A small cycle can stay stable, while a larger harmonic route can carry related phrases through changing destinations; neither is the default for narrative lyrics. [Berklee’s songwriting discussion](https://online.berklee.edu/takenote/harmonic-progressions-for-songwriters/) explains how even one changed chord can create section contrast.
 
 ## Harmonic rhythm: rate of chord change
 
@@ -26,9 +26,9 @@ An **arpeggio** sounds chord tones in sequence; a **stab** is a short chord atta
 
 ## Melody as contour plus rhythm
 
-**Melodic contour** is a line’s directional shape: rising, falling, hovering, or leaping then resolving. Rhythm, note length, register, and rests complete the design. [Berklee’s melody guide](https://online.berklee.edu/takenote/conjunct-disjunct-melody-basic-definitions/) defines pitch and rhythm as core components. “Narrow, short verse phrases; one rising refrain line with a held final word” combines contour and duration.
+**Melodic contour** is a line’s directional shape: rising, falling, hovering, or leaping then resolving. Rhythm, note length, register, and rests complete the design. [Berklee’s melody guide](https://online.berklee.edu/takenote/conjunct-disjunct-melody-basic-definitions/) defines pitch and rhythm as core components. A long arch, an angular recurring figure or developing shorter cells combine contour and duration differently; singing does not privilege a narrow verse or a higher refrain.
 
-**Register** is the pitch region; **range** is the span between low and high notes. A narrow verse can give one later leap significance. Decide where the highest or longest note belongs; a rest before it may make it more exposed than extra accompaniment.
+**Register** is the pitch region; **range** is the span between low and high notes. A narrow span or a broad span can define a verse. Place important melodic destinations where the chosen phrasing needs them; the highest or longest note need not be a late climax.
 
 ## Motifs and the hook’s carrier
 
@@ -36,7 +36,7 @@ A **motif** is a small recognizable rhythmic or pitch figure that returns or tra
 
 A **hook** is the feature the listener can recall and locate. Specify its **carrier**, **shape**, **position**, and **return**: “a three-note rising vocal figure opens each refrain; a bright pluck echoes it after the line.” “Catchy” describes a hoped-for result, not the implementation.
 
-**Call and response** alternates a phrase with an answering source. A **countermelody** runs simultaneously; register, articulation, duration, dynamics or staggered peaks can distinguish it when separation is intended. For dense lyrics, “two high notes answer in the gaps after each line” is safer than a continuous competing part.
+**Call and response** alternates a phrase with an answering source. A **countermelody** runs simultaneously; register, articulation, duration, dynamics or staggered peaks can distinguish it when separation is intended. For dense lyrics, compare a phrase-gap reply with simultaneous independent accompaniment distinguished by articulation, register or phrase peaks. Neither is safer by default; choose the intended musical interaction.
 
 ## Section contrast without arbitrary complexity
 
@@ -50,7 +50,7 @@ Alternatively, let a meaningful finished phrase determine the first melodic entr
 
 Separate **pitch span**, **register**, **duration** and **projected force**. A refrain can widen intervals without getting louder, or hold a stressed vowel longer without climbing. A single late upper note can be reserved for an earned lyric destination; a continuously high tune has a different arc. Do not impose a narrow three-note verse on every song merely to guarantee singing. Specify definite pitch behavior with the range and motion this brief needs.
 
-For harmonic contrast, first ask whether a new chord, a changed chord duration, a different bass path or a new voicing is enough. Do not invent modulations to imply sophistication. If a source's chord changes need clarity, reduce a competing continuous wash or assign sharper chord attacks to one layer; atmospheric motion can remain elsewhere. A clear harmonic identity and a complex surrounding texture are separate variables.
+Choose a cyclic, traveling, cadence-led or pedal-centered harmonic organization before deciding its local changes. A new chord, different duration, bass path or voicing is one way to develop it; small edits do not have priority over a different harmonic route. Do not invent modulations to imply sophistication. If a source's chord changes need clarity, reduce a competing continuous wash or assign sharper chord attacks to one layer; atmospheric motion can remain elsewhere. A clear harmonic identity and a complex surrounding texture are separate variables.
 
 Original alternatives: “The refrain keeps its pitch range but doubles the final vowel's duration”; “One larger leap marks the repeated declaration before stepwise settling”; “The final thought ends suspended while the accompaniment withdraws.” These are selectable prompt hypotheses, not a mandated sequence or evidence of heard results.
 
@@ -87,16 +87,3 @@ Original fragments: “The sustained sung arch overlaps a clipped rising instrum
 5. Is the main hook vocal, instrumental, bass-led, or rhythmic? When does it first appear and return?
 6. Does any simultaneous counterline compete with dense syllables?
 7. What feature remains recognizable across sections?
-
-## Prompt phrasing and intended audible results
-
-These are original candidate fragments, not certified commands to a generator.
-
-| Weak wording | More specific wording | Intended audible result |
-| --- | --- | --- |
-| “Simple but interesting chords.” | “A small repeating chord set stays steady while the bass changes its path.” | Harmonic stability with movement below it. |
-| “Emotional chorus.” | “Refrain melody rises beyond the verse’s narrow range and holds its last stressed word.” | A distinct melodic peak aligned to the lyric. |
-| “Memorable hook.” | “Short descending vocal motif returns unchanged at each refrain opening.” | Same recognizable figure on repeated entries. |
-| “More musical bridge.” | “Bridge briefly leaves the chord loop while a held upper note preserves continuity.” | Contrast without total loss of identity. |
-| “Rich harmony.” | “Held, widely spaced chords open beneath the refrain; verse chords remain clipped and narrow.” | Contrast in voicing and duration. |
-| “An answering instrument.” | “Two bright plucked notes answer only after the lead finishes each line.” | Clear alternation rather than overlap. |

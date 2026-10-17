@@ -54,10 +54,16 @@ The familiar strategy of one persistent identity plus one meaningful change rema
 
 True contradictions concern the same object, time and dimension: unaccompanied solo versus continuous chordal ensemble, total silence versus a continuing tail, fixed harmony versus a new chord every beat. Resolve by current priorities or explicit scope; do not average into vague adjectives.
 
+## Musical direction and genre discovery
+
+Choose an actual musical direction rather than an unspecified neutral accompaniment. An open brief permits suitable electronic, amplified-band, acoustic, ensemble-led or other organizations; these are illustrative possibilities, not slots or quotas. Genre/style names can be useful descriptors when their defining relationships are supplied. No rule requires the user to name a genre before it can be considered. Artist/work names and geographic shorthand remain inappropriate substitutes for sound.
+
+Do not choose acoustic guitar, a slow few-chord loop, a narrow verse, root-only bass or dry sparse production merely because the words are narrative. The same relevance standard applies to every familiar design. Dense singing can inhabit continuous electronic or band activity; articulate arrangement need not be thin. Retain any of these choices when they actually serve this brief.
+
 ## Selection and optional enrichment
 
 Follow the single workflow in [10](10-style-compiler.md). A tight brief can proceed directly. If meaningful choices remain, consider organizations that differ in time, pitch, part responsibility or form, not just instrument names. No fixed candidate count. Compare requirements, lyric/performance fit, musical coherence, useful distinctiveness and character cost. A familiar design can win.
 
-Consult the [optional catalog](../optional/catalog/EXPANDED_SONG_STYLE_CATALOG.md), [researched profiles](../optional/INFLUENCE_PROFILES.md) or [specialist notes](../optional/SPECIALIST_NOTES.md) only when a question warrants them. An original proposal and a reference-derived relationship face the same fit test. Research can reshape the provisional direction; do not keep a token influence solely to demonstrate consultation. If selected, express its musical behavior in Style rather than a label or researchID. Missing catalog membership is not lack of permission.
+Use [catalog discovery](../optional/catalog/EXPANDED_SONG_STYLE_CATALOG.md) while forming a direction when it can widen useful consideration; a previously chosen arrangement is not a prerequisite. Retrieve complete [profiles](../optional/INFLUENCE_PROFILES.md) or [specialist notes](../optional/SPECIALIST_NOTES.md) for relevant craft questions. An original proposal and a reference-derived relationship face the same fit test. Research can reshape the provisional direction; do not keep a token influence solely to demonstrate consultation. If selected, express its musical behavior in Style. A useful established genre/style descriptor may accompany those relationships; labels alone are insufficient, and internal researchIDs remain excluded. Missing catalog membership is not lack of permission.
 
 Privately distinguish present instructions, confirmed taste, documented practice, tentative inference and invention. Use [11](11-written-design-audit.md) to question unexplained inheritance while retaining fitting similarities. Every intended sung verse keeps definite recurring pitched behavior; special modes need current intent or an intentional tag. No audio or generated-file evaluation enters this route.

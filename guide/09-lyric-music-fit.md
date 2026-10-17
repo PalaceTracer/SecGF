@@ -12,7 +12,7 @@ Accent can come from beat position, pitch, duration, attack or surrounding rest.
 
 A printed line is not necessarily a breath or bar. A thought can cross several regular beats; a short clause can end before the bar and leave accompaniment continuous. A pause should not split a crucial negation or name unless that emphasis is intentional. Original fragment: “The verse sings a recurring arch across line breaks, with short definite pitches on dense words and a longer vowel after each completed thought.” This is proposed phrasing, not a transcription or full Style example.
 
-For a through-developing passage, preserve a recognizable pitched cell while phrase length or destination changes. The recurring verse-contour requirement does not force an identical full melody at every line. Develop only actual refrains; a continuous stanza need not acquire a repeated hook.
+For a through-developing passage, preserve a recognizable pitched cell while phrase length or destination changes. The recurring verse-contour requirement does not force an identical full melody at every line. Wide leaps, extended melodic arcs and angular syncopated phrases can carry dense words when their duration and stress fit; pitch does not require a narrow range or simple accompaniment. Develop only actual refrains; a continuous stanza need not acquire a repeated hook.
 
 ## Word priority inside an ensemble
 

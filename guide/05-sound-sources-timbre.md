@@ -43,7 +43,7 @@ Keep a technique label when it concisely names an essential texture; pair it wit
 
 These source families describe production possibilities, not fixed emotional properties. A physically excited source may show tiny variation from one strike to another; a sample may repeat exactly or be deliberately varied; a synthesized tone can be static or highly modulated. A text prompt should describe what is audible: “slight variation in repeated upper attacks,” “identical crisp low hits,” “sustained tone with slow brightness movement.” It should not use “organic” as a substitute for timing, tone, and dynamics.
 
-For acoustic/electronic coexistence, assign complementary jobs. A picked string can mark the offbeats while a smooth low synth holds the foundation; an acoustic chord can expose the opening while an electronic layer carries the same harmony at the return. Another option gives the acoustic source the hook and uses electronics only for transitions. Choose one relation that can be heard. Do not make both families compete for every chord, attack, and lead answer simply to demonstrate a hybrid. If the lyric is dense, put busy acoustic grain or digital fills in the gaps and keep the central sung melody exposed.
+For acoustic/electronic coexistence, assign complementary jobs. A picked string can mark the offbeats while a smooth low synth holds the foundation; an acoustic chord can expose the opening while an electronic layer carries the same harmony at the return. Another option gives the acoustic source the hook and uses electronics only for transitions. Choose one relation that can be heard. Do not make both families compete for every chord, attack, and lead answer simply to demonstrate a hybrid. Dense sung words may coexist with continuous independent accompaniment through suitable articulation, register and staggered peaks. Use gaps when alternation is the chosen character, not as an automatic remedy.
 
 ## Roles and interaction map
 
@@ -61,7 +61,7 @@ For acoustic/electronic coexistence, assign complementary jobs. A picked string 
 
 **Layer count** is distinct from perceptual density. Two long overlapping sounds can fill more space than five short punctuations. Density rises with overlapping durations, similar registers, repeated attacks, and reverb tails. To protect a vocal, limit concurrency in its register and phrase spaces rather than simply reducing all volume. A low bass, high accent, and midrange lead can coexist more clearly than three simultaneous midrange melodies. This is a conditional arrangement heuristic for the written plan. Dense interdependent parts may also be appropriate; the songwriter has only written inputs.
 
-**Register handoff** is a useful alternative to piling up layers. A high figure can disappear when the lead moves high, then return when the voice descends. A low pad can recede when bass becomes active. “The high pluck answers only in vocal gaps” encodes this as an audible arrangement rule. If the prompt budget is tight, one such interaction outranks a long list of source names.
+**Register handoff** and simultaneous layering create different textures; neither is intrinsically preferable. A high figure can disappear when the lead moves high, then return when the voice descends. A low pad can recede when bass becomes active. “The high pluck answers only in vocal gaps” encodes this as an audible arrangement rule. If the prompt budget is tight, one such interaction outranks a long list of source names.
 
 ## Hook carrier, handoff, and doubling
 
@@ -93,16 +93,3 @@ A small ensemble may state a theme, develop it in an actual instrumental space a
 A piano, plucked figure or sustained line can anticipate, question or continue a sung phrase through contour, harmonic tension or placement. It need not repeat the singer or merely fill gaps. Define what its activity contributes, then decide which moments need equality and which need vocal priority. The intended relationship can deliberately complicate the words without borrowing a source story.
 
 New color can come from changing an existing part's envelope, register, roughness or role instead of always adding a part. Purposeful doubling can also be the point: shared attack or octave reinforcement is not automatically redundant. Continuous acoustic/electronic coexistence, alternating ownership and envelope contrast are separate useful choices. Reject a color that does not serve the current brief; no emotion has a mandatory timbre.
-
-## Original prompt fragments and intended results
-
-These fragments describe intended results; they are not official Suno syntax or claims about generated audio. The songwriter never hears generated files.
-
-| Intent | Candidate Style fragment | Intended audible result |
-| --- | --- | --- |
-| Exposed words | “Clipped midrange chord strokes stop between dense lead phrases.” | Chords leave actual gaps and consonants remain clear. |
-| Recognizable opening | “A dry, glassy three-note figure appears before the first vocal and answers later lines.” | Same figure returns after its opening statement. |
-| Growing refrain | “Verse uses narrow, short plucks; refrain keeps their figure but lets the notes ring wider and longer.” | Identity persists while duration and image expand. |
-| Slow motion inside a held sound | “Soft sustained upper tone gradually brightens without adding new notes.” | Tone evolves while pitch stays stable. |
-| Contrasting surfaces | “Rough short chord attacks sit beneath a smooth, airy sustained layer.” | Distinct foreground and background textures. |
-| Cleaner lyric space | “Bass and dry pulse stay low; high accents occur only after line endings.” | The lead has an uncluttered middle register. |
