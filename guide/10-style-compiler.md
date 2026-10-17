@@ -26,8 +26,6 @@ When recent Style outputs are available in the current conversation, privately c
 
 Avoid automatically combining broad or mid-tempo pulse, locked or answering kick–bass, stationary chord loops, near-dry conversational verses, sparse ticks and refrain-only lift. This bundle is not a default inferred from narrative lyrics. Each component remains available when justified; do not reject it merely for appearing previously.
 
-The user explicitly liked two full-band rock designs. Treat those as positive whole-design evidence, not failed examples. Their component relationships are candidates rather than universal preferences; a fitting rock design need not change genre to pass this audit. Refer to Chapter01 for that distinction.
-
 A completed intended sung design explicitly names the verse's recurring pitched melody or contour before close/dry/diction descriptors. Do not use “conversational” or “almost spoken” as sung-verse shorthand. A requested spoken section is a separately scoped exception. Vague “sources,” “upper ticks,” “short hook” and “chord layer” should be made concrete when those parts define the design: choose an appropriate source family, articulation and musical behavior, or omit the immaterial detail. A precisely described texture can suffice when instrument identity is unimportant; no instrument quota follows.
 
 Remove explanations such as keeping a narrative image or an ideological claim clear from the Style paragraph. The lyrics retain their meaning; Style uses its budget for actual performance, melody, ensemble and recording behavior. Do not paraphrase a claim into a musical control.
