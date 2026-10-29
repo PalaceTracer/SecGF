@@ -69,7 +69,7 @@ These are options. Every song does not need ducked sub, deep sustained bass, or 
 
 ## Breaks, subdivision changes, and abrupt silence
 
-Use a transition to mark something in the finished lyric: a question ending, repeated vow, change of addressee, withheld answer, or last sung word. First identify the lyric event, then decide whether the arrangement needs anticipation, interruption, a weight change, or withdrawal. A reference's buildup/drop labels do not add those sections to a different lyric. A proposed instrumental break belongs in the private plan and can be named in Style when authorized by the current brief; leave the finished lyrics intact.
+A transition may relate to an existing lyric event, a musical phrase, a harmonic arrival or an independent process; the song can also continue without a transition. Choose whether anticipation, interruption, weight change or withdrawal helps the actual design. A reference's buildup/drop labels do not add those sections to a different lyric. A proposed instrumental break belongs in the private plan and can be named in Style when authorized by the current brief; leave the finished lyrics intact.
 
 **Subdivision change:** smaller attacks can become more frequent over the same large beat. “Upper ticks tighten toward the return while kick spacing stays fixed” separates felt tension from a tempo ramp. The reverse move can open room for a long sung vowel. Increasing attack rate on every layer can obscure the beat and text; assign the change to the layer doing the transition.
 
@@ -79,7 +79,7 @@ Use a transition to mark something in the finished lyric: a question ending, rep
 
 **Micro-silence:** define its scope and location. An all-sound cut stops direct sources and effect tails; a percussion stop leaves the other material continuous. Put a brief gap after the lead's completed vowel if the word should remain intact. “Cut all layers for half a beat after the last word, then restore the low pulse beneath the hook” makes the interruption's duration and function clear. A beat fraction is a design choice, not a default or guaranteed sample-accurate control. Repeated cuts may fragment dense singing, so select a few meaningful locations.
 
-**Return:** decide what survives and what expands. The same pulse may return with longer bass notes, a higher hook carrier, wider chords, or more frequent light attacks. One decisive change can communicate an arrival. Do not prescribe all of them in every song. **Withdrawal:** removing attacks while a melody or chord sustains can provide an ending distinct from another large arrival; specify whether the last tail rings out or cuts.
+**Return:** decide whether the established time, bass behavior and ensemble remain stable, change or transform. An arrival can change articulation, rhythmic weight, pitch movement or another selected relation without requiring expansion. **Withdrawal:** removing attacks while a melody or chord sustains can provide an ending distinct from another large arrival; specify whether the last tail rings out or cuts.
 
 ## Shared time, meter and phrase span
 
@@ -122,10 +122,10 @@ The following are original, anonymous phrasing examples. They describe intended 
 
 | Vague request | More specific Style fragment | Intended audible result |
 | --- | --- | --- |
-| “Make it fast and powerful.” | “Brisk, even pulse; sparse low kick and hard backbeat under rapid, quiet hats.” | Strong large beats coexist with small high attacks. |
+| “Make it fast and powerful.” | “Brisk even pulse; a recurring low accent anchors interlocking percussion patterns.” | Strong large beats coexist with small high attacks. |
 | “Groovy bass.” | “Short, rounded bass notes answer the kick between downbeats.” | Bass entries fill gaps rather than duplicating the kick. |
 | “Human drums.” | “Firm beat with varied soft upper-percussion accents and few fills.” | Pulse remains stable; upper layer has dynamic differences. |
-| “Big chorus.” | “Refrain widens with longer bass notes and denser hats; the core beat stays unchanged.” | Section changes in duration and density without speed drift. |
+| “Big chorus.” | “The returning section retains its pulse while bass changes its phrase pattern beneath the sung melody.” | Bass behavior changes without implying a tempo change. |
 | “Swinging beat.” | “Even kick anchors a lightly loping subdivision in the upper percussion.” | Unequal small-note spacing sits over a stable low pulse. |
 | “No clutter.” | “Percussion and sung phrases retain distinct attack patterns within continuous ensemble motion.” | Intended attacks remain identifiable; reduced density is another option, not a requirement. |
 | “Huge drop.” | “After the last sung vowel, a half-beat all-sound cut precedes the returning every-beat kick and doubled hook.” | Interrupted continuity makes a specific return conspicuous. |

@@ -43,7 +43,7 @@ Keep a technique label when it concisely names an essential texture; pair it wit
 
 These source families describe production possibilities, not fixed emotional properties. A physically excited source may show tiny variation from one strike to another; a sample may repeat exactly or be deliberately varied; a synthesized tone can be static or highly modulated. A text prompt should describe what is audible: “slight variation in repeated upper attacks,” “identical crisp low hits,” “sustained tone with slow brightness movement.” It should not use “organic” as a substitute for timing, tone, and dynamics.
 
-For acoustic/electronic coexistence, assign complementary jobs. A picked string can mark the offbeats while a smooth low synth holds the foundation; an acoustic chord can expose the opening while an electronic layer carries the same harmony at the return. Another option gives the acoustic source the hook and uses electronics only for transitions. Choose one relation that can be heard. Do not make both families compete for every chord, attack, and lead answer simply to demonstrate a hybrid. Dense sung words may coexist with continuous independent accompaniment through suitable articulation, register and staggered peaks. Use gaps when alternation is the chosen character, not as an automatic remedy.
+For acoustic/electronic coexistence, decide whether sources share, double, alternate or independently carry rhythmic, harmonic and melodic responsibilities. Describe the relation and timbral interaction that matters to the current song. Do not make both families compete for every chord, attack, and lead answer simply to demonstrate a hybrid. Dense sung words may coexist with continuous independent accompaniment through suitable articulation, register and staggered peaks. Use gaps when alternation is the chosen character, not as an automatic remedy.
 
 ## Roles and interaction map
 
@@ -78,7 +78,7 @@ Distinguish three arrangements. A **reply** adds a figure after a lead phrase. A
 | Double | “A restrained guitar doubles the held refrain melody, then rests for the next verse.” | Sung hook remains foreground; reinforcement is local. |
 | Envelope development | “The same clipped keyboard motif lengthens into ringing notes on the return.” | Carrier and motif remain; note duration changes. |
 
-A wordless processed vocal can occupy the hook or answer role when the brief requests it; keep it distinct from the intelligible sung lead. Source handoff is especially useful when another layer would overload the lead register. Doubling may supply emphasis, but its first statement can remain exposed. State which source yields space rather than asking every layer to be prominent.
+A wordless processed vocal can occupy the hook or answer role when the brief requests it; keep it distinct from the intelligible sung lead. Source handoff is especially useful when another layer would overload the lead register. Doubling may supply emphasis, but its first statement can remain exposed. State the intended foreground, shared attention or blend when material. One source yielding space is an option; coequal lines and continuous doubling can also be deliberate.
 
 ## Ensemble organization can be the primary identity
 

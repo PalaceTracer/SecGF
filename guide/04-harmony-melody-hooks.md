@@ -34,7 +34,7 @@ An **arpeggio** sounds chord tones in sequence; a **stab** is a short chord atta
 
 A **motif** is a small recognizable rhythmic or pitch figure that returns or transforms. It may belong to the voice, bass, chords, or a short lead sound. A motif may return literally or become recognizable through transformed rhythm, contour or carrier; choose the degree of recurrence this song needs. [Berklee’s motif guide](https://online.berklee.edu/takenote/simple-tools-for-better-melodies/) offers this as a compositional method, not a promise of memorability.
 
-A **hook** is the feature the listener can recall and locate. Specify its **carrier**, **shape**, **position**, and **return**: “a three-note rising vocal figure opens each refrain; a bright pluck echoes it after the line.” “Catchy” describes a hoped-for result, not the implementation.
+A **hook** is a recognizable feature. If the chosen design uses one, specify the aspects of its carrier, shape, placement or recurrence that define it. Not every song needs a hook or a new refrain. “Catchy” describes a hoped-for result rather than its implementation.
 
 **Call and response** alternates a phrase with an answering source. A **countermelody** runs simultaneously; register, articulation, duration, dynamics or staggered peaks can distinguish it when separation is intended. For dense lyrics, compare a phrase-gap reply with simultaneous independent accompaniment distinguished by articulation, register or phrase peaks. Neither is safer by default; choose the intended musical interaction.
 
@@ -42,7 +42,7 @@ A **hook** is the feature the listener can recall and locate. Specify its **carr
 
 ### Independent melodic identities and phrase-led entry
 
-A vocal tune and an instrumental motif need not share every pitch or rhythm. A repeated guitar, piano or bass figure can be the continuity cue while the lead sings a separate contour. Decide which identity is foreground at each moment. Original hypothesis: “A short repeating guitar figure underpins the verse's independent stepwise tune; the figure recedes as the refrain holds longer notes.” The recession is a new arrangement proposal, not a presumed feature of a reference.
+A vocal tune and instrumental motif can move independently, double one another or exchange foreground. Decide whether an instrumental figure remains continuous, changes or recedes according to the selected organization; shared attention can be intentional.
 
 Alternatively, let a meaningful finished phrase determine the first melodic entry: expose its tune early, then confirm the pulse with accompaniment. This does not require an unaccompanied opening or the insertion of new text. Phrase-first entry, instrumental prefiguration and delayed hook arrival are different choices. Phrase-led writing and independent instrumental/vocal construction are available design proposals here, not a tune to copy.
 
@@ -52,9 +52,9 @@ Separate **pitch span**, **register**, **duration** and **projected force**. A r
 
 Choose a cyclic, traveling, cadence-led or pedal-centered harmonic organization before deciding its local changes. A new chord, different duration, bass path or voicing is one way to develop it; small edits do not have priority over a different harmonic route. Do not invent modulations to imply sophistication. If a source's chord changes need clarity, reduce a competing continuous wash or assign sharper chord attacks to one layer; atmospheric motion can remain elsewhere. A clear harmonic identity and a complex surrounding texture are separate variables.
 
-Original alternatives: “The refrain keeps its pitch range but doubles the final vowel's duration”; “One larger leap marks the repeated declaration before stepwise settling”; “The final thought ends suspended while the accompaniment withdraws.” These are selectable prompt hypotheses, not a mandated sequence or evidence of heard results.
+Melodic destinations can recur, vary, resolve, remain suspended or develop across several phrases. Decide how they relate to actual text and harmony; a final note, higher refrain or withdrawal is not compulsory.
 
-One optional contrast preserves an anchor while changing a dimension: held verse chords versus faster refrain changes, narrow verse contour versus a rise, or clipped verse chords versus a sustained refrain. [Berklee’s hook discussion](https://online.berklee.edu/takenote/how-to-write-songs-with-killer-hooks/) treats placement and contrast as useful songwriting choices. Specify which figure returns so sections still feel related.
+A contrast can retain a melodic, rhythmic or harmonic anchor while changing voicing, phrase timing, contour or chord rhythm in either direction. A stable relationship can also be intentional. [Berklee’s hook discussion](https://online.berklee.edu/takenote/how-to-write-songs-with-killer-hooks/) treats placement and contrast as useful songwriting choices. If recognition depends on a returning figure, identify it and how it returns.
 
 ## Harmonic sentences and several timescales
 
@@ -66,7 +66,7 @@ Harmony need not be a continuous chord bed. Bass and melody can define intervals
 
 ## Phrase organization and motif transformation
 
-A recurring pitched cell can be extended, contracted, sequenced or moved to a new harmonic setting. A longer phrase may cross several bars; several short cells may form one sentence. State the chosen relation rather than equating every line break with a bar or requiring all phrases to have equal length. In intended sung verses retain a recurring definite contour or cell even when the larger melody develops through the text.
+A recurring pitched cell can be extended, contracted, sequenced or moved to a new harmonic setting. A longer phrase may cross several bars; several short cells may form one sentence. State the chosen relation rather than equating every line break with a bar or requiring all phrases to have equal length. In intended sung verses retain a recurring definite melodic identity at phrase or section scale as the melody develops through the text.
 
 Literal repetition preserves pitches and rhythm; transposition preserves their interval pattern in another pitch region; freer variation can retain only a rhythm, opening gesture or destination. Specify the recognition needed. A held refrain note, a transformed verse cell, a low repeated interval or a cadence can have different responsibilities. No universal requirement for a single exposed hook, new chord, highest note or larger final return.
 
@@ -84,6 +84,6 @@ Original fragments: “The sustained sung arch overlaps a clipped rising instrum
 2. Does the song’s emotional change require a new chord, a changed chord duration, a wider voicing, or a different melody?
 3. Does harmonic vocabulary remain stable or change, and how do voicing, bass movement and harmonic rhythm contribute?
 4. How are melodic destinations distributed across phrases: concentrated peak, several local arrivals or sustained continuity? Which text stresses shape them?
-5. Is the main hook vocal, instrumental, bass-led, or rhythmic? When does it first appear and return?
+5. If the design has a hook, which part carries it and where does it appear or recur?
 6. What does each simultaneous line contribute, and how do articulation, phrase timing, register or intentional blend allocate attention?
 7. What feature remains recognizable across sections?

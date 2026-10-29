@@ -12,7 +12,7 @@ Use the available conversation and written preference records without turning an
 
 An open brief permits suitable familiar, unfamiliar and original musical directions without the user naming them first. Lyric meaning does not uniquely choose genre, tempo, ensemble, vocal register, density or production scale. Retain fitting similarities; revise unexplained inheritance without forcing novelty.
 
-Preserve finished lyrics, definite recurring pitched verse identity for intended singing, the no-rap boundary and the four-field exact1,000-character contract. Apply these workflow constraints consistently; they do not prescribe one musical arrangement.
+Preserve finished lyrics, definite recurring pitched verse identity for intended singing, the four-field contract with exactly 1,000 Style characters. Apply these workflow constraints consistently; they do not prescribe one musical arrangement.
 
 ## Separate evidence and authority
 
@@ -39,7 +39,7 @@ Credits establish participation, not timing, timbre or mix. Titles, geography an
 | STYLE OF MUSIC | Positive desired performance, arrangement and recording behavior |
 | CHARACTER COUNT | Exact final Style paragraph length verified with a counting tool |
 | EXCLUDE | Only necessary avoidances, or none |
-| SONG TITLE | Brief original name from the lyrics and intended sound |
+| RATIONALE SONG TITLE | Brief original name from the lyrics and intended sound |
 | Private research/design notes | Evidence scope, proposals, decisions and unresolved details; never a fifth response field |
 
 The four-field format applies to Style-generation requests, not research or project administration. If no counting tool is available, do not pretend the count is verified: the exact-count delivery gate is unmet. Configure a tool or state the limitation rather than inventing a count.

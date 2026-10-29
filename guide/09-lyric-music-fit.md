@@ -10,9 +10,15 @@ Words constrain performance but do not uniquely determine style. Dense text can 
 
 Accent can come from beat position, pitch, duration, attack or surrounding rest. Coordinate consequential words with the chosen melody while allowing deliberate tension where the brief warrants it. [Prosody research](https://pmc.ncbi.nlm.nih.gov/articles/PMC3225926/) and [sung-word recognition research](https://doi.org/10.18061/emr.v9i1.3729) concern particular materials, not a universal emotional style map. Their English-language findings do not supply stress rules for every language.
 
-A printed line is not necessarily a breath or bar. A thought can cross several regular beats; a short clause can end before the bar and leave accompaniment continuous. A pause should not split a crucial negation or name unless that emphasis is intentional. Original fragment: “The verse sings a recurring arch across line breaks, with short definite pitches on dense words and a longer vowel after each completed thought.” This is proposed phrasing, not a transcription or full Style example.
+A printed line is not necessarily a breath or bar. Equal syllable counts do not require equal melodic lengths, identical placement or the same one-breath setting; repeated lyric words do not require identical pitch, dynamics or accompaniment. A thought can cross several regular beats; a short clause can end before the bar and leave accompaniment continuous. A pause should not split a crucial negation or name unless that emphasis is intentional. A sung arch may cross line breaks, while a shorter gesture may end before one; choose the duration and placement from the actual phrase and musical direction.
 
-For a through-developing passage, preserve a recognizable pitched cell while phrase length or destination changes. The recurring verse-contour requirement does not force an identical full melody at every line. Wide leaps, extended melodic arcs and angular syncopated phrases can carry dense words when their duration and stress fit; pitch does not require a narrow range or simple accompaniment. Develop only actual refrains; a continuous stanza need not acquire a repeated hook.
+For a through-developing passage, preserve recognizable pitched verse identity at phrase or section scale while melody, phrase length or destination can change. The recurring verse-contour requirement does not force an identical full melody at every line. Wide leaps, extended melodic arcs and angular syncopated phrases can carry dense words when their duration and stress fit; pitch does not require a narrow range or simple accompaniment. Develop only actual refrains; a continuous stanza need not acquire a repeated hook.
+
+## Translate words into performance choices
+
+Keep explicit lyric requirements in their own scope: which words, line breaks, intentional tags and repetitions already exist. Determine sung phrase length, breathing and stress in relation to the selected musical direction. Line count, syllable length, a repeated word pair or a scene can inform performance, but none supplies an instrument, tempo, harmony or recording image by itself. A deliberately specified musical requirement remains binding.
+
+The same existing repeated words can keep a melody, vary its contour, move through different harmony or retain the same arrangement. Choose the relationship for this song without inventing words or an extra refrain. A musical phrase may span more than one printed line, and a coherent groove can continue through a breath.
 
 ## Word priority inside an ensemble
 

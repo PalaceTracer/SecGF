@@ -20,13 +20,13 @@ Technical research distinguishes pitch, vocal-fold behavior, and vocal-tract res
 | Answer | A phrase or wordless sound in a gap. | What can respond without covering the story? |
 | Space | Near/dry foreground versus distant/wide support. | Does distance change at the lyric turn? |
 
-When useful, map the material vocal roles privately, then compile the important relation: “Single close lead sings a recurring verse contour; a narrow unison double widens the repeated refrain.” The written map assigns any support entrance explicitly; a collective voice can instead be the principal configuration when that fits. “Intimate solo” and “continuous equal-level group” conflict unless the prompt assigns them to different moments.
+When useful, map vocal roles privately: who owns the recurring pitched tune, how any supporting lines relate to it, and whether their role stays stable or changes. Collective, alternating or solo configurations are available; assign support timing only when it matters. “Intimate solo” and “continuous equal-level group” conflict unless the prompt assigns them to different moments.
 
 ## Choose vocal mode by section
 
-Before color or diction, decide whether each section is **pitched singing**, rhythmic singing, intentional chant, speech, or wordless vocal texture. **No rap** as genre, subgenre, Style tag, neighboring tag, or vocal direction in this project. Use the current user's request and intentional performance tags in the finished lyric; a tag in a liked reference does not choose the new song's mode. Narrative detail, dense syllables, a close microphone, and clear consonants do not by themselves call for speech. For a song intended to be sung, give actual verses or verse-equivalent passages an explicit recurring pitched contour; treat any actual refrain separately. The chosen melody may use a long arch, changing intervals or a compact gesture according to this song, without a fixed note count. Place speech, whisper, and shouts only in named sections where the current brief asks for them. A breathy sung tone retains pitch; an actual whisper is a distinct requested mode.
+Before color or diction, decide whether each section is **pitched singing**, rhythmic singing, intentional chant, speech, or wordless vocal texture. Use the current user's request and intentional performance tags in the finished lyric; a tag in a liked reference does not choose the new song's mode. Narrative detail, dense syllables, a close microphone, and clear consonants do not by themselves call for speech. For intended singing, positively specify pitched verse behavior; avoid “spoken-sung,” “conversational” and similar speech cues unless that delivery is explicitly requested or tagged. For a song intended to be sung, give actual verses or verse-equivalent passages an explicit recurring pitched contour; treat any actual refrain separately. The chosen melody may use a long arch, changing intervals or a compact gesture according to this song, without a fixed note count. Place speech, whisper and shouts only in named sections where the current brief or an intentional lyric section tag requests them. A breathy sung tone retains pitch; an actual whisper is a distinct requested mode.
 
-State mode positively in Style when it matters: “The verses carry a clearly sung melodic identity whose rhythmic shape returns while phrase endings and interval shape develop.” “Intimate,” “restrained,” “precise,” and “conversational” describe manner but leave melodic mode ambiguous. In a sung brief, do not let those adjectives be the only verse direction. Keep the verse melody cue when shortening the prompt.
+State mode positively with an actual melodic behavior chosen for the verse: direction, interval motion, phrase span or how sung rhythm relates to accompaniment. An abstract claim of a “pitched identity” alone does not describe the intended melody. “Intimate,” “restrained” and “precise” describe manner but leave melodic mode ambiguous. Speech-adjacent wording is reserved for an explicitly requested or tagged speech mode. In a sung brief, do not let those adjectives be the only verse direction. Keep the verse melody cue when shortening the prompt.
 
 ## Restrained and rhythmic singing remain melodic
 
@@ -53,17 +53,17 @@ These original hypotheses extend the documented distinctions in the anonymous pr
 
 ## Independent support voices need independent jobs
 
-If the current brief asks for several vocal lines, decide which one carries words, which one supplies lower sustained support, and which one floats above or answers afterward. Two voices can be a unison reinforcement, a harmony, an exchange or independent counterlines; count alone does not determine the arrangement. Original proposal: “One clear lead sings the verse; a low held harmony supports the refrain while a quieter upper line answers its released vowels.” Give fuller two- or three-line combinations specific entrances and exits. Do not infer a choir, duet narrative, demographic identity or accent from reference contributors. A collective pitched configuration can be an original song-specific choice in an open brief, without inventing new words or characters.
+When several vocal lines fit the current brief or an open musical direction, decide which carries existing words, which supports or moves independently, and how attention is shared. Group singing is a possible arrangement choice; an explicitly requested special speech mode remains section-specific. Two voices can be a unison reinforcement, a harmony, an exchange or independent counterlines; count alone does not determine the arrangement. Choose whether lines sound together, exchange existing phrases or remain independent, and specify entrances or continuity only where decisive. Do not infer a choir, duet narrative, demographic identity or accent from reference contributors. A collective pitched configuration can be an original song-specific choice in an open brief, without inventing new words or characters.
 
 ## Local exceptions require a named location
 
-The written references contain speech, group responses, processed voices, and duets. Their variety does not establish a default for this project. When the current brief explicitly requests one of these features, decide its mode, entrance, and exit while preserving the intended mode of other sections.
+Choose pitched harmonies, group configurations, doubles or processed vocal textures when the brief or an open direction makes them useful, preserving the supplied words. Speech, chant, whisper or shouts require explicit intent or intentional section tags. When such a special mode is requested, locate it and preserve the intended mode of the other sections.
 
 | Optional feature | Necessary section decision |
 | --- | --- |
 | Spoken aside or whisper | Which existing intro, bridge, or final line carries it, and where pitched singing resumes? |
 | Chant or shout | Is the named response pitched or unpitched, and does it answer after the sung lead? |
-| Duet | Which actual sections alternate leads, and which repeated line joins them? |
+| Duet | Do voices share existing words, alternate existing phrases or sing together, and is the pattern stable or changing? |
 | Harmony or unison double | Does coordinated support carry full existing text, selected phrases or local words, and who owns the tune? |
 | Vocal chop | Does a wordless hook answer a named refrain or transition while the verse lead stays intact? |
 
@@ -73,9 +73,9 @@ Do not add a spoken verse to achieve intimacy, a shout to achieve energy, or a d
 
 **Pitch height** is where the notes lie; **tessitura** is the region holding most phrases; **register impression** is perceived weight and manner of phonation. A high note need not sound thin, and a low note need not sound forceful. Do not make “deep” carry pitch, darkness, mood, and identity at once. Choose the relative vocal span, phrase organization and register for this song. Low or high placement, broad or compact motion, local leaps or sustained arcs are available; no verse-to-higher-refrain sequence is required. Relative directions are useful when the actual melody and comfortable range are unknown.
 
-A continuous climb, an audible register break, a narrow sung contour, and a wide leap are different events. Put the change where the lyric needs it. “The sung verse extends its recurring rhythmic gesture through changing interval shapes” specifies more than “expressive voice.” Technical register terms can help private analysis; the paragraph describes the intended contour and color. [Register-shift research](https://pmc.ncbi.nlm.nih.gov/articles/PMC4167751/) shows why pitch and phonatory state should not be collapsed into one adjective.
+A continuous climb, an audible register break, a narrow sung contour, and a wide leap are different events. Put the change where the lyric needs it. Specify the selected verse contour, interval movement, phrase span or rhythmic relation rather than leaving its musical behavior abstract. Technical register terms can help private analysis; the paragraph describes the intended contour and color. [Register-shift research](https://pmc.ncbi.nlm.nih.gov/articles/PMC4167751/) shows why pitch and phonatory state should not be collapsed into one adjective.
 
-**Ask:** Which line gets the first high note? Is the rise a one-time turn or the default? Must a name or plot-bearing phrase stay in a clear middle range? If the written design raises every line, decide whether that continuity is intended or reserve a different destination for a real later event; no low verse or final lift is compulsory.
+**Ask:** What recognizable melodic behavior should the verse have, and how does its contour relate to the accompaniment and text? Decide whether any high point, repeated destination, change of register or stable range is actually needed; each is a choice, not a built-in sequence.
 
 ## Tone color and phonation
 
@@ -100,7 +100,7 @@ Sung-word clarity depends on performer, arrangement, and acoustic environment. A
 
 ## Phrasing and rhythmic placement
 
-A sung line has a start, a path, a pause, and an ending. Specify the element that shapes this lyric:
+A sung phrase has a start, a path and an ending; it can continue across printed lines or pause where the chosen performance needs it. Specify the element that shapes this lyric:
 
 - **Pickup and pocket:** entry before, on, or just after the beat. “Slightly ahead” can create urgency while a steady drum remains the anchor.
 - **Line length:** compact cells, unequal phrases or long arcs containing short syllabic notes; choose from stress, available duration and intended melody rather than information density alone.
@@ -108,7 +108,7 @@ A sung line has a start, a path, a pause, and an ending. Specify the element tha
 - **Stress:** weight on a word through duration, beat placement, pitch, or a brief instrumental clearing.
 - **Release:** a dry cut, taper, trailing breath, or held vowel, each with a different effect on the following event.
 
-Small timing and pitch differences can be expressive without destroying the perceived note category; see [perceptual singing research](https://pubmed.ncbi.nlm.nih.gov/8061767/). For sung prompts, prefer a relational sentence: “Short sung verse cells lean slightly forward; the refrain settles into longer centered notes.” Check the written relation among available phrase space, duration and timing; an actual refrain may keep or change that relation. “Loose” alone gives no anchor; name what stays steady.
+Small timing and pitch differences can be expressive without destroying the perceived note category; see [perceptual singing research](https://pubmed.ncbi.nlm.nih.gov/8061767/). For sung prompts, specify how melodic phrasing relates to the chosen pulse and actual sections. The phrasing may stay continuous, develop, or contrast where useful. Check the written relation among available phrase space, duration and timing; an actual refrain may keep or change that relation. “Loose” alone gives no anchor; name what stays steady.
 
 ## Ornament and vibrato
 
@@ -118,9 +118,9 @@ A crucial hook may begin plainly and gain later ornament, or begin ornamented, r
 
 ## Doubles, harmonies, and responses
 
-A double thickens a melody. A harmony introduces another pitch. An answer takes a gap. A group response can turn a private line into a shared one. A wordless pad supplies harmony without new text. These roles are not interchangeable, and none is mandatory. Give each a *time and location*: “quiet low harmony under held refrain endings” or “short high answers between the lead lines.” For crucial first statements, coordinate text onsets, tune ownership, register and balance. Full-text unison or chordal ensemble can carry the first statement; an exposed lead is another choice. The [multi-voice experiment](https://pubmed.ncbi.nlm.nih.gov/27068550/) supports considering word priority when voices overlap, within the study’s limits.
+A double reinforces a melody; a harmony adds another pitch; a response can follow or deliberately overlap existing material. These roles are not interchangeable. When selected, describe their text ownership and whether they continue, alternate or enter at a specific point. For crucial first statements, coordinate text onsets, tune ownership, register and balance. Full-text unison or chordal ensemble can carry the first statement; an exposed lead is another choice. The [multi-voice experiment](https://pubmed.ncbi.nlm.nih.gov/27068550/) supports considering word priority when voices overlap, within the study’s limits.
 
-One optional arc uses an exposed opening lead, a local double at a real return and a later upper harmony. Collective singing throughout or rotating foreground are equally available. If the lyric demands isolation, the strongest arc may keep one voice and instead change its distance or phrasing. If the written design intends local support, bind it to those sections; continuous ensemble ownership is a different deliberate choice. Choose a centered lead, spread ensemble, alternating foreground or distributed image according to text ownership; no single spatial hierarchy is compulsory.
+A lead with local support, continuous collective singing and rotating foreground are available organizations. If the written design intends local support, bind it to those sections; continuous ensemble ownership is a different deliberate choice. Choose a centered lead, spread ensemble, alternating foreground or distributed image according to text ownership; no single spatial hierarchy is compulsory.
 
 ## Vocal intensity as a change, not an adjective
 
@@ -138,7 +138,7 @@ Decide existing text ownership: coordinated same words, actual phrases distribut
 
 A restrained sung verse can have a definite compact contour; a continuously developing sung passage can transform its recurring cell instead of repeating a whole tune. Keep that positive pitch cue during compression. If harmony changes, the phrase can retain stress rhythm, directional shape or a clear destination while adapting pitches to the new support. It need not preserve every absolute pitch.
 
-Register, force, grain, ornament, duration and number of parts are independent. An actual refrain can remain level, narrow, more intricate, quieter, reharmonized or extended in duration. A song without one needs no substitute refrain. An unaccompanied or thinning texture stays pitched; a large ensemble remains sung unless an explicit brief or intentional tag calls for speech, chant, whisper or shout at a named section. Rap remains excluded as genre, subgenre, tag and direction.
+Register, force, grain, ornament, duration and number of parts are independent. An actual refrain can remain level, narrow, more intricate, quieter, reharmonized or extended in duration. A song without one needs no substitute refrain. An unaccompanied or thinning texture stays pitched; a large ensemble remains sung unless an explicit brief or intentional tag calls for speech, chant, whisper or shout at a named section.
 
 ## Compatibility and prompt budget
 
@@ -151,4 +151,4 @@ Register, force, grain, ornament, duration and number of parts are independent. 
 | Refrain variation + recognition | Preserve a recognizable rhythmic or directional identity while changing selected intervals, duration or support, if wanted. | Unexplained replacement of its identity; compulsory growth. |
 | Flexible lead + tight pulse | Rhythm section provides a fixed reference. | Whole recording wanders. |
 
-Resolve consequential vocal choices and compare alternatives only where useful, by meaning, intended audibility, compatibility and character cost. For an intended sung song, preserve the pitched verse behavior before optional texture or support. A compact Style field may then need only foreground configuration, one delivery trait, one section change, and one support role. Avoid reciting all technical dimensions. Exact lyrics stay unchanged in Lyrics. Necessary unwanted vocal elements belong separately in [Suno Exclude](https://help.suno.com/en/articles/3161921/) when available; an exclusion cannot replace the positive melody design.
+Resolve consequential vocal choices and compare alternatives only where useful, by meaning, intended audibility, compatibility and character cost. For an intended sung song, preserve the pitched verse behavior before optional texture or support. A compact Style field needs the vocal and supporting relationships that matter to this song; a section change or support voice is not a required clause. Avoid reciting all technical dimensions. Exact lyrics stay unchanged in Lyrics. Necessary unwanted vocal elements belong separately in [Suno Exclude](https://help.suno.com/en/articles/3161921/) when available; an exclusion cannot replace the positive melody design.
