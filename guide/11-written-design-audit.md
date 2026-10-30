@@ -26,7 +26,7 @@ Do not demand an answer to every row in the final paragraph. The audit detects m
 
 ## Private preflight before counting
 
-Check that the selected direction has a musical identity through the relationships that matter here: time, pitch, source roles, voice, form or recording image. For intended singing, the voice needs a specific recurring pitched behavior; an instrumental contour or a mix adjective alone does not supply it. Check actual sections, text allocation and explicitly requested special modes.
+Check that the selected direction has a musical identity through the relationships that matter here: time, pitch, source roles, voice, form or recording image. For intended singing, the voice needs a specific recurring pitched behavior; an instrumental contour or a mix adjective alone does not supply it. Check actual sections, text allocation and explicitly requested special modes. For consequential parts, privately reconcile entrances, continuity, exits and any claimed instrument or layer limits; clarify whether pitch, harmony or register instructions apply to the voice or an instrument.
 
 Where recent outputs are available, examine whether the same bundle of decisions recurs without a song-specific reason. A different instrument or label alone does not prove a different organization. Keep a fitting similarity; consider another suitable direction when the brief leaves room. A specific brief needs no artificial alternatives. Do not claim catalog consultation or prior history that was unavailable.
 
