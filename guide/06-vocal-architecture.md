@@ -128,6 +128,12 @@ A sung phrase has a start, a path and an ending; it can continue across printed 
 
 Small timing and pitch differences can be expressive without destroying the perceived note category; see [perceptual singing research](https://pubmed.ncbi.nlm.nih.gov/8061767/). For sung prompts, specify how melodic phrasing relates to the chosen pulse and actual sections. The phrasing may stay continuous, develop, or contrast where useful. Check the written relation among available phrase space, duration and timing; an actual refrain may keep or change that relation. “Loose” alone gives no anchor; name what stays steady.
 
+## Natural-sounding sung performance when requested
+
+For a human-sounding lead, describe an expressive pitched performance: let the recurring verse idea retain its identity while phrase timing, note lengths, entrances, releases and emphasis vary with the words and musical pulse. Sustained notes can have a naturally shaped onset and release; select breath, vibrato or light ornament only where wanted. This is a creative direction, not a claim that a generation will sound human. Avoid specifying the same fixed note-by-note cadence on every line unless the brief asks for that effect. No particular register, breathiness, gender or accent follows from naturalness.
+
+Choose how support relates to the lead. A single clearly audible sung lead with selectively placed, softer harmonies is one option; a deliberately blended, doubled or synthetic voice is another. If harmonies or octave doubles serve the song, state where they enter and how prominently they sit instead of assuming they must shadow every syllable. Neither close miking nor vocal layering alone establishes the cause of a boxy or synthetic result.
+
 ## Ornament and vibrato
 
 A straight tone holds relatively steady pitch; vibrato varies around a center; a slide approaches or leaves a note; a run gives several pitches to a syllable. Use ornaments to emphasize a chosen word or later repetition, not automatically every line. Perceptual work treats vibrato as pitch modulation around a mean and shows that reactions depend on interacting rate, depth, and pitch; “more vibrato” is not a complete musical direction. See [perceptual singing](https://pubmed.ncbi.nlm.nih.gov/8061767/) and [vibrato experiment](https://pubmed.ncbi.nlm.nih.gov/23177756/).
