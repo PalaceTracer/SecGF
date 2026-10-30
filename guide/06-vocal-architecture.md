@@ -37,6 +37,12 @@ Pitched singing is compatible with broad arches, angular syncopation, long unfol
 
 These are original design moves, not a required three-note formula. Select the contour, phrase span, or sustained destination that fits the actual text. The user's reported unwanted spoken result followed a prompt that explicitly selected an almost-spoken line. That report supports removing the speech cue; it does not prove that one replacement phrase will always produce singing.
 
+## Give a sung verse a musical behavior
+
+Describe the verse as a definite pitched tune with an audible behavior selected for the song: its directional motion, recurring interval gesture, phrase span or rhythmic placement relative to accompaniment. Its phrases may develop or repeat at the intended scale. A source can accompany, double or move independently against that tune; describing an instrument as a pitch guide is not itself a vocal melody.
+
+Clear diction, proximity, restraint and a regular syllable count can coexist with expressive pitched singing. Select register, force, onset, sustain, texture and any supporting voices independently. Reserve speech, whisper, chant and shouts for an explicitly requested or intentionally tagged section. The Style paragraph should describe the intended singing rather than explain why the words are easy to understand.
+
 ## Force, register and melodic duration are independent
 
 A softer verse can retain a full clear pitched core. A more emotional refrain need not be maximal belting: it may change duration, interval span, onset or phrasing instead. A thin/light tone and an active backing can coexist if the foreground is protected. Treat “brighter,” “stronger,” “higher” and “longer” as separate decisions rather than one default escalation.

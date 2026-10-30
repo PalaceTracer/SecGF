@@ -46,6 +46,10 @@ For an actual final return, ask whether the repeated lyric gains meaning from it
 
 End with an action: dry stop, held chord after the lead, instrumental reply, fade, or opening texture returned. Name it in Style only if vital.
 
+## Plan a repeated closing phrase
+
+A repeated pair in the finished lyric establishes a textual return. Decide separately whether its vocal melody, harmony, bass, ensemble or image remains stable or changes. An unchanged return can be deliberate, and a change of phrasing, voicing or rhythmic weight can be deliberate. Repetition does not require a pad entrance, doubling, higher notes or a particular dynamic lift. Honor any musical repetition the user specifically requests; do not add words or a new section to create contrast.
+
 ## Recurrence, surprise and continuity
 
 Do not automatically repeat a one-time disclosure or calm every bridge. A real second verse can change its supporting rhythm while the vocal or instrumental motif remains recognizable. A bridge can sustain urgency and change foreground instead of lowering force; an instrumental continuation can complete the preceding thought without adding lyric. Select this behavior from the supplied structure and current brief, not from an admired song's sequence.

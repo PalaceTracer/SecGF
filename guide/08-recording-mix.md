@@ -44,6 +44,12 @@ A chosen source's delayed or reverberant continuation may contribute rhythm or h
 
 Check what happens on chord changes and cuts. Continuing old chord tones can intentionally rub against new harmony, release before it, or be shortened; those are different designs. Total silence stops tails, whereas accompaniment rests may leave them sounding. A dense sustained image can be the intended texture, just as sharp separation can. Do not automatically shorten every source or make every return wider.
 
+## Give clarity a chosen sound
+
+Identify how the selected voice and ensemble should share attention: coordinated attacks, register, phrasing, balance or intentional blend can make the intended tune perceptible. The vocal can be direct, reverberant, layered or distant; clarity does not automatically select dry close miking or a narrow stereo field. The desired amount of processing is part of the musical choice, not a deduction from a physical setting in the lyric.
+
+Describe the audible result and source relationship rather than inventing exact level differences, hardware settings or room measurements. The Style paragraph need not explain the scene or claim that a mix will make a statement understandable.
+
 ## Written image audit
 
 Allocate foreground or shared attention, width, depth, roughness and persistence to the relevant sources and moments. Remove global contradictions; preserve intentional blend. Directness is independent of force and note length. A sustained dry source can remain near; a clear attack can have a quieter long tail behind it. None of these written choices establishes an internal signal path or a rendered result. No playback or measurements are required.

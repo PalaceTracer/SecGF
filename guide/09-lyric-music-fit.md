@@ -20,6 +20,12 @@ Keep explicit lyric requirements in their own scope: which words, line breaks, i
 
 The same existing repeated words can keep a melody, vary its contour, move through different harmony or retain the same arrangement. Choose the relationship for this song without inventing words or an extra refrain. A musical phrase may span more than one printed line, and a coherent groove can continue through a breath.
 
+## Separate text instructions from sound instructions
+
+Treat a required word, syllable range, scene or repeated pair as a constraint on the lyric. Honor a requested genre, vocal mode, tempo or instrument as a musical instruction. On an open brief, make suitable musical proposals without presenting them as if the user had specified them. The finished words inform stress, breath and meaning; the sound direction can be chosen across the open palette. Do not derive a numerical tempo from how slowly an action in the lyric occurs.
+
+For a sung brief, articulate a recognizable pitched verse behavior and fit it to the existing words. A repeated closing pair may have the same or varied melody and support; neither reading adds or changes lyric text. Preserve an explicit musical repetition when requested.
+
 ## Word priority inside an ensemble
 
 Clear consonant onsets/releases, suitable note duration, register allocation and selected phrase space can protect a key word. Neither solo singing nor sparse accompaniment is compulsory. A collective melody may own the text; separate parts need coordinated word timing or a deliberate text allocation. Never invent call-response lyrics, new characters or syllabic refrains to fill an ensemble design.

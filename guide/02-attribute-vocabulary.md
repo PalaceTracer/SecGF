@@ -60,6 +60,27 @@ Choose an actual musical direction rather than an unspecified neutral accompanim
 
 Do not choose acoustic guitar, a slow few-chord loop, a narrow verse, root-only bass or dry sparse production merely because the words are narrative. The same relevance standard applies to every familiar design. Dense singing can inhabit continuous electronic or band activity; articulate arrangement need not be thin. Retain any of these choices when they actually serve this brief.
 
+## Build a distinctive musical identity
+
+A useful direction describes what carries motion, what carries the sung melody, how the bass and harmony relate, and how the ensemble occupies space. Choose the relationships that distinguish this song; the list is not a required sentence order. If a genre label is useful, pair it with the time, instrumental behavior and vocal treatment that make that direction concrete. An original organization can be described without a genre label.
+
+Explore materially different musical organizations for an open brief: a regular pulse can support offbeat harmonic accents or an independent melodic bass; a broken percussion pattern can run beneath a longer sung phrase; a full ensemble can move as coordinated chords or as independent lines. These are partial craft possibilities, not complete arrangements or a rotation. Compare what changes in time, harmony, melody and ensemble—not just which instrument plays the same role. Keep a familiar direction when it genuinely fits the current brief.
+
+## Partial sound-building examples
+
+These short fragments illustrate different musical relationships. They are not complete Style paragraphs, a list of favorite genres or a sequence to follow; select and adapt only what suits the current song.
+
+| Musical decision | Different possible relationships |
+| --- | --- |
+| Pulse and bass | An every-beat kick supports an offbeat bass figure; alternatively, broken drum accents move around a sustained bass line. |
+| Harmony | A low pedal holds while inner voices move; alternatively, bass movement leads a sequence of changing chord voicings. |
+| Sung melody | A recurring pitched arc spans several beats; alternatively, a sung interval gesture returns with changing phrase endings. |
+| Sources | A sequenced synth carries rhythmic motion under sustained chords; alternatively, interlocking amplified parts share rhythm and melody. |
+| Development | A continuous texture changes its harmonic route; alternatively, the same motif shifts between independent sources. |
+| Recording image | A reverberant lead remains intelligible above clear attacks; alternatively, several voices share foreground within a stable wide image. |
+
+A selected style may need different relationships from these illustrations. Describe its musical behavior rather than attaching a label to an unchanged arrangement.
+
 ## Selection and optional enrichment
 
 Follow the single workflow in [10](10-style-compiler.md). A tight brief can proceed directly. If meaningful choices remain, consider organizations that differ in time, pitch, part responsibility or form, not just instrument names. No fixed candidate count. Compare requirements, lyric/performance fit, musical coherence, useful distinctiveness and character cost. A familiar design can win.

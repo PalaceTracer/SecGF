@@ -14,6 +14,12 @@ The apparent **half-time** or **double-time** relationship is a perception of ac
 
 An **every-beat kick** gives a low anchor on each beat; a **half-time backbeat** spreads the strong counter-accent across a broader interval. These can appear in alternating sections at one tempo, or coexist when their roles are clear. Name the change in perceived weight, optionally alongside a useful genre/style descriptor; a reference label alone does not establish the pattern: “The verse keeps spacious kick placements and a broad snare; the refrain puts a firm kick on every beat while its upper subdivisions stay brisk.” Choose this contrast only when the lyric's arrival benefits from it. A long narrative verse can also use every-beat anchors with thin accompaniment, and a refrain can retain broad accents.
 
+## Match time to music and singing
+
+Choose a pulse and rhythmic feel because they serve the selected musical direction and accommodate the phrases. A line's syllable count does not determine a BPM, and a scene's physical pace does not measure the recording's tempo. A brisk pulse can support held sung notes; a slower pulse can carry quick, clearly pitched syllables. Use an exact number when explicitly requested or when it makes a meaningful musical difference, not as an explanation of lyric content.
+
+Give bass a deliberate job where it matters: reinforce selected accents, propel the rhythm with an independent pattern, trace harmonic movement, sustain a pedal, or carry a melody. A kick may align with, alternate with, overlap or be absent from that part. Describe the chosen attacks, pitch movement and duration rather than assuming root notes on every downbeat.
+
 ## Meter, subdivision, and recurring placement
 
 **Meter** groups beats into repeating cycles; **subdivision** splits a beat into smaller placements. A listener may hear a regular four-beat frame, a three-beat turn, or a deliberately uneven cycle. Choose grouping by the brief and compatible phrase design, with the same musical-fit standard for familiar and unfamiliar meters. Specify it when the detail matters; unfamiliarity alone is not a reason to reject it. For a short prompt, “four-beat pulse” or “rolling three-beat cycle” often communicates more than a fraction alone.

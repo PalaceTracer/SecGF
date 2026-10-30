@@ -45,6 +45,12 @@ These source families describe production possibilities, not fixed emotional pro
 
 For acoustic/electronic coexistence, decide whether sources share, double, alternate or independently carry rhythmic, harmonic and melodic responsibilities. Describe the relation and timbral interaction that matters to the current song. Do not make both families compete for every chord, attack, and lead answer simply to demonstrate a hybrid. Dense sung words may coexist with continuous independent accompaniment through suitable articulation, register and staggered peaks. Use gaps when alternation is the chosen character, not as an automatic remedy.
 
+## Turn source choices into an arrangement
+
+Name a source family when its sound is important, then give it a role. A repeating electronic figure might carry the subdivision while a separate bass line changes pitch; an amplified ensemble might distribute rhythm and melody across independent parts; acoustic sources might contribute pulse, sustained harmony or a melodic counterline. These are selectable partial relationships, not genre recipes or preferred instrument lists.
+
+Choose how attacks and sustain interact. A source can stay present throughout, hand off a motif, double it, change its envelope or leave an intentional space. The number of sources and degree of processing are decisions for the selected sound. If word clarity matters, coordinate register, articulation and balance; do not infer that the arrangement must have only one instrument.
+
 ## Roles and interaction map
 
 | Role | Candidate audible design | Watch for |

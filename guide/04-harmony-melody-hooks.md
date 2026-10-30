@@ -64,6 +64,12 @@ Voicing, inversion and harmonic rhythm are separate. Inversion changes the lowes
 
 Harmony need not be a continuous chord bed. Bass and melody can define intervals that imply or withhold harmonic grounding. A drone holds a center while upper notes change its tension; it is not the same as cycling a chord set. A repeated accompaniment figure can retain attack rhythm while its notes take different harmonic routes. The current brief decides whether harmonic simplicity, richness, ambiguity or directed closure is useful.
 
+## Compose the pitch relationship
+
+A chord cycle, pedal, changing bass route, sequence of cadences or through-developing harmony can organize a song. Decide whether harmonic rhythm follows the vocal phrase, crosses it or stays independent. Choose voicing and movement to support the selected sound, without translating each image or statement into a chord explanation.
+
+A verse needs a positive sung melodic behavior when singing is intended. Choose a direction, interval gesture, length of phrase or rhythmic relationship to the pulse; the recognizable idea can return with different endings or move through changing harmony. Instrumental parts may double that melody, answer it, carry a separate motif or remain harmonically supportive. No one relationship is necessary for every verse.
+
 ## Phrase organization and motif transformation
 
 A recurring pitched cell can be extended, contracted, sequenced or moved to a new harmonic setting. A longer phrase may cross several bars; several short cells may form one sentence. State the chosen relation rather than equating every line break with a bar or requiring all phrases to have equal length. In intended sung verses retain a recurring definite melodic identity at phrase or section scale as the melody develops through the text.

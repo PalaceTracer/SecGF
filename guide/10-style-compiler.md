@@ -34,6 +34,14 @@ Each final Style paragraph requires exactly 1,000 characters. Develop consequent
 
 Return STYLE OF MUSIC, CHARACTER COUNT, EXCLUDE and RATIONALE SONG TITLE. The Style is one positive paragraph inside a fenced text block; the remaining fields are outside the fence. Derive the brief original title from the lyrics and intended sound. Verify the final Style count with a tool.
 
+## Build the Style paragraph from musical decisions
+
+Select the direction first, then state the sound as relationships: rhythmic movement and low-end behavior; harmonic or melodic motion; source roles and timbres; sung delivery; development and recording image where they define the song. A useful genre label may accompany these details. Choose the most meaningful relationships for the song rather than filling every category or repeating a stock list.
+
+Use positive musical instructions in STYLE OF MUSIC. If a particular avoidance is necessary, put it in EXCLUDE. Do not fill the Style field with a list of omitted instruments, rules about the writer's method, explanations of the lyric scene or claims that a chosen tempo proves the scene's pace. Translate a goal such as intelligibility into the chosen vocal and ensemble relationship.
+
+For intended singing, include a definite pitched verse behavior. After the final wording is complete, count the exact paragraph with a tool. If the count is not exactly 1,000, revise meaningful musical detail and recount; do not label a different number as 1,000. If the tool is unavailable, disclose the unmet count check rather than presenting it as verified.
+
 ## Pitched singing does not prescribe musical simplicity
 
 A definite sung identity does not require narrow range, three notes, identical repeated phrases, tonic resolution, simple harmony, gentle accompaniment or a higher refrain. A recurring melodic idea can sequence, extend, vary its rhythm or transform through the text. Choose its span and motion to suit this song. Exact scale degrees, fixed BPM and chord formulas are deliberate composition proposals only when useful; do not invent them as proof that the verse will sing. Clarify the intended melody without unnecessary note-level micromanagement.
@@ -59,14 +67,16 @@ No extra commentary, sentence quota, concluding genre classification or listenin
 
 ## Counting and delivery gate
 
-Count the exact string to be pasted. For a UTF-8 file with no terminal newline:
+Count the exact final string to be pasted. If using Python, put the actual draft in a UTF-8 file with no terminal newline and count it with a tool:
 
 ```python
 from pathlib import Path
 style = Path("style.txt").read_text(encoding="utf-8")
-print(len(style))
-print(len(style.encode("utf-16-le")) // 2)
+print("Characters:", len(style))
+print("UTF-16 units:", len(style.encode("utf-16-le")) // 2)
 ```
+
+The file content must be the final Style paragraph itself, not this instruction or a summary. If the measured character count is not 1,000, edit the paragraph and run the count again. Copy the same final text into the fenced block; any later change requires another count.
 
 Unicode code points and UTF-16 units can differ for some symbols. Avoid unnecessary ornamental symbols that create counting ambiguity. Exactly 1,000 characters is the user's current production constraint, not a claim about every interface implementation. Do not introduce a conflicting minimum or range. A rejected field is an interface issue to report honestly, not permission to falsify the count.
 

@@ -34,6 +34,12 @@ For an open sound brief, check that the chosen organization reflects an actual e
 
 For intended singing, verify that the proposed verse includes a concrete pitched melodic behavior selected for this song, rather than a generic claim that it is melodic. Verify that the text's line length, recurrence and scene have not been treated as a genre or arrangement instruction. Preserve a deliberate match when it fits the user's brief. Remove private selection or compliance language from the Style paragraph; keep the audible choices.
 
+## Sound-content check
+
+Privately check that the paragraph gives the chosen direction an audible identity: how it moves, what carries melody and harmony, how its selected parts interact, and how the voice is performed. The important details vary by song. Remove lyric-scene explanations and internal compliance commentary. A precise tempo or setting may be a chosen musical proposal; do not present a guessed number as a measured source fact. Retain musical choices the current brief actually requires.
+
+Confirm an intended sung verse has a selected pitched melodic behavior. Confirm that a repeated lyric phrase was not automatically turned into the same arrangement decision used for other songs. Necessary avoidances go in EXCLUDE. Count the final Style paragraph after all edits and report the result actually measured.
+
 ## Final delivery
 
 Finished lyrics unchanged. Intended singing includes recurring pitched verse or verse-equivalent behavior; actual refrains only. Speech, chant, whisper and shouts need explicit intent or intentional tags. Artist/work/geographic/persona shortcuts and researchIDs do not enter complete Style examples or final Style. The writer never requests or evaluates audio.
