@@ -17,8 +17,8 @@ Technical research distinguishes pitch, vocal-fold behavior, and vocal-tract res
 | Lead | One centered voice, alternating leads, or a collective line. | Who must be understood here? |
 | Double | A quieter unison shadow of the lead. | Where should a line gain weight without new words? |
 | Harmony | Another pitch under or above the lead. | Is support continuous, phrase-local, structural or absent, and which line owns the tune? |
-| Answer | A phrase or wordless sound in a gap. | What can respond without covering the story? |
-| Space | Near/dry foreground versus distant/wide support. | Does distance change at the lyric turn? |
+| Answer | A phrase or wordless sound following or overlapping another part. | How do its timing, register and text allocation relate to the lead? |
+| Space | Direct, reverberant, blended or independently placed voices. | How do depth and width support the chosen vocal organization? |
 
 When useful, map vocal roles privately: who owns the recurring pitched tune, how any supporting lines relate to it, and whether their role stays stable or changes. Collective, alternating or solo configurations are available; assign support timing only when it matters. “Intimate solo” and “continuous equal-level group” conflict unless the prompt assigns them to different moments.
 
@@ -75,6 +75,12 @@ Choose pitched harmonies, group configurations, doubles or processed vocal textu
 
 Do not add a spoken verse to achieve intimacy, a shout to achieve energy, or a duet to imitate a liked song. Read any reference's Style and Lyrics performance tags as separate evidence. If the current brief requires a special section, state the boundary explicitly; avoid global wording that spreads its treatment across the whole song.
 
+## Make the sung melody the voice's own direction
+
+A recording-position or diction instruction does not specify whether the verse is sung. For an intended sung verse, describe a recurring pitched musical behavior: a selected contour, interval motion, phrase span or relation to the pulse. It may be restrained or forceful, connected or sharply articulated, and may vary while retaining its musical identity. These choices need not imply the same pitch range or a repeated note count for every song.
+
+The instrumental melody and the singer may double, answer or move independently. Naming a piano, guitar or synth motif does not replace the sung-verse instruction. Locate speech-adjacent delivery only when the user explicitly requests it or supplies an intentional section tag; otherwise preserve a clearly pitched verse.
+
 ## Range, register, and contour
 
 **Pitch height** is where the notes lie; **tessitura** is the region holding most phrases; **register impression** is perceived weight and manner of phonation. A high note need not sound thin, and a low note need not sound forceful. Do not make “deep” carry pitch, darkness, mood, and identity at once. Choose the relative vocal span, phrase organization and register for this song. Low or high placement, broad or compact motion, local leaps or sustained arcs are available; no verse-to-higher-refrain sequence is required. Relative directions are useful when the actual melody and comfortable range are unknown.
@@ -82,6 +88,12 @@ Do not add a spoken verse to achieve intimacy, a shout to achieve energy, or a d
 A continuous climb, an audible register break, a narrow sung contour, and a wide leap are different events. Put the change where the lyric needs it. Specify the selected verse contour, interval movement, phrase span or rhythmic relation rather than leaving its musical behavior abstract. Technical register terms can help private analysis; the paragraph describes the intended contour and color. [Register-shift research](https://pmc.ncbi.nlm.nih.gov/articles/PMC4167751/) shows why pitch and phonatory state should not be collapsed into one adjective.
 
 **Ask:** What recognizable melodic behavior should the verse have, and how does its contour relate to the accompaniment and text? Decide whether any high point, repeated destination, change of register or stable range is actually needed; each is a choice, not a built-in sequence.
+
+## Describe a melodic performance
+
+Combine a chosen pitched behavior with its timing and delivery when these define the song. Possible independent decisions include a rising or falling phrase, a recurring leap, repeated notes with changing endings, phrases spanning the bar, sustained vowels against active percussion, and a syllabic tune with a definite pitch path. These are building blocks, not default tunes or a required sequence.
+
+A statement about a dry voice, consonants or mix position is not a melody. Likewise, a piano or guitar motif does not establish the singer's notes unless the chosen vocal relationship is stated. The verse may be clearly sung over quiet or forceful, sparse or full accompaniment. Develop only an existing refrain and preserve the lyric's words.
 
 ## Tone color and phonation
 
@@ -138,13 +150,17 @@ Solo lead plus backing is one configuration, not the foundation of every song. T
 
 An [arranging organization documented by the Barbershop Harmony Society](https://www.barbershop.org/intro-to-barbershop-what-is-barbershop) places the melody in the second-highest part of a four-part unaccompanied texture. That specific documented example shows why “highest voice equals lead” is not universal. A new inner-tune design here is an original implementation, not a claim that every close-harmony ensemble is that tradition.
 
-Decide existing text ownership: coordinated same words, actual phrases distributed between parts, or permitted overlap. A group response does not authorize inventing a response line; imitation does not authorize duplicating words that the supplied lyric has only once. With no permission to repeat text, a second part may sustain an existing assigned vowel, take another existing phrase where structurally available, or the design can omit imitation. Wordless material, character exchanges and special modes require the current brief's permission rather than historical genre convention.
+Decide existing text ownership: coordinated same words, actual phrases distributed between parts, or permitted overlap. A group response does not authorize inventing a response line; imitation does not authorize duplicating words that the supplied lyric has only once. With no permission to repeat text, a second part may sustain an existing assigned vowel, take another existing phrase where structurally available, or the design can omit imitation. Pitched wordless texture may serve an open brief without adding lyric words; respect explicit constraints. Character exchanges and special speech modes need current intent or intentional tags rather than historical genre convention.
 
 ## Recurring pitch without a compulsory rise
 
 A restrained sung verse can have a definite compact contour; a continuously developing sung passage can transform its recurring cell instead of repeating a whole tune. Keep that positive pitch cue during compression. If harmony changes, the phrase can retain stress rhythm, directional shape or a clear destination while adapting pitches to the new support. It need not preserve every absolute pitch.
 
 Register, force, grain, ornament, duration and number of parts are independent. An actual refrain can remain level, narrow, more intricate, quieter, reharmonized or extended in duration. A song without one needs no substitute refrain. An unaccompanied or thinning texture stays pitched; a large ensemble remains sung unless an explicit brief or intentional tag calls for speech, chant, whisper or shout at a named section.
+
+## Develop a pitched vocal identity
+
+For an intended sung verse, decide what the singer actually does with pitch and time: a phrase may travel over a sustained accompaniment, move in rhythmic counterpoint to a repeating figure, span multiple written lines, or develop a recurring motif with altered endings. Specify a selected behavior, not just the singer's proximity or an instrument's melody. Add register, force, diction, harmony or processing only as they serve that behavior. Repeated words can have varied musical settings; a repeated musical idea need not repeat the words. Use the actual lyric structure and any intentional performance tags.
 
 ## Compatibility and prompt budget
 

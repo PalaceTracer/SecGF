@@ -26,6 +26,12 @@ Treat a required word, syllable range, scene or repeated pair as a constraint on
 
 For a sung brief, articulate a recognizable pitched verse behavior and fit it to the existing words. A repeated closing pair may have the same or varied melody and support; neither reading adds or changes lyric text. Preserve an explicit musical repetition when requested.
 
+## Preserve the words while designing the music
+
+Instructions that shaped the lyric's sentence style, imagery, syllable range or repeated ending establish the text to be sung. They do not automatically specify a speech-like vocal, a particular ensemble, restrained dynamics, a fixed harmonic rhythm or an instrumental gap. A musical request or intentional performance tag applies at its stated scope; otherwise choose a suitable sung organization from the open palette.
+
+Treat words and music as related choices: place stresses and breaths in a feasible sung phrase, then choose groove, melody, harmonic movement and source roles for the selected direction. The Style paragraph describes those audible decisions; it does not need to explain the lyric's scene or restate the lyric-writing rules.
+
 ## Word priority inside an ensemble
 
 Clear consonant onsets/releases, suitable note duration, register allocation and selected phrase space can protect a key word. Neither solo singing nor sparse accompaniment is compulsory. A collective melody may own the text; separate parts need coordinated word timing or a deliberate text allocation. Never invent call-response lyrics, new characters or syllabic refrains to fill an ensemble design.

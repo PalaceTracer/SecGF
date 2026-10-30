@@ -36,6 +36,18 @@ Use the actual lyric structure. A drum rest can leave voices and sustained parts
 
 Continuous motion can come from a sequenced pattern under long sung phrases, independent bass and inner lines, coordinated ensemble attacks or a changing harmonic route. These are alternatives, not instructions to transfer one band arrangement to other sources. Fullness may arise through blended sustain, collective phrasing or several active parts; it does not require constant loudness or a long source list. Word clarity may use coordinated onsets, register, articulation, phrasing or balance without requiring dry vocals, sparse backing or gap-only replies.
 
+## Compare different musical engines
+
+These partial mechanisms support private exploration and are not complete prompt recipes:
+
+- **Pulsed electronic motion:** decide whether a recurring kick, syncopated bass figure, sequenced upper part or percussion subdivision carries forward motion. Shape sustained tones and vocal phrases against that engine; a change of synth patch alone does not change the groove's organization.
+- **Interlocking ensemble motion:** compare shared accents with independent lines that overlap, imitate or answer. Specify which part owns the recognizable line and which creates rhythmic or harmonic counterweight.
+- **Group-vocal organization:** a melody can be presented in unison, reinforced in harmony, exchanged among singers or surrounded by sustained parts. Select an arrangement of the supplied words and any requested voices; do not add response lyrics.
+- **Phrase-led or developmental motion:** cadence, recurring motif, a transforming texture, additive layers or deliberate stasis can organize a whole passage without requiring a predictable chorus build. Fit any structural move to actual lyrics.
+- **Active mix space:** foreground clarity can coexist with overlapping parts, distortion, stereo width or reverberation. Decide what remains legible and which timed or spectral relationships provide separation.
+
+Use catalog entries and their cited scope notes when a specific tradition's documented practice matters. These alternatives are creative construction choices, not universal genre definitions or required variation.
+
 ## Select a useful relation, then compile
 
 A specialist device earns space through its job in this song, not its sophistication. Recognizable pitched verse identity may operate at phrase or section scale while melody develops. Preserve finished words and actual refrains; no speech, chant, whisper or shouts without explicit intent or intentional tags. Complete Style responses follow Chapter10's four fields and exact tool-counted character requirement; these explanations are not additional output fields. The writer works from text only and never requests or evaluates audio.

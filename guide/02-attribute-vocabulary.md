@@ -28,6 +28,12 @@ Use only consequential questions. This is not a checklist to fill, taxonomy, can
 
 The familiar strategy of one persistent identity plus one meaningful change remains useful for some songs. It is not the planning default. Coherence can instead come from interdependent lines, stable ritual repetition, a sequence of evolving cadences, changing episodes, continuous timbral process or another justified organization. These are explanatory possibilities, not replacement profile slots. Do not compare all of them on every song.
 
+## Compare organizations by how they work
+
+When a brief leaves room, sketch possible organizations privately before choosing a favorite: identify the time-keeping principle, how pitch and harmony move, and which voices or instruments lead and interact. Compare choices by the actual musical relationships rather than by swapping instrument names. For example, steady dance propulsion with a sustained vocal, rhythmically displaced ensemble lines, and a cadence-led vocal ensemble make different demands on timing, harmony and form. These are incomplete thought tools, not a menu or default shortlist. A specific direction may need no alternatives.
+
+Evaluate each possibility against explicit sound requests and the actual words first; then consider confirmed preferences, performance fit, musical coherence and the space available in the paragraph. If multiple designs fit, select the one with the most convincing musical reason for this song; a familiar sound may remain the best. Research relevant catalog entries by their mechanisms when useful, including categories outside recent outputs. Catalog labels represent discovery resources, not a ranked preference list, and overlapping labels need not imply different organizations.
+
 ## How dimensions interact
 
 - **Pulse is not activity.** A slower sung arc can cross fast broken percussion; a lively melody can work without a repeating drum beat. Specify the layer carrying motion.
@@ -80,6 +86,12 @@ These short fragments illustrate different musical relationships. They are not c
 | Recording image | A reverberant lead remains intelligible above clear attacks; alternatively, several voices share foreground within a stable wide image. |
 
 A selected style may need different relationships from these illustrations. Describe its musical behavior rather than attaching a label to an unchanged arrangement.
+
+## Turn a direction into interacting parts
+
+After selecting a suitable style or original organization, work out its musical engine: what establishes time, how any low-end part moves, how harmony changes or holds, what the sung melody does, and which sound sources supply motion or sustain. Describe enough of those relationships for the chosen direction to be recognizable. A style label can help when it is meaningful, but it does not establish these behaviors on its own.
+
+For an open brief, explore different engines in the catalog and compare their interaction, not just their instruments. A regularly pulsing dance pattern, interlocking amplified ensemble, rhythmically broken electronic texture and phrase-led ensemble can organize the same lyric in materially different ways. These are examples of possibilities, not preferred categories or required alternatives. A quiet arrangement, full ensemble or other organization remains available when it fits the current brief.
 
 ## Selection and optional enrichment
 

@@ -81,11 +81,27 @@ A form describes relations between actual phrases and sections. The examples bel
 
 One persistent identity with one meaningful change can work well, but is only one option. Coherence can instead come from several interacting lines, recurring cadential relations, a sustained process or a stable frame. Do not turn the diagnostic list into eight required alternatives.
 
+## Organize a return without imposing an arrangement
+
+A repeated closing phrase may share its earlier melodic identity while its bass motion, harmony, supporting lines or mix remain stable or change. An ensemble can continue under the voice, support it in unison, introduce a counterline or leave it exposed. Choose the relationship that suits this song rather than treating a repeated pair as an instruction to remove the instruments.
+
+Musical development can happen through continuing rhythmic motion, a changed voicing, a moving inner line, an altered vocal phrase, changing density or deliberate stasis. Such choices may extend across several lyric lines; they do not require a new word, a compulsory build or a new refrain.
+
 ## Different timescales, real lyric eligibility
 
 Meter, phrase, harmonic arrival and source process need not share boundaries. A long sung arch can cross repeated accompaniment cells; a cadence can finish before percussion reaches its next cycle. Specify a shared landmark only where the design needs one. A singer-led passage can pass to strict instrumental time after a completed thought if that space is authorized; no beat interlude is automatically added.
 
 A new perspective can preserve the same tune and change harmony, or preserve harmony and change articulation, or leave both stable. A repeated thought may acquire meaning through context without a production lift. Sadness, resolve or acceptance do not choose a universal form. An ending may continue its established weight, stop, dissolve, suspend or withdraw according to the actual brief.
+
+## Keep the ensemble and melody independent of text repetition
+
+When words recur, choose the vocal melody and accompaniment separately. A repeated pair can use a consistent sung phrase while drums, bass, harmony or counterlines continue; it may instead receive a scoped change in source role, accent or voicing. A contrasting section can be quieter, more active, harmonically different or stable in density. The written lyric does not require a final exposed voice, a full-band lift or a particular entry order.
+
+Describe the actual relationship rather than prescribing an arbitrary limit on simultaneous pitched parts. Consistent texture and gradual development are both valid when musically intended.
+
+## Develop without assuming a lift
+
+Select a development principle that fits the existing text: a recurring framework may retain its energy while its inner line changes; a harmonic destination may reshape the accompaniment; a sequence may accumulate or shed parts; a melody may transform over continuous rhythm; or contrasting passages may reconnect through a shared motif. A stable setting can also be the deliberate choice. Identify the point of change only if the words or brief support it, and do not convert a repeated pair into an invented section. Describe the chosen change in sound rather than explaining a lyric scene.
 
 ## Written form audit
 

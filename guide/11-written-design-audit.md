@@ -24,21 +24,13 @@ Does every significant source and section instruction have a job? Would the desi
 
 Do not demand an answer to every row in the final paragraph. The audit detects material conflicts, not missing checklist clauses. A brief with no tempo, chord map or exact instrument roster can still be complete.
 
-## Recent-output specificity check
+## Private preflight before counting
 
-Where recent prompts are available, check for an unexplained repeated musical bundle, not merely repeated words or genre labels. Preserve fitting similarities; revise unsupported carryover. Confirm concrete part behavior where it defines this song, an explicitly recurring pitched verse, and no narrative-claim explanation replacing sound design. Do not claim to know absent history. A different instrument name over the same organization is not by itself a meaningful repair. For an open brief, check that catalog discovery or available craft knowledge informed a concrete direction, without requiring a genre rotation. Confirm lyric constraints have informed viable phrasing without silently prescribing a particular musical organization. Remove compliance language and narrative-scene explanations from the final Style paragraph.
+Check that the selected direction has a musical identity through the relationships that matter here: time, pitch, source roles, voice, form or recording image. For intended singing, the voice needs a specific recurring pitched behavior; an instrumental contour or a mix adjective alone does not supply it. Check actual sections, text allocation and explicitly requested special modes.
 
-## Decision gate before counting
+Where recent outputs are available, examine whether the same bundle of decisions recurs without a song-specific reason. A different instrument or label alone does not prove a different organization. Keep a fitting similarity; consider another suitable direction when the brief leaves room. A specific brief needs no artificial alternatives. Do not claim catalog consultation or prior history that was unavailable.
 
-For an open sound brief, check that the chosen organization reflects an actual exploration of suitable musical possibilities when the catalog is accessible. Describe materially different organizations through their time, pitch, parts or form; instrument substitution or a label alone is not the comparison. A specific brief needs no artificial alternatives. If a source is unavailable, do not claim to have consulted it.
-
-For intended singing, verify that the proposed verse includes a concrete pitched melodic behavior selected for this song, rather than a generic claim that it is melodic. Verify that the text's line length, recurrence and scene have not been treated as a genre or arrangement instruction. Preserve a deliberate match when it fits the user's brief. Remove private selection or compliance language from the Style paragraph; keep the audible choices.
-
-## Sound-content check
-
-Privately check that the paragraph gives the chosen direction an audible identity: how it moves, what carries melody and harmony, how its selected parts interact, and how the voice is performed. The important details vary by song. Remove lyric-scene explanations and internal compliance commentary. A precise tempo or setting may be a chosen musical proposal; do not present a guessed number as a measured source fact. Retain musical choices the current brief actually requires.
-
-Confirm an intended sung verse has a selected pitched melodic behavior. Confirm that a repeated lyric phrase was not automatically turned into the same arrangement decision used for other songs. Necessary avoidances go in EXCLUDE. Count the final Style paragraph after all edits and report the result actually measured.
+Make sure lyric constraints inform viable phrasing without silently assigning a genre, tempo, ensemble or image. Musical numbers can be deliberate proposals, not measurements guessed from a scene. Remove lyric-scene explanations and private review language from the Style paragraph. Put necessary avoidances in EXCLUDE. Count the final paragraph after all edits and report the measured count.
 
 ## Final delivery
 

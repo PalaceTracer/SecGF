@@ -69,13 +69,19 @@ Choose how attacks and sustain interact. A source can stay present throughout, h
 
 **Register handoff** and simultaneous layering create different textures; neither is intrinsically preferable. A high figure can disappear when the lead moves high, then return when the voice descends. A low pad can recede when bass becomes active. “The high pluck answers only in vocal gaps” encodes this as an audible arrangement rule. If the prompt budget is tight, one such interaction outranks a long list of source names.
 
+## Coordinate active sources
+
+Choose source roles in relation to each other. A rhythmic layer may use short attacks while a harmonic layer sustains; an independent bass line can move below a vocal contour; a counterline can cross the vocal phrase rather than wait for its end. A full band or layered electronic texture can retain continuous movement while the voice stays intelligible through distinct timing, register or balance.
+
+Describe the identity and job of consequential sources, including distortion, envelope or articulation when these define the sound. Doubling, sustained layers and foreground exchange are available choices; none needs to occur only in a closing phrase. If a simple arrangement is chosen, specify what makes its few parts musically distinctive rather than adding unused instruments.
+
 ## Hook carrier, handoff, and doubling
 
 Source hierarchy can change as well as source identity. A bass tone may carry the repeating identity rather than act only as low support; specify its articulation and pitch role, then let drums support or answer it. Do not infer kick alignment from bass distortion. A piano and another melodic source may briefly share foreground during an instrumental passage, then yield to one sung lead. This local equality does not mean every part should be equally prominent throughout.
 
 Likewise, a percussion figure can remain the continuity cue while guitars, electronics or sustained chords change around it. Describe the recurring attack behavior before its exact source if the pattern is the point. A recording credit establishes participation only; it cannot establish source timing, envelope, foreground position or hook ownership. The anonymous production research supplies some documented role decisions and many unresolved ones; new allocations must remain proposals fitted to the finished lyric.
 
-Distinguish three arrangements. A **reply** adds a figure after a lead phrase. A **handoff** gives an established melody to a different source while its first carrier rests. A **double** plays the same melodic contour together with the carrier. Identify the motif by contour or rhythm so recognition survives a timbre change. These options are selectable; the new song does not need all three.
+Distinguish three arrangements. A **reply** adds a figure after a lead phrase. A **handoff** passes an established melody to another source; the first carrier may rest or overlap briefly during the transfer. A **double** plays the same melodic contour together with the carrier. Identify the motif by contour or rhythm so recognition survives a timbre change. These options are selectable; the new song does not need all three.
 
 | Choice | Original design move | What stays recognizable |
 | --- | --- | --- |
@@ -84,7 +90,17 @@ Distinguish three arrangements. A **reply** adds a figure after a lead phrase. A
 | Double | “A restrained guitar doubles the held refrain melody, then rests for the next verse.” | Sung hook remains foreground; reinforcement is local. |
 | Envelope development | “The same clipped keyboard motif lengthens into ringing notes on the return.” | Carrier and motif remain; note duration changes. |
 
-A wordless processed vocal can occupy the hook or answer role when the brief requests it; keep it distinct from the intelligible sung lead. Source handoff is especially useful when another layer would overload the lead register. Doubling may supply emphasis, but its first statement can remain exposed. State the intended foreground, shared attention or blend when material. One source yielding space is an option; coequal lines and continuous doubling can also be deliberate.
+A wordless processed vocal can occupy a hook or answer role when the chosen direction supports it; keep it distinct from the intelligible sung lead. Source handoff is especially useful when another layer would overload the lead register. Doubling may supply emphasis, but its first statement can remain exposed. State the intended foreground, shared attention or blend when material. One source yielding space is an option; coequal lines and continuous doubling can also be deliberate.
+
+## Turn source selection into interaction
+
+For each important source, decide whether it supplies rhythmic drive, a harmonic bed, a recognizable melodic thread, a second independent line, or a changing texture. The same source may change jobs, and multiple sources may share a job by doubling or blending. To describe a fuller image, give overlapping parts different attacks, registers or durations where that helps distinguish them; coordinated simultaneous attacks can instead supply collective weight. A sustained distorted electronic layer can move internally while percussion and voice continue; acoustic and electronic parts can also coexist without one becoming decoration. These are selectable behaviors, not a gear checklist.
+
+## Give a fuller arrangement distinct responsibilities
+
+A full texture can keep several parts active while giving them different rhythms, pitch ranges, note lengths or functions. A rhythm source can maintain motion, a bass can shape the harmony, and another part can carry sustained chords or an independent motif under singing. The number and prominence of parts are choices for the sound, not a test of how many syllables the lyric contains.
+
+Choose audible envelopes and colors: a short articulated attack can coexist with a sustained or distorted layer; a melodic source can continue under the voice or answer it; a doubled part can create weight. This describes possible relationships, not a requirement to add layers. An intentionally sparse arrangement remains a valid direction when requested or justified.
 
 ## Ensemble organization can be the primary identity
 

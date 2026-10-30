@@ -76,6 +76,12 @@ A recurring pitched cell can be extended, contracted, sequenced or moved to a ne
 
 Literal repetition preserves pitches and rhythm; transposition preserves their interval pattern in another pitch region; freer variation can retain only a rhythm, opening gesture or destination. Specify the recognition needed. A held refrain note, a transformed verse cell, a low repeated interval or a cadence can have different responsibilities. No universal requirement for a single exposed hook, new chord, highest note or larger final return.
 
+## Keep melodic ownership explicit
+
+The vocal line, bass and upper figure can carry different musical identities at the same time. A bass melody may move through chord changes while the singer repeats a recognizable pitched phrase; an upper line may double selected notes, sustain a contrasting tone or play its own rhythm. Decide whether they overlap, exchange roles or move together for the chosen song.
+
+A tune described only as an instrumental figure leaves the sung melody unspecified. For intended singing, add the voice's own contour, interval behavior or rhythmic phrase relation. Treat examples as composition choices: no fixed contour, chord count or final resolution is a universal default.
+
 ## Independent lines are more than answers
 
 An **answer** follows a phrase. A **double** reinforces its contour simultaneously. **Counterpoint** coordinates independent melodic lines; an independent countermelody may run at the same time as the sung tune. **Imitation** introduces a recognizable cell later in another part. These relationships need not produce the same foreground hierarchy.
@@ -83,6 +89,16 @@ An **answer** follows a phrase. A **double** reinforces its contour simultaneous
 When words need priority, different register, note duration, attack, dynamics or staggered phrase peaks can help distinguish independent parts. Gap-only answers are one option, not a prohibition of simultaneous melody. Equal lines can intentionally share attention; a tune can lie inside an ensemble rather than always at its top. Do not request independent counterpoint and exact unison from the same pair at the same moment.
 
 Original fragments: “The sustained sung arch overlaps a clipped rising instrumental line, with their peaks separated”; “A second pitched part takes up the cell after its first entrance while the earlier line continues”; “Bass and voice define the harmonic path through their moving intervals.” These are design proposals, not claims of a tradition's complete grammar or guaranteed generator behavior. If a chosen relation needs more explanation, research it proportionately; no omitted specialist file is required.
+
+## Develop harmony and melody separately
+
+A vocal melody can be supported by a chord cycle, a moving bass, a held tone with changing upper voices or a less settled harmonic path. Select how frequently harmony turns and whether voice and bass move together, independently or toward a shared destination. A passing chord is one option; harmonic development does not need to stop at one decorative color or a fixed two-bar pattern.
+
+An instrumental figure may double the tune or provide a separate idea. Neither its register nor its contour specifies what the singer actually sings. When the verse is sung, include a concrete pitched vocal behavior and its relationship to the chosen accompaniment. An actual repeated passage can retain or vary its pitch shape and harmonic support according to the current brief.
+
+## Develop pitch over more than one timescale
+
+Choose whether harmony turns at phrase boundaries, moves underneath a continuing phrase, sustains a pedal while inner voices change, or follows another purposeful route. A recurring vocal idea can return at a different pitch, start on a different beat, continue across a line break, or change its ending while remaining recognizable. An instrumental line may double it, answer it, or pursue an independent contour simultaneously. These are alternatives to compare, not a progression or a required hook; choose the relationship that belongs to the selected song.
 
 ## Diagnostic questions
 

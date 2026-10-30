@@ -51,6 +51,12 @@ Percussion instructions are strongest when each sound has a job:
 | Transition | What announces the next section? | “A short rising fill gives way to a clean downbeat.” |
 | Absence | Which expected hit disappears to create a gap? | “One-beat drum break exposes the final word.” |
 
+## Build a rhythmic engine
+
+Choose what establishes the felt beat, what marks subdivisions and what moves against them. Percussion may supply a recurring pulse, a backbeat, syncopated accents, a rolling pattern or a flexible framework. Bass may reinforce a landing, anticipate it, sustain across several accents or carry an independent pitched pattern. Specify an interaction that supports the selected direction; counting syllables does not by itself choose any one of these grooves.
+
+The pulse can continue through a vocal phrase, breathe with it or change at an actual musical boundary. A repeated lyric line does not automatically require the same bass note, the same percussion pattern or the removal of instruments. A stable groove is equally valid when that stability serves the song.
+
 ## Bass: rhythmic role, note length, and register
 
 Bass connects rhythm and harmony. It can reinforce roots, trace a countermelody, hold a pedal tone while chords change, anticipate a downbeat, or leave a deliberate hole around a kick. Possible bass responsibilities include **anchor**, **motor**, **reply**, and **drone**; they may combine, change by passage, or be absent. An anchor joins large accents and sustains the harmonic center. A motor makes frequent short attacks. A reply enters the gaps after another part. A drone persists through changing upper harmony. These are functions, not sound-source categories.
@@ -75,17 +81,23 @@ These are options. Every song does not need ducked sub, deep sustained bass, or 
 
 ## Breaks, subdivision changes, and abrupt silence
 
-A transition may relate to an existing lyric event, a musical phrase, a harmonic arrival or an independent process; the song can also continue without a transition. Choose whether anticipation, interruption, weight change or withdrawal helps the actual design. A reference's buildup/drop labels do not add those sections to a different lyric. A proposed instrumental break belongs in the private plan and can be named in Style when authorized by the current brief; leave the finished lyrics intact.
+A transition may relate to an existing lyric event, a musical phrase, a harmonic arrival or an independent process; the song can also continue without a transition. Choose whether anticipation, interruption, weight change or withdrawal helps the actual design. A reference's buildup/drop labels do not add those sections to a different lyric. An instrumental break can be proposed when it fits the current brief and accommodates the finished words; respect any explicit constraint against it and leave the lyrics intact.
 
 **Subdivision change:** smaller attacks can become more frequent over the same large beat. “Upper ticks tighten toward the return while kick spacing stays fixed” separates felt tension from a tempo ramp. The reverse move can open room for a long sung vowel. Increasing attack rate on every layer can obscure the beat and text; assign the change to the layer doing the transition.
 
-**Riser or fill:** a short upward swell or tightening percussion figure can announce a return. Choose one clear function and end it before the new impact. “A thin rising noise ends at the cut” differs from “a drum fill carries through the entrance.” Neither is a universal requirement for an electronic passage. Use an exact subdivision such as sixteenths only when its rate matters enough to justify the detail.
+**Riser or fill:** a short upward swell or tightening percussion figure can announce a return. Choose its function and whether it ends at the arrival or continues through the entrance. “A thin rising noise ends at the cut” differs from “a drum fill carries through the entrance.” Neither is a universal requirement for an electronic passage. Use an exact subdivision such as sixteenths only when its rate matters enough to justify the detail.
 
 **Break:** removing drums can expose voice, acoustic grain, or the existing hook. Choose what continues through the drum break: full sustained ensemble, independent bass, exposed voice or another authorized texture. Retain definite verse melody in a sung passage. Sparse backing does not require a spoken lead. A break can retain bass or residual room sound; name the surviving role when it makes the contrast work.
 
 **Micro-silence:** define its scope and location. An all-sound cut stops direct sources and effect tails; a percussion stop leaves the other material continuous. Put a brief gap after the lead's completed vowel if the word should remain intact. “Cut all layers for half a beat after the last word, then restore the low pulse beneath the hook” makes the interruption's duration and function clear. A beat fraction is a design choice, not a default or guaranteed sample-accurate control. Repeated cuts may fragment dense singing, so select a few meaningful locations.
 
 **Return:** decide whether the established time, bass behavior and ensemble remain stable, change or transform. An arrival can change articulation, rhythmic weight, pitch movement or another selected relation without requiring expansion. **Withdrawal:** removing attacks while a melody or chord sustains can provide an ending distinct from another large arrival; specify whether the last tail rings out or cuts.
+
+## Make rhythmic motion independent of vocal spacing
+
+A continuous rhythmic bed may carry momentum while the singer holds or varies pitched phrases. Choose how the main pulse and subdivision relate: a regular kick can coexist with offbeat chord attacks, broken percussion can move against sustained bass, or live drums and bass can share some accents while retaining separate patterns. A selected groove can stay present through an existing repeated line; the singer does not need an instrumental dropout to be heard.
+
+Think of tempo, felt rhythmic weight and the frequency of small attacks as separate choices. Faster subdivisions do not automatically require faster vocal delivery. A broad backbeat does not require a slow metronome tempo. Use these distinctions to describe the selected groove rather than repeatedly assigning a moderate pace as a consequence of the lyric.
 
 ## Shared time, meter and phrase span
 
@@ -108,6 +120,10 @@ Straight and unequal subdivisions can coexist when assigned deliberately to diff
 Bass can articulate a harmonic root, connect chords, sustain a pedal or carry an independent tune. Its harmonic destination does not determine its kick alignment. Keep a clipped onset pattern while changing a selected refrain landing to root support, or preserve pitch while changing note lengths. A root-position chord is not necessarily tonic closure. If an upper common tone supplies continuity, bass can move or shorten beneath it; a foreground bass motif need not double every kick.
 
 If the arrangement is pulse-free or unaccompanied, no kick–bass relationship is required. If bass and sung melody jointly imply harmony, continuous chord pads may be unnecessary. This is an available organization, not a rule to make every song economical. These original implementations generalize questions in the separately retrievable catalog, not measurements or source reconstructions.
+
+## Develop a time organization
+
+Choose what sustains motion: recurring kick pulses, interlocking percussion, a repeating pitched figure, a bass line, collective accents, or phrasing without a fixed beat. Then decide how the other parts relate: align selected attacks for weight, offset them for propulsion, or let long tones cross the grid. A dance pulse can stay steady while subdivision, bass articulation or accents change; a rhythmically active ensemble can retain a stable perceived tempo. If bass and kick coexist, their timing and tails are design choices, not compulsory lockstep. Select just the relations that make this song's motion identifiable.
 
 ## Diagnostic questions before compiling
 

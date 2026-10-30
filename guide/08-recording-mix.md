@@ -30,6 +30,12 @@ Low-end descriptions should distinguish **weight** from **note definition**. A l
 
 Layer count alone does not determine perceived density. Consider how long sounds should persist and how their attacks should overlap. Four short elements that take turns may feel clear; two sustained sources in the same register may feel opaque. Ask whether a layer should be present continuously, only on selected beats, between vocal lines, at transitions, or solely at the refrain. Specify the time pattern rather than using density as a mood instruction: “continuous chord and bass movement supports a long sung arc; short percussion attacks retain definition while the ensemble width stays stable across the return.” A lean texture is equally available when selected.
 
+## Clarity within an active image
+
+An active arrangement can keep its chosen vocal intelligible through text timing, articulation, balance and complementary frequency ranges. A direct voice with a short ambience, a reverberant voice with distinct attacks, or a shared vocal ensemble can each be a deliberate image. Choose the specific relation that matches the music; clarity alone does not choose dryness, distance, loudness or a limit on simultaneous instruments.
+
+Do not infer compression, room size, decibel differences or the amount of reverb from a lyric's physical setting. When processing matters, describe the intended audible result and which source carries it. Exact settings are optional deliberate production choices, not evidence of control by a text prompt.
+
 ## Saturation, distortion, and surface texture
 
 Saturation can add harmonics, thickness, and edge; obvious distortion can change the apparent source identity and reduce note clarity. The Ableton effect reference documents increasing drive as increasing distortion or saturation in several devices. A text prompt should identify where roughness belongs: “slight grain on the lead at peaks,” “mild harmonic edge on the bass,” or “fuzzy chord layer behind a clean vocal.” Asking for the entire mix to be both pristine and heavily distorted makes its hierarchy unclear. A clean foreground with textured backing can be coherent; a raw performance in a carefully separated mix can also be coherent if the axes are named separately.
@@ -50,9 +56,19 @@ Identify how the selected voice and ensemble should share attention: coordinated
 
 Describe the audible result and source relationship rather than inventing exact level differences, hardware settings or room measurements. The Style paragraph need not explain the scene or claim that a mix will make a statement understandable.
 
+## Decide how a chosen image carries the arrangement
+
+A dense arrangement can retain a clear lead through purposeful register, attack and balance, while processed space can surround a pitched voice. A deliberately blended ensemble may instead distribute attention among related parts. Decide which elements anchor the center, which move in width or depth, and whether delay or reverberation continues across a transition when those details matter. None of these choices guarantees a rendered mix; they describe the intended recording.
+
 ## Written image audit
 
 Allocate foreground or shared attention, width, depth, roughness and persistence to the relevant sources and moments. Remove global contradictions; preserve intentional blend. Directness is independent of force and note length. A sustained dry source can remain near; a clear attack can have a quieter long tail behind it. None of these written choices establishes an internal signal path or a rendered result. No playback or measurements are required.
+
+## Allocate depth without reducing motion
+
+Depth can be distributed across several active sources: a sung lead may have a clear core and an audible reverb tail, while instruments occupy distinct registers or share a deliberately blended background. Rhythmic attacks can stay crisp under sustained harmony. A stable wide image, a close direct image or a change of distance are selectable outcomes.
+
+Describe an intended foreground or shared focus along with the source giving the space its character. Clear diction does not prescribe a dry vocal, recessed accompaniment or minimal layer count. Use negative exclusions only when the current design actually requires them.
 
 ## Compile a coherent image
 
