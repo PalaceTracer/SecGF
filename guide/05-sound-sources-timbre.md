@@ -45,6 +45,12 @@ These source families describe production possibilities, not fixed emotional pro
 
 For acoustic/electronic coexistence, decide whether sources share, double, alternate or independently carry rhythmic, harmonic and melodic responsibilities. Describe the relation and timbral interaction that matters to the current song. Do not make both families compete for every chord, attack, and lead answer simply to demonstrate a hybrid. Dense sung words may coexist with continuous independent accompaniment through suitable articulation, register and staggered peaks. Use gaps when alternation is the chosen character, not as an automatic remedy.
 
+## Performed band character when requested
+
+When the brief calls for a naturally performed band sound, specify performance roles: distinct electric rhythm and lead guitar articulations, bass movement that supports or moves independently of the kick, and acoustic drum-kit attacks with phrase-responsive cymbal and snare dynamics. Let the lead carry a pitched melody with natural phrase shaping; decide whether backing voices are selective or continuous. Choose the polish and room character for the song. These are selectable design moves, not a default arrangement or a guarantee of musicians or generated sound.
+
+Synths, pads and doubled parts are intentional timbral choices. If an electronic layer is wanted, assign it a clear role and level; if the user wants a guitar-led band without it, name desired band sources positively and put necessary avoidance in EXCLUDE. Do not assume that a synthesizer caused a particular result or that melodic rock must omit electronics.
+
 ## Turn source choices into an arrangement
 
 Name a source family when its sound is important, then give it a role. A repeating electronic figure might carry the subdivision while a separate bass line changes pitch; an amplified ensemble might distribute rhythm and melody across independent parts; acoustic sources might contribute pulse, sustained harmony or a melodic counterline. These are selectable partial relationships, not genre recipes or preferred instrument lists.

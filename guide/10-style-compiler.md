@@ -76,6 +76,7 @@ Use this as a private repair guide, not as language to include in the Style para
 | --- | --- |
 | A generic direction or a list of instruments | Identify the selected style or organization through its rhythmic behavior and a consequential source or harmonic relationship. |
 | An instrumental melody but no sung-verse behavior | Describe the singer's pitched contour, interval motion or phrase rhythm, and its relation to the accompaniment. |
+| A performed band is wanted but electronic and band roles are indistinct | Specify the chosen guitar, bass, drum and vocal performance relationships; retain electronic layers only when they serve the song, and scope necessary avoidance separately. |
 | A natural vocal is wanted but the draft fixes every note and stacks all parts | Choose a recurring sung idea with phrase-level variation and deliberate, appropriately balanced vocal support; describe the intended voice and space. |
 | Conflicting entrances, source counts or pitch directions | Map each consequential part to its entrance, continuity and exit; distinguish source from additional layer and vocal pitch from instrumental intervals. Resolve scope or choose one instruction. |
 | A repeated lyric pair but an unexplained instrumental dropout | Decide whether the ensemble continues, changes roles or becomes exposed; retain a dropout if the current brief calls for it. |
